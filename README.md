@@ -22,16 +22,19 @@ Kuş göçü veri seti (`bird_migration_data.csv`) üzerinde gerçekleştirilen 
 SQLite Sakila veri tabanı üzerinde SQL sorguları ve Python Pandas kütüphanesi kullanılarak gerçekleştirilen veri işleme (DataFrame işlemleri) adımlarını ve notebook dosyalarını içerir.
 
 ### 4. GraphRAG Task (GraphRAG Görevi)
-Türkçe Wikipedia makalelerinden bilgi grafiği (Knowledge Graph) ve vektör indeksleri oluşturup bunları Neo4j üzerinde saklayan, Google Gemini API desteğiyle hem yerel hem küresel sorulara yanıt verebilen terminal tabanlı gelişmiş bir GraphRAG sistemidir.
+Türkçe Wikipedia makalelerinden bilgi grafiği (Knowledge Graph) ve vektör indeksleri oluşturup bunları Neo4j üzerinde saklayan, Google Gemini API desteğiyle hem yerel hem küresel sorulara yanıt verebilen, gelişmiş bir **Flask Web ve terminal tabanlı GraphRAG** sistemidir.
 
 ---
 
 ## 🛠️ Kurulum ve Çalıştırma
 
-Gerekli Python bağımlılıklarını kurmak için ilgili proje dizinlerindeki veya ana dizindeki adımları izleyebilirsiniz.
+Bu depodaki görevler bağımsız çalışma alanları (dizinler) şeklinde yapılandırılmıştır. Her bir projenin kendine has araçları, bağımlılıkları ve çalıştırma yöntemleri mevcuttur:
 
-Örnek olarak GraphRAG projesini çalıştırmak için:
-1. `GraphRAG Task` dizinine gidin.
-2. Gerekli kütüphaneleri yükleyin: `pip install -r requirements.txt`
-3. `.env.example` dosyasından bir `.env` dosyası türetip Neo4j ve Gemini API anahtarlarınızı girin.
-4. `python main.py` komutuyla pipeline'ı başlatın.
+- **GraphRAG Task (Flask Web & Pipeline)**:
+  1. `GraphRAG Task` dizinine gidin.
+  2. Gerekli kütüphaneleri yükleyin: `pip install -r requirements.txt`
+  3. `.env.example` dosyasından bir `.env` dosyası oluşturup API ve veri tabanı kimlik bilgilerinizi girin.
+  4. Web arayüzünü başlatmak için `python app.py` komutunu çalıştırıp tarayıcınızdan `http://localhost:5000` adresine gidin. Detaylı bilgi için [GraphRAG README](file:///GraphRAG%20Task/README.md) dosyasını inceleyebilirsiniz.
+  
+- **Veri Analizi ve Veri Tabanı Görevleri (Jupyter Notebooks)**:
+  * **5 ML Projects**, **Data Visualization Task** ve **SQL Task** dizinlerindeki Jupyter Notebook (`.ipynb`) dosyalarını ve analiz raporlarını incelemek ya da çalıştırmak için bilgisayarınızda Jupyter Notebook / JupyterLab ortamının veya VS Code Jupyter eklentisinin kurulu olması gerekmektedir. İlgili dizinlerdeki notebook dosyalarını açarak hücreleri sırayla çalıştırabilirsiniz.
