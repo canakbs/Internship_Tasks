@@ -1,0 +1,807 @@
+[
+  {
+    "chunk_id": "chunk_8922d2f3",
+    "article_title": "Yapay zekâ",
+    "text": "Yapay zekâ (İngilizce: Artificial intelligence, AI); hesaplama sistemlerinin öğrenme, akıl, problem çözme, algılama ve karar verme gibi tipik olarak insan zekâsıyla ilişkilendirilen görevleri yerine getirme yeteneğidir. Dördüncü Sanayi Devrimi'nin en yaygın özelliklerinden biri olarak kabul edilir. İlk ve ikinci kategoriler arasındaki ayrım genellikle seçilen kısaltmayla ortaya çıkar. Güçlü yapay zeka genellikle yapay genel zekâ (İngilizce: Artificial general intelligence kelimelerinin kısaltılmışı olarak: AGI) olarak etiketlenirken, doğal zekayı taklit etme girişimleri yapay biyolojik zekâ (İngilizce: Artificial biological intelligence: ABI) olarak adlandırılır. Önde gelen yapay zekâ ders kitapları, alanı zeki etmenlerin çalışması olarak tanımlar: Çevresini algılayan ve hedeflerine başarıyla ulaşma şansını en üst düzeye çıkaran eylemleri gerçekleştiren herhangi bir cihaz. Toplum arasında, yapay zekâ kavramı genellikle insanların insan zihni ile ilişkilendirdiği öğrenme ve problem çözme gibi bilişsel eylemleri taklit eden makineleri tanımlamak için kullanılır."
+  },
+  {
+    "chunk_id": "chunk_a4f12540",
+    "article_title": "Yapay zekâ",
+    "text": "llikle insanların insan zihni ile ilişkilendirdiği öğrenme ve problem çözme gibi bilişsel eylemleri taklit eden makineleri tanımlamak için kullanılır.\nMakineler daha becerikli hâle geldikçe, zekâ gerektirdiği düşünülen görevler genellikle yapay zekâ etkisi olarak bilinen bir fenomen olan yapay zekâ tanımından çıkarılır. Tesler'in teoremindeki bir espri, \"Yapay zekâ henüz yapılmamış şeydir\" der. Örneğin, optik karakter tanıma yapay zekâ olarak değerlendirilen şeylerin dışında tutulur, rutin teknoloji hâline gelir.\nGenellikle yapay zekâ olarak sınıflandırılan modern makine yetenekleri satranç ve Go gibi stratejik oyun sistemlerinde, en üst düzeyde rekabet eden insan konuşmasını anlama, poker ya da otonom arabalar gibi kusurlu-bilgi oyunlarını içerik dağıtım ağındaki akıllı yönlendirmeyi ve askeri simülasyonları kapsar."
+  },
+  {
+    "chunk_id": "chunk_4d205b2f",
+    "article_title": "Yapay zekâ",
+    "text": "masını anlama, poker ya da otonom arabalar gibi kusurlu-bilgi oyunlarını içerik dağıtım ağındaki akıllı yönlendirmeyi ve askeri simülasyonları kapsar.\nYapay zekâ çalışmaları sıklıkla insanın düşünme yöntemlerini taklit eden yapay algoritmalar geliştirmeye yöneliktir, ancak bununla sınırlı değildir. Öğrenebilen ve gelecekte insan zekâsından bağımsız gelişebilecek bir yapay zekâ kavramına doğru yeni yönelimler oluşmaktadır. Bu yönelim, insanın evreni ve doğayı anlama çabasında kendisine yardımcı olabilecek belki de kendisinden daha zeki, insan ötesi varlıklar meydana getirme düşünün bir ürünüdür. Bu düş, 1920'li yıllarda yazılan ve sonraları Isaac Asimov'u etkileyen modern bilimkurgu edebiyatının öncü yazarlarından Karel Čapek'in eserlerinde dışa vurmuştur. Karel Čapek, R.U.R. adlı tiyatro oyununda yapay zekâya sahip robotlar ile insanlığın ortak toplumsal sorunlarını ele alarak 1920 yılında yapay zekânın insan aklından bağımsız gelişebileceğini öngörmüştür.\n== Tanım =="
+  },
+  {
+    "chunk_id": "chunk_cea6e8fc",
+    "article_title": "Yapay zekâ",
+    "text": "lar ile insanlığın ortak toplumsal sorunlarını ele alarak 1920 yılında yapay zekânın insan aklından bağımsız gelişebileceğini öngörmüştür.\n== Tanım ==\nYapay zekâ (YZ), öğrenme, akıl yürütme, problem çözme, algılama ve karar verme gibi insan bilişsel işlevlerini taklit edebilen sistemler geliştiren bir bilgisayar bilimi dalıdır. Bu sistem, algılama, öğrenme, çoğul kavramları bağlama, düşünme, fikir yürütme (belirtme), sorun çözme, iletişim kurma ve karar verme gibi yeteneklere sahip olmalıdır. Ayrıca, bu yapay zekâ sistemi düşüncelerinden tepkiler üretebilmeli (eyleyici yapay zekâ) ve bu tepkileri fiziksel olarak dışa vurabilmelidir.\n== Hedefler =="
+  },
+  {
+    "chunk_id": "chunk_14395b33",
+    "article_title": "Yapay zekâ",
+    "text": " bu yapay zekâ sistemi düşüncelerinden tepkiler üretebilmeli (eyleyici yapay zekâ) ve bu tepkileri fiziksel olarak dışa vurabilmelidir.\n== Hedefler ==\nZekâyı simüle etme (veya oluşturma) genel problemi, alt problemlere ayrılmıştır. Bu alt problemler, araştırmacıların zeki bir sistemden sergilemesini beklediği belirli özellikler veya yeteneklerden oluşur. Aşağıda açıklanan özellikler, yapay zekâ araştırmalarında en çok dikkat çeken konular arasında yer almakta ve bu araştırmaların kapsamını belirlemektedir.\n=== Akıl yürütme ve problem çözme ===\nYapay zekânın ilk araştırmacıları, insanların bulmacaları çözerken veya mantıksal çıkarımlar yaparken kullandığı adım adım akıl yürütmeyi taklit eden algoritmalar geliştirmiştir. 1980'lerin sonları ve 1990'larda, belirsiz veya eksik bilgiyle başa çıkmak için olasılık ve ekonomi kavramlarını kullanan yöntemler geliştirilmiştir."
+  },
+  {
+    "chunk_id": "chunk_d606ad2b",
+    "article_title": "Yapay zekâ",
+    "text": " 1980'lerin sonları ve 1990'larda, belirsiz veya eksik bilgiyle başa çıkmak için olasılık ve ekonomi kavramlarını kullanan yöntemler geliştirilmiştir.\nBu algoritmaların birçoğu, büyük ölçekli akıl yürütme problemlerini çözmek için yetersizdir, çünkü \"kombinatoryal patlama\" denilen bir durum yaşarlar: Problemler büyüdükçe bu algoritmaların çalışması üstel bir şekilde yavaşlar. Hatta insanlar bile erken dönem yapay zekânın modelleyebildiği adım adım akıl yürütmeyi nadiren kullanır. İnsanlar, çoğu sorunlarını hızlı ve sezgisel yargılarla çözerler. Doğru ve verimli akıl yürütme, hâlâ çözülememiş bir problemdir.\n=== Bilgi temsili ==="
+  },
+  {
+    "chunk_id": "chunk_3cb0d0cd",
+    "article_title": "Yapay zekâ",
+    "text": "nsanlar, çoğu sorunlarını hızlı ve sezgisel yargılarla çözerler. Doğru ve verimli akıl yürütme, hâlâ çözülememiş bir problemdir.\n=== Bilgi temsili ===\nBilgi temsili ve bilgi mühendisliği, yapay zekâ programlarının sorulara akıllıca yanıt vermesini ve gerçek dünya ile ilgili çıkarımlarda bulunmasını sağlar. Formel bilgi temsilleri; içerik tabanlı indeksleme ve bilgi erişimi, sahne yorumlama, klinik karar destek sistemleri, bilgi keşfi (büyük veritabanlarından \"ilginç\" ve eyleme geçirilebilir çıkarımlarda bulunma) gibi birçok alanda kullanılmaktadır.\n== Tarihçe =="
+  },
+  {
+    "chunk_id": "chunk_9abc60ba",
+    "article_title": "Yapay zekâ",
+    "text": "emleri, bilgi keşfi (büyük veritabanlarından \"ilginç\" ve eyleme geçirilebilir çıkarımlarda bulunma) gibi birçok alanda kullanılmaktadır.\n== Tarihçe ==\nYapay zekâ tarihi, antik çağlarda, usta zanaatkarlar tarafından zeka veya bilinç kazandırılan yapay varlıklara ilişkin mitler, hikâyeler ve söylentilerle başladı. Mekanik ya da \"formel\" akıl yürütme üzerine çalışmalar, antik çağda filozoflar ve matematikçilerle birlikte devam etti. Mantık alanındaki bu çalışmalar, Alan Turing'in algoritmalar teorisinin temelini oluşturdu. Turing'in teorisi, \"0\" ve \"1\" gibi basit sembolleri kullanarak bir makinenin, insan aklının gerçekleştirebileceği her türlü matematiksel akıl yürütmeyi simüle edebileceğini öne sürdü. Bu teori, sibernetik, bilgi teorisi ve nörobiyoloji gibi alanlardaki keşiflerle birleşerek, araştırmacılara \"elektronik bir beyin\" inşa etme olasılığını düşünmeye yöneltti. Öne çıkan çalışmalar arasında, 1943'teki Warren McCullouch ve Walter Pitts'in \"yapay nöronlar\" tasarımı ve Turing'in 1950'de yayımladığı, \"makine zekâsının\" mümkün olduğunu gösterdiği Turing testini tanıtan Bilgi İşlem Makineleri ve Zekâ adlı makalesi bulunmaktaydı. Bu dönemde yapılan bu tür araştırmalar, yapay zekânın temel alanlarının ortaya çıkardı."
+  },
+  {
+    "chunk_id": "chunk_b105f6ee",
+    "article_title": "Yapay zekâ",
+    "text": "an Bilgi İşlem Makineleri ve Zekâ adlı makalesi bulunmaktaydı. Bu dönemde yapılan bu tür araştırmalar, yapay zekânın temel alanlarının ortaya çıkardı.\n1956'da Dartmouth College'deki bir atölye çalışmasında yapay zeka araştırma alanı kuruldu. Bu atölyeye katılan araştırmacılar, 1960'larda yapay zekâ alanına liderlik ettiler. Öğrencileriyle beraber bu araştırmacılar, basının \"şaşırtıcı\" olarak nitelendirdiği projeler ürettiler. Bu dönemde bilgisayarlar, dama stratejileri öğrenmiş, cebir problemlerini çözmüş, mantıksal teoremleri kanıtlamış ve İngilizce konuşmuştu. 1950'lerin sonu ve 1960'ların başlarında, hem İngiltere'deki hem de Amerika Birleşik Devletleri'ndeki birçok üniversitede yapay zekâ laboratuvarları kuruldu."
+  },
+  {
+    "chunk_id": "chunk_de1e1bd7",
+    "article_title": "Yapay zekâ",
+    "text": "rin sonu ve 1960'ların başlarında, hem İngiltere'deki hem de Amerika Birleşik Devletleri'ndeki birçok üniversitede yapay zekâ laboratuvarları kuruldu.\n1960'lar ve 1970'lerdeki araştırmacılar, genel zekâya sahip bir makine üretmenin mümkün olduğuna inanıyor ve bunu alanlarının nihai hedefi olarak görüyordu. 1965'te Herbert Simon, \"makinelerin yirmi yıl içinde bir insanın yapabileceği her işi yapabilir hâle geleceği\" tahmininde bulunmuş, 1967'de Marvin Minsky, \"bir nesil içinde ... 'yapay zekâ' sorununun büyük ölçüde çözüleceği\" yorumunu yapmıştı. Ancak bu öngörüler, yapay zekânın geliştirilmesindeki zorlukları göz ardı etmişti. 1974'te Sir James Lighthill'ın eleştirileri ve ABD Kongresi'nin daha somut projelere fon sağlama baskısı nedeniyle, ABD ve İngiltere hükûmetleri keşif amaçlı yapay zekâ araştırmalarına verilen desteği durdurma kararı aldı. Minsky ve Seymour Papert'ın Perceptrons adlı kitabı, yapay sinir ağlarının gerçek dünya problemlerini çözmede etkisiz olduğunu savunmuş ve bu yaklaşım, itibarını kaybetmişti. Bunun sonucunda, yapay zekâ projelerine fon bulmanın zorlaştığı \"yapay zekâ kışı\" adı verilen bir dönem başladı."
+  },
+  {
+    "chunk_id": "chunk_1e394905",
+    "article_title": "Yapay zekâ",
+    "text": "e bu yaklaşım, itibarını kaybetmişti. Bunun sonucunda, yapay zekâ projelerine fon bulmanın zorlaştığı \"yapay zekâ kışı\" adı verilen bir dönem başladı.\n1980'lerin başında yapay zekâ araştırmaları, uzman sistemlerin ticari başarısıyla yeniden canlandı. Uzman sistemler, uzmanların bilgi ve analiz yeteneklerini taklit eden bir tür yapay zekâ programıydı. 1985 yılına gelindiğinde, yapay zekâ pazarı 1 milyar doları aşmıştı. Aynı dönemde Japonya'nın beşinci nesil bilgisayar projesi, ABD ve Britanya hükûmetlerini akademik araştırmalara yeniden fon sağlamaya teşvik etti. Ancak, 1987'de Lisp makinesi pazarının çöküşüyle yapay zekâ tekrar itibar kaybetti ve daha uzun süren ikinci bir \"yapay zekâ kışı\" başladı."
+  },
+  {
+    "chunk_id": "chunk_1a18d975",
+    "article_title": "Yapay zekâ",
+    "text": "şvik etti. Ancak, 1987'de Lisp makinesi pazarının çöküşüyle yapay zekâ tekrar itibar kaybetti ve daha uzun süren ikinci bir \"yapay zekâ kışı\" başladı.\nO zamana kadar yapay zekâ projelerinin büyük kısmı, planlar, hedefler, inançlar ve bilinen gerçekler gibi zihinsel kavramları temsil etmek için yüksek seviyede semboller kullanmaya odaklanmıştı. Ancak 1980'lerde bazı araştırmacılar, bu yaklaşımın insan bilişinin tüm süreçlerini, özellikle algı, robotik, öğrenme ve örüntü tanıma gibi karmaşık süreçleri taklit edemeyeceği konusunda şüphe duymaya başladı. Bu nedenle, \"alt sembolik\" yöntemlere yöneldiler. Rodney Brooks, genel olarak \"temsil\" fikrini reddederek hayatta kalabilen ve hareket edebilen makineler geliştirmeye odaklandı. Judea Pearl ve Lofti Zadeh gibi isimler, eksik ve belirsiz bilgileri mantıksal kesinlik yerine mâkul tahminlerle işleyebilen yöntemler geliştirdi. Ayrıca Geoffrey Hinton ve diğer araştırmacılar, \"bağlantısallık\" ve sinir ağ araştırmalarını yeniden canlandırarak bu alanın gelişimine katkıda bulundu. 1990'da Yann LeCun, evrişimli sinir ağlarının el yazısı ile yazılmış rakamları tanıyabildiğini gösterdi; bu, sinir ağlarının birçok başarılı uygulamasından ilkiydi."
+  },
+  {
+    "chunk_id": "chunk_7c59c0e5",
+    "article_title": "Yapay zekâ",
+    "text": "eCun, evrişimli sinir ağlarının el yazısı ile yazılmış rakamları tanıyabildiğini gösterdi; bu, sinir ağlarının birçok başarılı uygulamasından ilkiydi.\nYapay zekâ, 1990'ların sonları ve 21. yüzyılın başlarında, formal matematik yöntemlerinden yararlanarak ve belirli problemlere özel çözümler geliştirerek itibarını yeniden kazanmaya başladı. Bu \"dar\" ve \"formal\" yaklaşım, araştırmacıların doğrulanabilir sonuçlar üretmesini ve istatistik, ekonomi ve matematik gibi diğer alanlarla iş birliği yapmasını sağladı. 2000'li yıllara gelindiğinde, yapay zekâ araştırmacılarının geliştirdiği çözümler yaygın olarak kullanılmaya başlanmıştı. Ancak 1990'larda bu çözümler genellikle \"yapay zekâ\" olarak adlandırılmıyordu (bu eğilim yapay zekâ etkisi olarak bilinir)."
+  },
+  {
+    "chunk_id": "chunk_aed8d673",
+    "article_title": "Yapay zekâ",
+    "text": " kullanılmaya başlanmıştı. Ancak 1990'larda bu çözümler genellikle \"yapay zekâ\" olarak adlandırılmıyordu (bu eğilim yapay zekâ etkisi olarak bilinir).\nBuna karşın, bazı akademisyenler yapay zekânın ilk hedefinden, yani çok yönlü ve tam anlamıyla zeki makineler yaratma amacından uzaklaştığını düşünmeye başladı. 2002'nin başlarında, bu hedefi yeniden canlandırmak amacıyla yapay genel zekâ (\"AGI\") adı verilen bir alt alan kuruldu. 2010'lara gelindiğinde, yapay genel zekâ araştırmaları için iyi finanse edilen birçok kurum ortaya çıktı.\nDerin öğrenme, 2012'de endüstri standartlarında önemli bir üstünlük sağlayarak yapay zekâ alanında yaygın bir şekilde benimsendi.\nBirçok spesifik görevde diğer yöntemler terk edildi."
+  },
+  {
+    "chunk_id": "chunk_0a5dc1b4",
+    "article_title": "Yapay zekâ",
+    "text": "standartlarında önemli bir üstünlük sağlayarak yapay zekâ alanında yaygın bir şekilde benimsendi.\nBirçok spesifik görevde diğer yöntemler terk edildi.\nBu başarının arkasında daha hızlı bilgisayarlar, grafik işlem birimleri, bulut bilişim gibi donanım geliştirmeleriyle ImageNet gibi dikkatle oluşturulmuş veri kümelerinin de dâhil olduğu büyük miktarda veriye erişim yatıyordu. Derin öğrenmenin bu yükselişi, yapay zekâya olan ilgi ve finansmanda büyük bir artışı tetikledi. 2015-2019 yılları arasında makine öğrenimi araştırmalarındaki toplam yayımlanma sayısında %50'lik bir artış görüldü."
+  },
+  {
+    "chunk_id": "chunk_7ff9a10e",
+    "article_title": "Yapay zekâ",
+    "text": "manda büyük bir artışı tetikledi. 2015-2019 yılları arasında makine öğrenimi araştırmalarındaki toplam yayımlanma sayısında %50'lik bir artış görüldü.\n2016'da, adalet ve teknolojinin yanlış kullanımı gibi etik sorunlar, makine öğrenimi konferanslarında ana gündem maddesi hâline geldi. Bu konularda yapılan yayımlar hızla artarken, yeni finansman kaynakları sağlandı ve birçok araştırmacı kariyerlerini bu alanlara yönlendirdi. Aynı dönemde, yapay zekânın insan çıkarlarına uygun şekilde geliştirilmesini konu alan \"uyum problemi\" akademik bir çalışma alanı olarak ciddiyet kazandı."
+  },
+  {
+    "chunk_id": "chunk_a83c6933",
+    "article_title": "Yapay zekâ",
+    "text": " dönemde, yapay zekânın insan çıkarlarına uygun şekilde geliştirilmesini konu alan \"uyum problemi\" akademik bir çalışma alanı olarak ciddiyet kazandı.\n2010'ların sonları ve 2020'lerin başlarında, yapay genel zekâ üzerine çalışan şirketler dikkat çeken yazılımlar üretmeye başladı. 2015 yılında DeepMind tarafından geliştirilen AlphaGo, oyunun kuralları öğretilerek kendi stratejisini geliştirdi ve dünya şampiyonu Go oyuncusunu yendi. 2020'de OpenAI tarafından çıkarılan GPT-3, insan benzeri yüksek kaliteli metinler üretebilen bir geniş dil modeli olarak dikkat çekti. 30 Kasım 2022'de kullanıma sunulan ChatGPT ise iki ay içinde 100 milyon kullanıcıya ulaşarak tarihin en hızlı büyüyen tüketici yazılımı oldu. 2022 yılı, yapay zekânın geniş kitleler tarafından fark edildiği ve yaygın bir şekilde konuşulmaya başlandığı bir dönüm noktası olarak kabul edildi. Bu yazılımlar, büyük bir yapay zeka patlamasını tetikledi. Büyük ölçekli şirketler yapay zekâ araştırmalarına milyarlarca dolar yatırım yapmaya başladı. AI Impacts'in verilerine göre, 2022 yılında sadece ABD'de yapay zekâya yıllık yaklaşık $50 milyar yatırım yapıldı. ABD'deki yeni bilgisayar bilimi doktora mezunlarının yaklaşık %20'si yapay zekâ üzerine uzmanlaştı. Aynı yıl, ABD'de yapay zekâ ile ilgili 800.000 iş ilanı bulundu. PitchBook araştırmasına göre, 2024'te yeni fon alan girişimlerin %22'si kendilerini yapay zekâ şirketi olarak tanımlıyordu."
+  },
+  {
+    "chunk_id": "chunk_ee5195ea",
+    "article_title": "Yapay zekâ",
+    "text": " 800.000 iş ilanı bulundu. PitchBook araştırmasına göre, 2024'te yeni fon alan girişimlerin %22'si kendilerini yapay zekâ şirketi olarak tanımlıyordu.\n== Gelişim süreci ==\n=== İlk araştırmalar ve yapay sinir ağları ===\nİdealize edilmiş tanımıyla yapay zekâ konusundaki ilk çalışmalardan biri McCulloch ve Pitts tarafından yapılmıştır. Bu araştırmacıların önerdiği, yapay sinir hücrelerini kullanan hesaplama modeli, önermeler mantığı, fizyoloji ve Turing'in hesaplama kuramına dayanıyordu. Herhangi bir hesaplanabilir fonksiyonun sinir hücrelerinden oluşan ağlarla hesaplanabileceğini ve mantıksal ve ve veya işlemlerinin gerçekleştirilebileceğini gösterdiler. Bu ağ yapılarının uygun şekilde tanımlanmaları hâlinde öğrenme becerisi kazanabileceğini de ileri sürdüler. Hebb, sinir hücreleri arasındaki bağlantıların şiddetlerini değiştirmek için basit bir kural önerince, öğrenebilen yapay sinir ağlarını gerçekleştirmek de olası hale gelmiştir."
+  },
+  {
+    "chunk_id": "chunk_da3ee559",
+    "article_title": "Yapay zekâ",
+    "text": "ındaki bağlantıların şiddetlerini değiştirmek için basit bir kural önerince, öğrenebilen yapay sinir ağlarını gerçekleştirmek de olası hale gelmiştir.\n1950'lerde Shannon ve Turing bilgisayarlar için satranç programları yazıyorlardı. İlk yapay sinir ağı temelli bilgisayar SNARC, MIT'de Minsky ve Edmonds tarafından 1951'de yapıldı. Çalışmalarını Princeton Üniversitesi'nde sürdüren Mc Carthy, Minsky, Shannon ve Rochester'le birlikte 1956 yılında Dartmouth'da iki aylık bir açık çalışma düzenledi. Bu toplantıda birçok çalışmanın temelleri atılmakla birlikte, toplantının en önemli özelliği Mc Carthy tarafından önerilen yapay zekâ adının konmasıdır. İlk kuram ispatlayan programlardan Logic Theorist (Mantık kuramcısı) burada Newell ve Simon tarafından tanıtılmıştır.\n=== Yeni yaklaşımlar ==="
+  },
+  {
+    "chunk_id": "chunk_e22a31c7",
+    "article_title": "Yapay zekâ",
+    "text": "asıdır. İlk kuram ispatlayan programlardan Logic Theorist (Mantık kuramcısı) burada Newell ve Simon tarafından tanıtılmıştır.\n=== Yeni yaklaşımlar ===\nDaha sonra Newell ve Simon, insan gibi düşünme yaklaşımına göre üretilmiş ilk program olan Genel Sorun Çözücü (General Problem Solver)'ı geliştirmişlerdir. Simon, daha sonra fiziksel simge varsayımını ortaya atmış ve bu kuram, insandan bağımsız zeki sistemler yapma çalışmalarıyla uğraşanların hareket noktasını oluşturmuştur. Simon'ın bu tanımlaması bilim adamlarının yapay zekâya yaklaşımlarında iki farklı akımın ortaya çıktığını belirginleştirmesi açısından önemlidir: Sembolik Yapay Zekâ ve Sibernetik Yapay Zekâ.\n== Yaklaşımlar ve eleştiriler ==\n=== Sembolik yapay zekâ ==="
+  },
+  {
+    "chunk_id": "chunk_7833a6d4",
+    "article_title": "Yapay zekâ",
+    "text": "ını belirginleştirmesi açısından önemlidir: Sembolik Yapay Zekâ ve Sibernetik Yapay Zekâ.\n== Yaklaşımlar ve eleştiriler ==\n=== Sembolik yapay zekâ ===\nSimon'ın sembolik yaklaşımından sonraki yıllarda mantık temelli çalışmalar egemen olmuş ve programların başarımlarını göstermek için bir takım yapay sorunlar ve dünyalar kullanılmıştır. Daha sonraları bu sorunlar gerçek yaşamı hiçbir şekilde temsil etmeyen oyuncak dünyalar olmakla suçlanmış ve yapay zekânın yalnızca bu alanlarda başarılı olabileceği ve gerçek yaşamdaki sorunların çözümüne ölçeklenemeyeceği ileri sürülmüştür."
+  },
+  {
+    "chunk_id": "chunk_851f474b",
+    "article_title": "Yapay zekâ",
+    "text": "kla suçlanmış ve yapay zekânın yalnızca bu alanlarda başarılı olabileceği ve gerçek yaşamdaki sorunların çözümüne ölçeklenemeyeceği ileri sürülmüştür.\nGeliştirilen programların gerçek sorunlarla karşılaşıldığında çok kötü bir başarım göstermesinin ardındaki temel neden, bu programların yalnızca sentaktik süreçleri benzeşimlendirerek anlam çıkarma, bağlantı kurma ve fikir yürütme gibi süreçler konusunda başarısız olmasıydı. Bu dönemin en ünlü programlarından Weizenbaum tarafından geliştirilen Eliza, karşısındaki ile sohbet edebiliyor gibi görünmesine karşın, yalnızca karşısındaki insanın cümleleri üzerinde bazı işlemler yapıyordu. İlk makine çevirisi çalışmaları sırasında benzeri yaklaşımlar kullanılıp çok gülünç çevirilerle karşılaşılınca bu çalışmaların desteklenmesi durdurulmuştu. Bu yetersizlikler aslında insan beynindeki semantik süreçlerin yeterince incelenmemesinden kaynaklanmaktaydı.\n=== Sibernetik yapay zekâ ==="
+  },
+  {
+    "chunk_id": "chunk_e43bc223",
+    "article_title": "Yapay zekâ",
+    "text": "urulmuştu. Bu yetersizlikler aslında insan beynindeki semantik süreçlerin yeterince incelenmemesinden kaynaklanmaktaydı.\n=== Sibernetik yapay zekâ ===\nYapay sinir ağları çalışmalarının dahil olduğu sibernetik cephede de durum aynıydı. Zeki davranışı benzeşimlendirmek için bu çalışmalarda kullanılan temel yapılardaki bazı önemli yetersizliklerin ortaya konmasıyla birçok araştırmacılar çalışmalarını durdurdular. Buna en temel örnek, Yapay sinir ağları konusundaki çalışmaların Marvin Minsky ve Seymour Papert'in 1969'da yayınlanan Perceptrons adlı kitaplarında tek katmanlı algaçların bazı basit problemleri çözemeyeceğini gösterip aynı kısırlığın çok katmanlı algaçlarda da beklenilmesi gerektiğini söylemeleri ile bıçakla kesilmiş gibi durmasıdır."
+  },
+  {
+    "chunk_id": "chunk_1e381077",
+    "article_title": "Yapay zekâ",
+    "text": "blemleri çözemeyeceğini gösterip aynı kısırlığın çok katmanlı algaçlarda da beklenilmesi gerektiğini söylemeleri ile bıçakla kesilmiş gibi durmasıdır.\nSibernetik akımın uğradığı başarısızlığın temel sebebi de benzer şekilde Yapay Sinir Ağının tek katmanlı görevi başarması fakat bu görevle ilgili vargıların veya sonuçların bir yargıya dönüşerek diğer kavramlar ile bir ilişki kurulamamasından kaynaklanmaktadır. Bu durum aynı zamanda semantik süreçlerin de benzeşimlendirilememesi gerçeğini doğurdu.\n== Uzman sistemler ==\nHer iki akımın da uğradığı başarısızlıklar, her sorunu çözecek genel amaçlı sistemler yerine belirli bir uzmanlık alanındaki bilgiyle donatılmış programları kullanma fikrinin gelişmesine sebep oldu ve bu durum yapay zekâ alanında yeniden bir canlanmaya yol açtı. Kısa sürede Uzman sistemler adı verilen bir metodoloji gelişti."
+  },
+  {
+    "chunk_id": "chunk_06111646",
+    "article_title": "Yapay zekâ",
+    "text": "elişmesine sebep oldu ve bu durum yapay zekâ alanında yeniden bir canlanmaya yol açtı. Kısa sürede Uzman sistemler adı verilen bir metodoloji gelişti.\nUzman sistemler bir konuda belli ön koşullar aynı anda var olduğunda konunun bir uzmanın (bazen ne olasılıkla) ne karar alacağını belirleyen kuralların tümünü içeren bir programı gelen problemlere uygulamak temellidir. Bunun bir avantajı her verilen kararın hangi kurallar uygulanarak verildiğinin kolayca bilinmesi idi. Bu birçok kuralcı bürokratik karar örgütleri için kolayca uygulamalar geliştirilebilmesi demekti. Bu doğal olarak bir otomobilin tamiri için önerilerde bulunan uzman sistem programının otomobilin ne işe yaradığından haberi olmaması da demekti. Buna rağmen uzman sistemlerin başarıları beraberinde ilk ticari uygulamaları da getirdi."
+  },
+  {
+    "chunk_id": "chunk_f00e939a",
+    "article_title": "Yapay zekâ",
+    "text": "ın otomobilin ne işe yaradığından haberi olmaması da demekti. Buna rağmen uzman sistemlerin başarıları beraberinde ilk ticari uygulamaları da getirdi.\nYapay zekâ yavaş yavaş bir endüstri hâline geliyordu. DEC tarafından kullanılan ve müşteri siparişlerine göre donanım seçimi yapan R1 adlı uzman sistem şirkete bir yılda 40 milyon dolarlık tasarruf sağlamıştı. Birden diğer ülkeler de yapay zekâyı yeniden keşfettiler ve araştırmalara büyük kaynaklar ayrılmaya başlandı. 1988'de yapay zekâ endüstrisinin cirosu 2 milyar dolara ulaşmıştı.\n== Doğal dil işleme =="
+  },
+  {
+    "chunk_id": "chunk_f44d4152",
+    "article_title": "Yapay zekâ",
+    "text": "ettiler ve araştırmalara büyük kaynaklar ayrılmaya başlandı. 1988'de yapay zekâ endüstrisinin cirosu 2 milyar dolara ulaşmıştı.\n== Doğal dil işleme ==\nAntropoloji bilimi, gelişmiş insan zekâsı ile dil arasındaki bağlantıyı gözler önüne serdiğinde, dil üzerinden yürütülen yapay zekâ çalışmaları tekrar önem kazandı. İnsan zekâsının doğrudan doğruya kavramlarla düşünmediği, dil ile düşündüğü, dil kodları olan kelimeler ile kavramlar arasında bağlantı kurduğu anlaşıldı. Bu sayede insan aklı kavramlar ile düşünen Hayvan beyninden daha hızlı işlem yapabilmekteydi ve dil dizgeleri olan cümleler yani şablonlar ile etkili bir öğrenmeye ve bilgisini soyut olarak genişletebilme yeteneğine sahip olmuştu. İnsanların iletişimde kullandıkları Türkçe, İngilizce gibi doğal dilleri anlayan bilgisayarlar konusundaki çalışmalar hızlanmaya başladı. Önce, yine Uzman sistemler olarak karşımıza çıkan doğal dil anlayan programlar, daha sonra Sembolik Yapay Zekâ ile ilgilenenler arasında ilgiyle karşılandı ve yazılım alanındaki gelişmeler sayesinde İngilizce olan A.I.M.L (Artificial intelligence Markup Language) ve Türkçe T.Y.İ.D (Türkçe Yapay Zekâ İşaretleme Dili) gibi bilgisayar dilleri ile sentaktik (Örüntü) işlemine uygun veri erişim metotları geliştirilebildi. Bugün Sembolik Yapay Zekâ araştırmacıları özel Yapay Zekâ dillerini kullanarak verileri birbiri ile ilişkilendirebilmekte, geliştirilen özel prosedürler sayesinde anlam çıkarma ve çıkarımsama yapma gibi ileri seviye bilişsel fonksiyonları benzetimlendirmeye çalışmaktadırlar."
+  },
+  {
+    "chunk_id": "chunk_e7ed572b",
+    "article_title": "Yapay zekâ",
+    "text": "liştirilen özel prosedürler sayesinde anlam çıkarma ve çıkarımsama yapma gibi ileri seviye bilişsel fonksiyonları benzetimlendirmeye çalışmaktadırlar.\nBütün bu gelişmelerin ve süreçlerin sonunda bir grup yapay zekâ araştırmacısı, insan gibi düşünebilen sistemleri araştırmaya devam ederken diğer bir grup ise ticari değeri olan rasyonel karar alan sistemler (Uzman sistemler) üzerine yoğunlaştı.\n=== Diyalog bazlı yapay zeka ==="
+  },
+  {
+    "chunk_id": "chunk_46c64d6b",
+    "article_title": "Yapay zekâ",
+    "text": "vam ederken diğer bir grup ise ticari değeri olan rasyonel karar alan sistemler (Uzman sistemler) üzerine yoğunlaştı.\n=== Diyalog bazlı yapay zeka ===\nDoğal dil işleme ve makine öğrenmesi gibi yapay zeka teknolojileri kullanılarak insan ve makine (yazılım) arasında bir diyaloğun sürdürülmesini sağlayan yapay zeka alt dalına \"diyalog bazlı yapay zeka\" (conversational artificial intelligence) denir. Daha önce insanların bilgisayara komut vermesinde kullanılan web, mobil uygulama gibi grafiksel arayüzlerin (GUI) yerine geçmeyi amaçlayan diyalog bazlı arayüzler (CUI) insanların bilgisayara günlük dilde yazarak veya konuşarak komut verebilmesini amaçlar. Günümüzde, chatbotlar ve sesli asistanlar diyalog bazlı yapay zeka alanında sıkça kullanılan teknolojik ürünler olarak karşımıza çıkmaktadır.\n==== Chatbotlar ===="
+  },
+  {
+    "chunk_id": "chunk_8d2f70f1",
+    "article_title": "Yapay zekâ",
+    "text": "hatbotlar ve sesli asistanlar diyalog bazlı yapay zeka alanında sıkça kullanılan teknolojik ürünler olarak karşımıza çıkmaktadır.\n==== Chatbotlar ====\nChatbotlar, diyalog bazlı yapay zekanın günlük hayatta kullanılan bir örneğidir. Kullanıcılar, Türkçeye sohbet robotları olarak geçmiş bu dijital ürünler ile yazışarak belirli bir konuda bilgi alabilir veya uçak bileti almak, banka havalesi yapmak veya bir kitap satın almak gibi günlük işlerini yapabilirler. Chatbotlar, şirketlerin web sitesinde veya mobil uygulamasında yer alabilirler. Bunun dışında chatbotlar, WhatsApp, Facebook Messenger gibi genel mesajlaşma platformlarında veya Google Assistant, Siri gibi sesli asistanlarda da yer alabilirler."
+  },
+  {
+    "chunk_id": "chunk_b8040b29",
+    "article_title": "Yapay zekâ",
+    "text": "chatbotlar, WhatsApp, Facebook Messenger gibi genel mesajlaşma platformlarında veya Google Assistant, Siri gibi sesli asistanlarda da yer alabilirler.\nChatbotlar kullanıcı ile etkileşim kurma yöntemini, arkasında yer alan teknolojik altyapıya göre farklı çeşitlerde oluşturulabilir. Örneğin bir chatbot kullanıcı ile, sadece kullanıcı onunla etkileşime girdiğinde iletişim kuruyorsa reaktif bir chatbottur, eğer bir uyarıcı ile tetiklenerek kullanıcı ile olan diyaloğu başlatan taraf oluyorsa buna proaktif bir chatbot denir. Teknoloji açısından bakılacak olursa, yapay zeka tabanlı chatbotların yanında, doğal dil işleme, makine öğrenmesi gibi yapay zeka teknolojileri kullanılmadan geliştirilen kural tabanlı chatbotlar da kullanılmaktadır. Ancak bu iki tür chatbotun davranışı farklıdır. Kural bazlı chatbotlarda genellikle kullanıcıya belirli seçenekler sunulur ve yaratılan deneyim bu seçeneklerle sınırlı kalır. Yapay zeka tabanlı chatbotlarda ise kullanıcı serbest bir metin yazabilir, chatbotun doğal dil işleme teknolojisi bu metni anlamlandırıp doğru yanıtı belirleyerek kullanıcıya sunar."
+  },
+  {
+    "chunk_id": "chunk_bb3ed9de",
+    "article_title": "Yapay zekâ",
+    "text": " ise kullanıcı serbest bir metin yazabilir, chatbotun doğal dil işleme teknolojisi bu metni anlamlandırıp doğru yanıtı belirleyerek kullanıcıya sunar.\n== Gelecekte yapay zekâ ==\n=== Süper zekâ ve tekillik ===\nSüper zekâ, en parlak ve en yetenekli insan zihninin zekâsını çok aşan bir zekâya sahip varsayımsal bir etkendir. Yapay genel zekâ üzerine yapılan araştırmalar yeterince zeki bir yazılım üretirse, yazılım kendini yeniden programlayabilir ve geliştirebilir. Gelişen yazılım kendini geliştirmede daha da iyi olur ve I. J. Good'un \"zekâ patlaması\" ve Vernor Vinge'in \"tekillik\" olarak adlandırdığı şeye yol açar.\nAncak teknolojiler sonsuza kadar üstel olarak gelişemez ve genellikle S şeklinde bir eğri izler, teknolojinin yapabileceği şeyin fiziksel sınırlarına ulaştığında yavaşlar.\n=== Transhümanizm ==="
+  },
+  {
+    "chunk_id": "chunk_82120228",
+    "article_title": "Yapay zekâ",
+    "text": "ak gelişemez ve genellikle S şeklinde bir eğri izler, teknolojinin yapabileceği şeyin fiziksel sınırlarına ulaştığında yavaşlar.\n=== Transhümanizm ===\nRobot tasarımcısı Hans Moravec, sibernetikçi Kevin Warwick ve mucit Ray Kurzweil, gelecekte insanların ve makinelerin birleşerek her ikisinden de daha yetenekli ve güçlü siborglara dönüşebileceğini öngördüler. Transhümanizm olarak adlandırılan bu fikrin kökleri, Aldous Huxley ve Robert Ettinger'ın yazılarında bahsedilmektedir.\nEdward Fredkin, \"yapay zekânın evrimin bir sonraki adımı\" olduğunu savunmaktaydı; bu fikir ilk olarak Samuel Butler'ın \"Darwin among the Machines\" adlı mektubunda 1863'te ortaya atıldı ve George Dyson tarafından 1998'deki Darwin Among the Machines: The Evolution of Global Intelligence adlı kitabında geliştirildi.\n== Uygulama alanları ==\nYapay zekanın uygulama alanlarının bazı örnekleri şu şekildedir:"
+  },
+  {
+    "chunk_id": "chunk_ce482fcd",
+    "article_title": "Yapay zekâ",
+    "text": "Evolution of Global Intelligence adlı kitabında geliştirildi.\n== Uygulama alanları ==\nYapay zekanın uygulama alanlarının bazı örnekleri şu şekildedir:\nÖnerici sistemler: Kullanıcıların geçmiş davranışlarına dayanarak yeni içerik önerilmesi. Örneğin, sosyal medya sitelerinde yeni arkadaş, mağazalarda başka bir ürün, gazetede başka bir haber önerileri.\nMakine çevirisi: Bir dilde ifade edilen cümleyi farklı bir dile çevirmek. Örneğin, Google Translate, Microsoft Tercüman ve Yandex.Çeviri gibi çevrimiçi araçlar.\nSinyal işleme: Ses ve görüntü gibi sinyallerin işlenerek bilgi çıkarımı. Örneğin, yüz ve ses tanıma.\nProsedürel içerik üretimi: Rassal yöntemler kullanarak yapay içerik üretme. Örneğin, üretimsel müzik ve video oyunlarında prosedürel dünyalar.\nRegresyon analizi: Geçmiş verilere dayanılarak bir değişkenin gelecekteki değerinin tahmin edilmesi. Örneğin, ekonomik öngörüler, üretim miktarı öngörüleri."
+  },
+  {
+    "chunk_id": "chunk_cea1ec5f",
+    "article_title": "Yapay zekâ",
+    "text": "yon analizi: Geçmiş verilere dayanılarak bir değişkenin gelecekteki değerinin tahmin edilmesi. Örneğin, ekonomik öngörüler, üretim miktarı öngörüleri.\nGörüntü işleme: Dijital görüntülerde bulunan objeleri tanıma, yerini bulma, sınıflandırma gibi işlemlerin tümü. Yapay zekadan önce bu işlemler Hough dönüşümü gibi kurala dayalı algoritmalar ile sürdürülürken, günümüzde bu kurallar veriden öğrenilmektedir. Görüntülemenin sık kullanıldığı tıp, biyoloji, otomotiv, üretim gibi alanlarda kullanılmaktadır.\nMakale yazma: Dünyada yapay zeka ile yazılan ilk köşe yazısı 8 Eylül 2020 tarihinde The Guardian gazetesinde yayınlanmıştır. Türkiye'de yapay zekanın yazdığı ilk haber ise Şalom gazetesinde 2018 yılında yayınlanmıştır.\n== Alt dallar ==\n== Ayrıca bakınız ==\n== Notlar ==\n== Kaynakça =="
+  },
+  {
+    "chunk_id": "chunk_6b41edfd",
+    "article_title": "Yapay genel zekâ",
+    "text": "Yapay genel zekâ (YGZ), bir insanın yapabileceği herhangi bir zihinsel görevi başarıyla gerçekleştirebilecek bir makinenin zekasıdır. Günümüzdeki bazı yapay zeka araştırmalarının temel amacıdır ve bilimkurgu ve fütüroloji'de de ortak bir konudur. Bazı araştırmacılar Yapay genel zekâyı \"güçlü yapay zekâ\", \"tam yapay zekâ\" veya bir makinenin \"genel akıllı eylem\" gerçekleştirme kabiliyeti olarak adlandırmaktadır; diğerleri ise sadece bilinci deneyimleyen makineler için \"güçlü yapay zekâ\" tabirini kullanmaktadır.\nBazı kaynaklar güçlü yapay zekâ ile \"uygulamalı yapay zekâ\" (\"dar yapay zekâ\" veya \"zayıf yapay zekâ\" olarak da bilinir) arasındaki ayrımı şöyle vurgular: yazılım kullanarak özel problem çözmek veya muhakeme görevlerini incelemek. Zayıf yapay zekâ, güçlü yapay zekâ'nın aksine, insan bilişsel yeteneklerinin tamamını gerçekleştirmeye yönelik değildir.\n2017 yılı itibarıyla dünya genelinde kırktan fazla kuruluş yapay genel zekâ hakkında aktif araştırmalar yapmaktadır.\n== Gereksinimler =="
+  },
+  {
+    "chunk_id": "chunk_a1f964f6",
+    "article_title": "Yapay genel zekâ",
+    "text": "lik değildir.\n2017 yılı itibarıyla dünya genelinde kırktan fazla kuruluş yapay genel zekâ hakkında aktif araştırmalar yapmaktadır.\n== Gereksinimler ==\nZekâ için çeşitli kriterler belirlenmiştir (bunlardan en önemlisi Turing testi) ancak bugüne kadar herkesi tatmin edecek bir tanım belirlenememiştir. Bununla birlikte, yapay zeka araştırmacıları arasında, genel bir zekâ'nın aşağıdakileri yapması gerektiği hususunda anlaşma vardır:\nGerekçe, strateji kullanmak, bulmacaları çözmek ve belirsizlik altında karar vermek;\nBilgiyi temsil etmek, ortak bilgi dahil;\nPlanlama;\nMakine öğrenimi;\nDoğal dil ile iletişim kurmak;\nve tüm bu becerileri ortak hedeflere yönlendirmek."
+  },
+  {
+    "chunk_id": "chunk_af8d2833",
+    "article_title": "Yapay genel zekâ",
+    "text": "\nBilgiyi temsil etmek, ortak bilgi dahil;\nPlanlama;\nMakine öğrenimi;\nDoğal dil ile iletişim kurmak;\nve tüm bu becerileri ortak hedeflere yönlendirmek.\nDiğer önemli yetenekler arasında, Duyu ve hareket etme (örneğin nesneleri taşıma ve kullanma) yeteneği de bulunur. Bu, tehlikeyi tespit etme ve bunlara müdahale etme yeteneğini de içerir. Zekâ konusundaki birçok disiplinlerarası yaklaşım (örneğin bilişsel bilim), hayal gücü (programlanamayan zihinsel imgeler ve kavramlar oluşturma kabiliyeti) ve otonomi gibi ek özellikleri göz önünde bulundurma ihtiyacını vurgulamaya meyillidir. Bu yeteneklerin çoğunu sergileyen bilgisayar tabanlı sistemler mevcuttur (örneğin hesaplamalı yaratıcılık, otomatik muhakeme, karar destek sistemi, robot, evrimsel hesaplama), ancak henüz hiçbiri insan seviyesinde değildir.\n=== Yapay genel zekâ'yı onaylayan testler ===\nTuring testi (Turing)"
+  },
+  {
+    "chunk_id": "chunk_d974dc1c",
+    "article_title": "Yapay genel zekâ",
+    "text": "stemi, robot, evrimsel hesaplama), ancak henüz hiçbiri insan seviyesinde değildir.\n=== Yapay genel zekâ'yı onaylayan testler ===\nTuring testi (Turing)\nİkinci bir insana görünmeden bir makine ve bir insan konuşmalıdır, ikinci insan bu iki konuşundan hangisinin makine olduğunu anlamalıdır, eğer makine bu ikinci insanı kısıtlı süre içinde kandırıp kendini insan olarak düşündürürse testi geçer. Not: Turing zeka için yeterli bir test değildir, ama akıllı bir makinenin geçmesi gerekli olduğu bir testtir.\nKahve Testi (Wozniak)\nBir makine sıradan bir Amerikan evine girmek ve nasıl kahve yapılacağını bulması gereklidir: kahve makinesini bulmak, kahve bulmak, su eklemek, bir kupa bulmak ve uygun düğmelere basarak kahveyi demlemek.\nRobot Kolej Öğrencisi Testi (Goertzel)\nBir makine bir üniversiteye kaydolur, insanların alacağı aynı sınıfları alıp geçer ve bir derece alır.\nGörevlendirilme Testi (Nilsson)"
+  },
+  {
+    "chunk_id": "chunk_3b63b39f",
+    "article_title": "Yapay genel zekâ",
+    "text": "esti (Goertzel)\nBir makine bir üniversiteye kaydolur, insanların alacağı aynı sınıfları alıp geçer ve bir derece alır.\nGörevlendirilme Testi (Nilsson)\nBir makine ekonomik olarak önemli bir işe girer ve o işi bir insan kadar iyi bir şekilde gerçekleştirir.\nDüz paket mobilya testi (Tony Severyns)\nBir makine, mobilya paketini açmak ve bir araya getirmek zorundadır. Tüm armatürleri doğru şekilde yerleştirerek talimatları okumalı ve ürünü tanımlandığı şekilde monte etmelidir.\n== İhtilaflar ve tehlikeler ==\n=== Yapılabilirlik ===\nAğustos 2020 itibarıyla, yapılabilirliği henüz ispatlanamadığından dolayı YGZ çok spekülatif kalmaktadır. Yapay genel zekanın yapılıp yapılamayacağı veya ne zaman meydana geleceği hakkında farklı görüşler vardır. Günümüze değin herhangi bir YGZ örneği görülmemiş olup, halen teorik bir çalışma alanıdır.\n=== İnsan varlığına karşı oluşturduğu tehdit ==="
+  },
+  {
+    "chunk_id": "chunk_99d80462",
+    "article_title": "Yapay genel zekâ",
+    "text": "er vardır. Günümüze değin herhangi bir YGZ örneği görülmemiş olup, halen teorik bir çalışma alanıdır.\n=== İnsan varlığına karşı oluşturduğu tehdit ===\nBu tez YGZ'nin varoluşsal bir tehdit oluşturduğunu ve bu tehdidin gereken ilgiyi görmediğini savunur. Bu görüşü savunmasıyla bilinen isimlerden en ünlüleri Elon Musk, Bill Gates ve Stephen hawking iken en önde gelen yapay zeka araştırmacısı ise Stuart J. Russell'dir.\nVaroluşsal risk hakkında kaygılanan akademisyenlerin birçoğuna göre bu konuda mesafe almanın en iyi yolu 'kontrol problemini' çözmeye yönelik büyük çaplı araştırmalar yapmaktır. Burada amaç sürekli biçimde kendini geliştiren yapay zekanın, süper-zeka seviyesine geldiğinde yıkıcı değil dostane davranma ihtimalini maksimize etmek için programcıların ne tür güvenlik önlemlerini, algoritmaları ve mimari yapıları uygulamaları gerektiği sorusuna yanıt bulmaktadır.\n=== Acı riskleri ===\nAna makale: Acı riskleri"
+  },
+  {
+    "chunk_id": "chunk_2b6ac795",
+    "article_title": "Yapay genel zekâ",
+    "text": "üvenlik önlemlerini, algoritmaları ve mimari yapıları uygulamaları gerektiği sorusuna yanıt bulmaktadır.\n=== Acı riskleri ===\nAna makale: Acı riskleri\nAcı riskleri hakkında araştırma yapan bazı aktivistler, başıbozuk bir YGZ'nin galaksiyi kolonize etmek gibi hedeflerine ulaşmak amacıyla bilim ve mühendislik alanlarında bir dizi ilginç başarılar elde edeceğini fakat bunu yaparken kendinden daha zayıf varlıkların acı çekmelerini önlemek gibi insanı değerlere saygı duymayabileceğine dikkat çekmişlerdir.\n== Kaynakça =="
+  },
+  {
+    "chunk_id": "chunk_100d3b63",
+    "article_title": "Yapay zekâ etiği",
+    "text": "Yapay zekâ etiği, yapay zeka sistemlerinin tasarım ve kullanım süreçlerinde ortaya çıkan etik sorunları inceleyerek, bu sorunlarla mücadele yöntemleri geliştirmeye odaklanan disiplindir. Yapay zeka etiği  robotlara ve diğer yapay zeka sistemlerine özgü teknoloji etiğinin bir parçasıdır.  Yapay zeka sistemlerini tasarlarken, inşa ederken, kullanırken ve onlara karşı davranırken insanların etik davranışları ile ilgili bir roboetiğe ve yapay ahlaki etkenlerin ahlaki davranışlarıyla ilgilenen makine etiği şeklinde ikiye ayrılabilir. Yapay genel zekâ sistemlerine (YGZ) ilişkin olarak, tam etik aracı olan YGZ'lerin mevcut yasal ve sosyal çerçevelerle bütünleştirilmesine yönelik yaklaşımlar üzerinde ön çalışmalar yapılmıştır. Bu yaklaşımlar yasal konumlarının ve haklarının iki yönlü olarak ele alınmasına odaklanmıştır. YGZ sistemlerinin adil ve tarafsız olması, etik açıdan büyük önem taşır. YGZ algoritmalarının karar alma süreçlerinde hiçbir grubu haksız bir şekilde avantajlı veya dezavantajlı hale düşürmeden tasarlanmış olması gerekir. Ancak, YGZ sistemleri, geliştirildikleri veri setlerinden etkilenir ve bu veri setleri, mevcut toplumsal önyargıları yansıtabilir. Bu nedenle, YGZ'nin adalet ve tarafsızlık prensiplerine uygun olarak geliştirilmesi kritik öneme sahiptir. Yapay zekâ etiği için etik tasarımın temel bileşenleri arasında hesap verebilirlik, açıklanabilirlik ve insan denetimi ilkeleri yer almaktadır."
+  },
+  {
+    "chunk_id": "chunk_36989ab3",
+    "article_title": "Yapay zekâ etiği",
+    "text": "iptir. Yapay zekâ etiği için etik tasarımın temel bileşenleri arasında hesap verebilirlik, açıklanabilirlik ve insan denetimi ilkeleri yer almaktadır.\n== Avrupa Birliği'nin Yapay Zekâ Yasası ==\nAvrupa Birliği'nin Yapay Zekâ Yasası 13 Haziran 2024 tarihinde Avrupa Parlamentosu ve Konseyi tarafından kabul edilen Yapay Zekâ Yasası (AI Act), 2 Ağustos 2026 tarihinde tam anlamıyla yürürlüğe girecektir. Bu yasa, yapay zekânın etik ve güvenilir bir şekilde kullanılmasını sağlamak amacıyla risk temelli bir yaklaşım benimsemektedir. Yasaklı sistemler arasında insan davranışını manipüle eden teknikler, kırılgan grupların sömürüsünü içeren sistemler, sosyal puanlama sistemleri ve kamu alanlarında gerçek zamanlı biyometrik tanımlama yapan sistemler bulunmaktadır.\n== Ayrıca bakınız ==\nSimSimi\nAlgoritmik Önyargı\nRoko'nun basiliski\n== Kaynakça =="
+  },
+  {
+    "chunk_id": "chunk_54ffbaa9",
+    "article_title": "Sembolik yapay zekâ",
+    "text": "Yapay zekâ araştırmalarında sorunların, mantığın ve araştırmanın ileri düzey \"sembolik\" (insan tarafından okunabilir) temsillerine dayanan tüm         yöntemlerin toplanması için kullanılan terimdir. Sembolik YZ, 1950'lerin ortalarından 1980'lerin sonuna kadar YZ araştırmalarının baskın paradigmasıydı.[1] 23 Mayıs 2021 tarihinde Wayback Machine sitesinde arşivlendi.[2] 23 Mayıs 2021 tarihinde Wayback Machine sitesinde arşivlendi.\nJohn Haugeland, yapay zekâ araştırmalarının felsefi sonuçlarını araştıran 1985 tarihli Yapay Zekâ kitabı: The Very Idea, GOFAI (\"Kaliteli Eski Tip Yapay Zekâ\") adını verdi. Robotikte benzer terim GOFR'dir (\"Eski Tip Robotik\").\nYaklaşım, 1960'ların ortalarında Allen Newell ve Herbert A. Simon tarafından \"fiziksel simge sistemleri hipotezi\" olarak tanımlanan bir varsayım olan, zekânın birçok yönünün sembollerin manipülasyonuyla elde edilebileceği varsayımına dayanmaktadır."
+  },
+  {
+    "chunk_id": "chunk_7e426848",
+    "article_title": "Sembolik yapay zekâ",
+    "text": "mleri hipotezi\" olarak tanımlanan bir varsayım olan, zekânın birçok yönünün sembollerin manipülasyonuyla elde edilebileceği varsayımına dayanmaktadır.\nYaygın bir sembolik yapay zekâ biçimi, bir üretim kuralları ağı kullanan uzman sistemlerdir. Üretim kuralları, If-Then ifadesine benzer bir ilişkideki sembolleri birbirine bağdaştırır. Uzman sistem, Tahmin yapmak ve hangi ek bilgilere ihtiyaç duyduğunu belirlemek için kuralları işler, yani insan tarafından okunabilir duruma getirerek hangi soruların sorulacağını belirler.\nSembolik yaklaşımın karşıtları arasında, sembolik temsil olmadan (veya yalnızca minimum temsille) otonom robotlar üretmeyi amaçlayan Rodney Brooks gibi robotik ve makine öğrenimi ve kontrolündeki sorunları çözmek için sinir ağları ve optimizasyon gibi teknikleri uygulayan hesaplamalı zekâ araştırmacıları yer alır."
+  },
+  {
+    "chunk_id": "chunk_8805ea4b",
+    "article_title": "Sembolik yapay zekâ",
+    "text": "kine öğrenimi ve kontrolündeki sorunları çözmek için sinir ağları ve optimizasyon gibi teknikleri uygulayan hesaplamalı zekâ araştırmacıları yer alır.\nSembolik YZ, bir makinede genel, insan benzeri zekâ üretmeyi amaçlarken, çoğu modern araştırma belirli alt problemlere yöneliktir. Genel zekâ ile ilgili araştırmalar şimdi genel yapay zekâ alt alanında incelenmektedir.\nMakineler başlangıçta, sembollerle temsil edilen girdilere dayalı olarak çıktıları formüle etmek için tasarlandı. Giriş kesin olduğunda ve kesinlik altına düştüğünde semboller kullanılır. Ancak, örneğin tahminlerin formüle edilmesinde belirsizlik olduğunda, temsili yapay sinir ağları kullanılarak yapılır. Valiant ve diğerlerinin iddia ettiği gibi, zengin bilişimsel ve bilişsel modellerin etkili inşası, sağlam sembolik akıl yürütme ve verimli (makine) öğrenme modellerinin kombinasyonunu gerektirir.\n== Sınırlayıcı alan araması =="
+  },
+  {
+    "chunk_id": "chunk_316e7d1c",
+    "article_title": "Sembolik yapay zekâ",
+    "text": "ellerin etkili inşası, sağlam sembolik akıl yürütme ve verimli (makine) öğrenme modellerinin kombinasyonunu gerektirir.\n== Sınırlayıcı alan araması ==\nSembolik bir YZ sistemi, bir mikro dünya olarak gerçekleştirilebilir, örneğin dünyayı engeller. Mikro dünya, bilgisayar belleğindeki gerçek dünyayı temsil eder. Semboller içeren listelerle açıklanmıştır ve akıllı aracı, sistemi yeni bir duruma getirmek için operatörleri(\"uygulayıcı\") kullanır. Üretim sistemi, akıllı ajanın bir sonraki hareketi için durum uzayında arama yapan yazılımdır. Dünyayı temsil eden semboller duyusal algıya dayanır. Sinir ağlarının aksine, Yüzeysel sistem buluşsal yöntemlerle çalışır, yani alana özgü bilginin Sınırlayıcı alan aramasını iyileştirmek için kullanıldığı anlamına gelir."
+  },
+  {
+    "chunk_id": "chunk_df5ee1c5",
+    "article_title": "Sembolik yapay zekâ",
+    "text": "sine, Yüzeysel sistem buluşsal yöntemlerle çalışır, yani alana özgü bilginin Sınırlayıcı alan aramasını iyileştirmek için kullanıldığı anlamına gelir.\nSembolik Yapay Zekâ, Hubert Dreyfus tarafından sadece oyuncak problemleri için uygun olduğunu düşündüğü ve daha karmaşık sistemler kurmanın veya fikri faydalı yazılıma doğru ölçeklendirmenin mümkün olmayacağını düşündüğü için reddedildi. Aynı argüman, 1970'lerin ortalarında YZ Kışını başlatan Lighthill report'a, verildi.\n== Tavsiye edilen diğer başlıklar ==\nArtificial intelligence § Approaches\nHistory of artificial intelligence\nPhysical symbol systems hypothesis\nHomoiconicity\nSymbolic computation\nSynthetic intelligence\n== Kaynakça =="
+  },
+  {
+    "chunk_id": "chunk_c6764e06",
+    "article_title": "Yapay zekâ etkisi",
+    "text": "Yapay zeka etkisi (artificial intelligence; AI); izleyiciler bir yapay zeka programının davranışını gerçek zeka olmadığını savunmaya çalıştığında ortaya çıkmaktadır.\nYazar Pamela McCorduck şöyle yazmaktadır: \"Yapay zeka alanının tarihinin bir parçasında, ne zaman biri bir bilgisayarın bir şeyi nasıl yapacağını anladığında - iyi dama oyna, basit ama nispeten gayri resmi problemleri çöz - 'bu düşünmek değil' diyen bir eleştirmenler korosu vardı'.\" Araştırmacı Rodney Brooks şöyle yakınmaktadır: \"Ne zaman bir parçasını çözsek, sihirli olmayı bırakıyor; 'Oh, bu sadece bir hesaplama' diyoruz.\"\n== \"AI etkisi\", AI'yı şu anlama gelecek şekilde yeniden tanımlamaya çalışır: AI henüz yapılmamış herhangi bir şeydir ==\nAI etkisini yaymaya çalışan bazı kişiler tarafından alınan bir görüş şudur: AI bir sorunu başarıyla çözer çözmez, sorun artık AI'nın bir parçası değildir."
+  },
+  {
+    "chunk_id": "chunk_7fbfb352",
+    "article_title": "Yapay zekâ etkisi",
+    "text": "tkisini yaymaya çalışan bazı kişiler tarafından alınan bir görüş şudur: AI bir sorunu başarıyla çözer çözmez, sorun artık AI'nın bir parçası değildir.\nPamela McCorduck, \"Pratik yapay zeka başarılarının, gerçekten akıllı davranışlara ulaşan hesaplama programlarının, yararlı olduğu tespit edilen herhangi bir uygulama alanına kısa sürede asimile edildiğini\" tuhaf bir paradoks olarak adlandırmaktadır. Ayrıca diğer problem çözme yaklaşımlarının yanında sessiz ortaklar haline gelmektedir. Bu durum da AI araştırmacılarını yalnızca 'başarısızlıklar', henüz kırılamayacak olan sert fındıklarla uğraşmak zorunda bırakmıştır."
+  },
+  {
+    "chunk_id": "chunk_6756fa62",
+    "article_title": "Yapay zekâ etkisi",
+    "text": "line gelmektedir. Bu durum da AI araştırmacılarını yalnızca 'başarısızlıklar', henüz kırılamayacak olan sert fındıklarla uğraşmak zorunda bırakmıştır.\nIBM'in satranç oynayan bilgisayarı Deep Blue 1997'de Garry Kasparov'u yenmeyi başardığında, insanlar onun sadece \"kaba kuvvet yöntemleri\" kullandığından ve bunun gerçek zeka olmadığından şikayet ettiler. Fred Reed şöyle yazıyor:\"Yapay zeka savunucularının düzenli olarak karşılaştığı bir sorun şudur: Bir makinenin nasıl 'akıllı' bir şey yaptığını bildiğimizde, o makine akıllı olarak kabul edilmez. Dünya satranç şampiyonunu yenersem, çok parlak biri olarak görülürdüm.\"Douglas Hofstadter, Larry Tesler Teoreminden alıntı yaparak AI etkisini kısaca ifade etmektedir:\"AI, henüz yapılmamış olan şeydir.\"Problemler henüz resmîleştirilmemiş olsalar bile, insan hesaplamasını içeren bir hesaplama modeli ile karakterize edilebilirler. Bir problemin hesaplama yükü, bir bilgisayar ve bir insan arasında bölünür: Bir kısmı bilgisayar tarafından, diğer kısmı ise bir insan tarafından çözülür. Bu biçimselleştirmeye insan destekli Turing makinesi denir."
+  },
+  {
+    "chunk_id": "chunk_b2546da8",
+    "article_title": "Yapay zekâ etkisi",
+    "text": "da bölünür: Bir kısmı bilgisayar tarafından, diğer kısmı ise bir insan tarafından çözülür. Bu biçimselleştirmeye insan destekli Turing makinesi denir.\n== AI uygulamaları ana akım haline geliyor ==\nAI araştırmacıları tarafından geliştirilen yazılım ve algoritmalar, artık gerçekten AI olarak adlandırılmadan dünya çapında birçok uygulamaya entegre edilmiştir.\nMichael Swaine, \"AI ilerlemeleri bugünlerde yapay zeka olarak çok fazla lanse edilmemektedir, ancak genellikle başka bir alanda ilerlemeler olarak görülmektedir\" diye bildirmiştir. Patrick Winston, \"Yapay zeka daha az göze çarptığı için daha önemli hale geldi\" demiştir. \"Bu günlerde, kısmen AI dünyasında geliştirilen veya olgunlaşan fikirler nedeniyle çalışmayan büyük bir sistem bulmak zor.\""
+  },
+  {
+    "chunk_id": "chunk_de127d25",
+    "article_title": "Yapay zekâ etkisi",
+    "text": "emli hale geldi\" demiştir. \"Bu günlerde, kısmen AI dünyasında geliştirilen veya olgunlaşan fikirler nedeniyle çalışmayan büyük bir sistem bulmak zor.\"\nStottler Henke'ye göre, \"AI uygulamalarının büyük pratik faydaları ve hatta birçok yazılım ürününde AI'nın varlığı, AI tekniklerinin yazılımda zaten yaygın olarak kullanılmasına rağmen çoğu kişi tarafından büyük ölçüde fark edilmemektedir. Bu AI etkisidir. Birçok pazarlamacı, şirketlerinin ürünleri bazı yapay zeka tekniklerine dayansa bile 'yapay zeka' terimini kullanmaz. Neden olmasın?\"\nMarvin Minsky şöyle yazıyor: \"Bu paradoks, bir yapay zeka araştırma projesi ne zaman yararlı yeni bir keşif yapsa, bu ürünün genellikle hızla kendi kendine özgü adıyla yeni bir bilimsel veya ticari uzmanlık oluşturmak üzere dönmesinden kaynaklandı. İsimdeki bu değişiklikler dışarıdan gelenlerin “Yapay zekanın merkezi alanında neden bu kadar az ilerleme görüyoruz?” diye sormalarına neden oldu."
+  },
+  {
+    "chunk_id": "chunk_fd6492d3",
+    "article_title": "Yapay zekâ etkisi",
+    "text": "dı. İsimdeki bu değişiklikler dışarıdan gelenlerin “Yapay zekanın merkezi alanında neden bu kadar az ilerleme görüyoruz?” diye sormalarına neden oldu.\nNick Bostrom, \"Birçok son teknoloji AI, genel uygulamalara filtrelendi, genellikle AI olarak adlandırılmadan, çünkü bir şey yeterince yararlı ve yeterince yaygın hale geldiğinde artık AI olarak etiketlenmez.\"\n== AI kışının mirası ==\nAna madde: Yapay zeka kışıPek çok AI araştırmacısı, lekelenmiş \"yapay zeka\" adından kaçınırlarsa ve bunun yerine çalışmalarının zeka ile hiçbir ilgisi yokmuş gibi davranırlarsa daha fazla finansman sağlayabileceklerini ve daha fazla yazılım satabileceklerini keşfettiler. Bu, özellikle 1990'ların başında, ikinci \"AI kışı\" sırasında doğruydu.\nPatty Tascarella, \"Bazıları, 'robotik' kelimesinin aslında bir şirketin finansman şansını zedeleyen bir damga taşıdığına inanıyor\" diye yazmıştır.\n== Varlık zincirinin en tepesinde insanlığa yer açmak =="
+  },
+  {
+    "chunk_id": "chunk_e16e091d",
+    "article_title": "Yapay zekâ etkisi",
+    "text": "lında bir şirketin finansman şansını zedeleyen bir damga taşıdığına inanıyor\" diye yazmıştır.\n== Varlık zincirinin en tepesinde insanlığa yer açmak ==\nMichael Kearns, \"İnsanların bilinçaltında evrendeki bazı özel rolleri kendileri için korumaya çalıştıklarını\" öne sürmektedir. Yapay zekayı azaltarak insanlar kendilerini benzersiz ve özel hissetmeye devam edebilirler. Kearns, yapay zeka etkisi olarak bilinen algıdaki değişimin, sistemden çıkarılan gizeme kadar izlenebileceğini savunuyor. Olayların nedenini takip edebilmek, bunun zekadan ziyade bir otomasyon biçimi olduğu anlamına gelmektedir.\nHayvan bilişi tarihinde ve hayvanlarda daha önce benzersiz olarak insan olarak düşünülen bir kapasitenin her keşfedildiği zaman, bu kapasitenin genel öneminin reddedildiği bilinç çalışmalarında bununla ilgili bir etki kaydedilmiştir."
+  },
+  {
+    "chunk_id": "chunk_aeddb81a",
+    "article_title": "Yapay zekâ etkisi",
+    "text": "nülen bir kapasitenin her keşfedildiği zaman, bu kapasitenin genel öneminin reddedildiği bilinç çalışmalarında bununla ilgili bir etki kaydedilmiştir.\nHerbert A. Simon, o sırada AI'nın basında yer almadığı sorulduğunda, şunları söyledi: \"AI'yı farklı kılan şey, onun fikrinin bile bazı insan göğüslerinde gerçek bir korku ve düşmanlık uyandırmasıydı. Dolayısıyla çok güçlü duygusal tepkiler alıyorsunuz. Ama sorun değil. Bununla yaşayacağız.\"\n== Ayrıca bakınız ==\nÇin odası\nELİZA etkisi\nİşlevselcilik (zihin felsefesi)\nYapay zekanın tarihi\nMoravec paradoksu\nKale direklerini hareket ettirmek\n== Kaynakça =="
+  },
+  {
+    "chunk_id": "chunk_3703b052",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "Yapay zeka felsefesi, yapay zekayı ve yapay zekanın, etik, bilinç, epistemoloji ve özgür irade bilgi ve anlayışı üzerindeki etkilerini araştıran teknoloji felsefesinin bir dalıdır. Ayrıca teknoloji, yapay hayvanların veya yapay insanların yaratılmasıyla ilgilidir, bu nedenle disiplin, filozoflar için oldukça ilgi çekicidir. Bu faktörler yapay zeka felsefesinin ortaya çıkmasına katkıda bulunmuştur. Bazı akademisyenler, AI topluluğunun felsefeyi reddetmesinin zararlı olduğunu savunmaktadır.\nYapay zeka felsefesi, bu tür soruları şu şekilde yanıtlamaya çalışır:\nBir makine akıllıca hareket edebilir mi? Bir insanın düşünerek çözeceği herhangi bir sorunu çözebilir mi?\nİnsan zekası ve makine zekası aynı mıdır? Makine zekası insan zekasından üstün olabilir mi? İnsan beyni aslında bir bilgisayar mı?"
+  },
+  {
+    "chunk_id": "chunk_20258117",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "orunu çözebilir mi?\nİnsan zekası ve makine zekası aynı mıdır? Makine zekası insan zekasından üstün olabilir mi? İnsan beyni aslında bir bilgisayar mı?\nBunun gibi sorular, sırasıyla AI araştırmacılarının, bilişsel bilim adamlarının ve filozofların farklı ilgi alanlarını yansıtır. Bu soruların bilimsel cevapları, \"akıl\" ve \"bilinç\" tanımlarına ve tam olarak hangi \"makinelerin\" tartışıldığına bağlıdır.\nAI felsefesindeki önemli önermeler aşağıdakilerden bazılarını içerir:\nTuring testi: Bir makine bir insan kadar akıllıca davranıyorsa, o zaman bir insan kadar zekidir.\nDartmouth Konferansı: \"Öğrenmenin her yönü veya zekanın diğer herhangi bir özelliği o kadar kesin bir şekilde tanımlanabilir ki, onu simüle etmek için bir makine yapılabilir.\"\nAllen Newell ve Herbert A. Simon'ın fiziksel sembol sistemi hipotezi: \"Fiziksel bir sembol sistemi, genel akıllı eylem için gerekli ve yeterli araçlara sahiptir.\""
+  },
+  {
+    "chunk_id": "chunk_61a1e8d7",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": " ve Herbert A. Simon'ın fiziksel sembol sistemi hipotezi: \"Fiziksel bir sembol sistemi, genel akıllı eylem için gerekli ve yeterli araçlara sahiptir.\"\nJohn Searle'nin güçlü AI hipotezi: \"Doğru girdi ve çıktılara sahip, uygun şekilde programlanmış bir bilgisayar, bu nedenle, tam olarak insanların sahip olduğu anlamda bir akla sahip olacaktır..\"\n== Bir makine genel zeka gösterebilir mi? ==\nİnsanların zekasını kullanarak çözdüğü tüm sorunları çözebilecek bir makine yaratmak mümkün müdür? Bu soru, makinelerin gelecekte neler yapabileceğinin kapsamını tanımlar ve AI araştırmasının yönünü gösterir. Yalnızca makinelerin davranışıyla ilgilidir ve psikologların, bilişsel bilim adamlarının ve filozofların ilgilendiği konuları görmezden gelir; Bu soruyu cevaplamak için, bir makinenin gerçekten (bir kişinin düşündüğü gibi) düşünmesi veya sadece düşünüyormuş gibi davranması önemli değildir.\nÇoğu AI araştırmacısının temel konumu, 1956 Dartmouth Konferansı teklifinde yer alan bu açıklamada özetlenmiştir:"
+  },
+  {
+    "chunk_id": "chunk_11b9ad2b",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "muş gibi davranması önemli değildir.\nÇoğu AI araştırmacısının temel konumu, 1956 Dartmouth Konferansı teklifinde yer alan bu açıklamada özetlenmiştir:\n\"Öğrenmenin her yönü veya zekanın diğer herhangi bir özelliği o kadar kesin bir şekilde tanımlanabilir ki, onu simüle etmek için bir makine yapılabilir.\"\nTemel önermeye karşı argümanlar, çalışan bir yapay zeka sistemi inşa etmenin imkansız olduğunu, çünkü bilgisayarların yeteneklerinde bazı pratik sınırlar olduğunu veya akıllı davranış için gerekli olan ve yine de bir başkası tarafından kopyalanamayan insan zihninin bazı özel kalitesinin olduğunu göstermelidir (Makine veya mevcut AI araştırmasının yöntemleriyle). Temel öncül lehine argümanlar, böyle bir sistemin mümkün olduğunu göstermelidir.\n=== Zeka ===\n==== Turing test ===="
+  },
+  {
+    "chunk_id": "chunk_da28828f",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": " AI araştırmasının yöntemleriyle). Temel öncül lehine argümanlar, böyle bir sistemin mümkün olduğunu göstermelidir.\n=== Zeka ===\n==== Turing test ====\nAlan Turing, zekayı tanımlama sorununu konuşma hakkında basit bir soruya indirgedi. Eğer bir makine kendisine sorulan herhangi bir soruyu sıradan bir insanla aynı kelimeleri kullanarak cevaplayabiliyorsa, o zaman o makineye akıllı diyebiliriz. Deneysel tasarımının modern bir versiyonu, katılımcılardan birinin gerçek bir kişi olduğu ve katılımcılardan birinin bir bilgisayar programı olduğu çevrimiçi bir sohbet odası kullanır. Program, iki katılımcıdan hangisinin insan olduğunu kimse söyleyemezse testi geçer. Turing, hiç kimsenin (filozoflar hariç) \"insanlar düşünebilir mi?\" sorusunu sormadığını not eder. \"Bu nokta üzerinde sürekli tartışmak yerine, herkesin düşündüğü kibar bir uzlaşıma sahip olmak olağandır\" diye yazıyor. Turing'in testi, bu kibar kuralı makinelere kadar genişletir:"
+  },
+  {
+    "chunk_id": "chunk_a0258e19",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "ışmak yerine, herkesin düşündüğü kibar bir uzlaşıma sahip olmak olağandır\" diye yazıyor. Turing'in testi, bu kibar kuralı makinelere kadar genişletir:\nBir makine bir insan kadar zekiyse, o zaman bir insan kadar zekidir.\nTuring testinin eleştirilerinden biri, davranışın \"zekasını\" değil, yalnızca makinenin davranışının \"insanlığını\" ölçmesidir. İnsan davranışı ve akıllı davranış tam olarak aynı şey olmadığından, test zekayı ölçemez. Stuart J. Russell ve Peter Norvig, \"havacılık mühendisliği metinleri, alanlarının amacını 'diğer güvercinleri kandırabilecek kadar güvercinler gibi uçan makineler yapmak' olarak tanımlamazlar\" diye yazıyorlar.\n==== Akıllı ajan tanımı ====\nYirmi birinci yüzyıl AI araştırması, zekayı akıllı ajanlar açısından tanımlar. Bir \"ajan\", bir ortamda algılayan ve hareket eden bir şeydir. Bir \"performans ölçüsü\", aracı için neyin başarı sayılacağını tanımlar."
+  },
+  {
+    "chunk_id": "chunk_3816a97a",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "sından tanımlar. Bir \"ajan\", bir ortamda algılayan ve hareket eden bir şeydir. Bir \"performans ölçüsü\", aracı için neyin başarı sayılacağını tanımlar.\n\"Bir etmen, geçmiş deneyim ve bilgiye dayalı olarak bir performans ölçüsünün beklenen değerini maksimize edecek şekilde hareket ederse, o zaman akıllıdır.\"\nBunun gibi tanımlar zekanın özünü yakalamaya çalışır. Turing testinden farklı olarak, yazım hataları yapma veya aşağılanma yeteneği gibi zeki olmayan insan özelliklerini test etmeme avantajına sahiptirler.\"Düşünen şeyler\" ile \"düşünmeyen şeyler\" arasında ayrım yapamamak gibi bir dezavantaja sahiptirler. Bu tanıma göre, bir termostatın bile ilkel bir zekası vardır.\n=== Bir makinenin genel zekayı gösterebileceğine dair argümanlar ==="
+  },
+  {
+    "chunk_id": "chunk_775badeb",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "antaja sahiptirler. Bu tanıma göre, bir termostatın bile ilkel bir zekası vardır.\n=== Bir makinenin genel zekayı gösterebileceğine dair argümanlar ===\nHubert Dreyfus, bu argümanı, \"sinir sistemi, fizik ve kimya yasalarına uyuyorsa, ki bunu varsaymak için her türlü nedenimiz varsa, o zaman sinir sisteminin davranışını bazı fiziksel araçlarla yeniden üretebilmeliyiz\" iddiası olarak tanımlar. İlk olarak 1943 gibi erken bir tarihte ortaya atılan ve 1988'de Hans Moravec tarafından canlı bir şekilde açıklanan bu argüman, bilgisayar gücünün 2029 yılına kadar eksiksiz bir beyin simülasyonu için yeterli olacağını tahmin eden fütürist Ray Kurzweil ile ilişkilendiriliyor. 2005 yılında insan beynine (1011 nöron) büyüklüğünde bir talamokortikal modelin simülasyonu yapıldı ve 27 işlemciden oluşan bir kümede 1 saniyelik beyin dinamiğinin simüle edilmesi 50 gün sürdü.\n==== İnsan düşüncesi sembol işlemedir ===="
+  },
+  {
+    "chunk_id": "chunk_b77c18d2",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "yonu yapıldı ve 27 işlemciden oluşan bir kümede 1 saniyelik beyin dinamiğinin simüle edilmesi 50 gün sürdü.\n==== İnsan düşüncesi sembol işlemedir ====\n1963'te Allen Newell ve Herbert A. Simon, \"sembol manipülasyonunun\" hem insan hem de makine zekasının özü olduğunu öne sürdüler.\n\"Fiziksel bir sembol sistemi, genel akıllı eylem için gerekli ve yeterli araçlara sahiptir.\"\nBu iddia çok güçlüdür: hem insan düşüncesinin bir tür sembol manipülasyonu olduğunu (çünkü zeka için bir sembol sistemi gereklidir) hem de makinelerin zeki olabileceğini (çünkü zeka için bir sembol sistemi yeterlidir) ima eder.\n==== Sembol işlemeye karşı argümanlar ====\nBu argümanlar, insan düşüncesinin (yalnızca) üst düzey sembol manipülasyonundan oluşmadığını göstermektedir. Yapay zekanın imkansız olduğunu göstermiyorlar, sadece sembol işlemeden fazlasının gerekli olduğunu gösteriyorlar.\n===== Dreyfus: örtük becerilerin önceliği ====="
+  },
+  {
+    "chunk_id": "chunk_c6b37ec6",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "n imkansız olduğunu göstermiyorlar, sadece sembol işlemeden fazlasının gerekli olduğunu gösteriyorlar.\n===== Dreyfus: örtük becerilerin önceliği =====\nHubert Dreyfus, insan zekasının ve uzmanlığının, açık sembolik manipülasyondan ziyade öncelikle örtük becerilere bağlı olduğunu savundu ve bu becerilerin asla resmi kurallarda ele geçirilmeyeceğini savundu.\n== Bir makinenin zihni, bilinci ve zihinsel durumları olabilir mi? ==\nBu, diğer zihinlerin sorunu ve zor bilinç sorunuyla ilgili felsefi bir sorudur. Soru, John Searle tarafından \"güçlü AI\" olarak tanımlanan bir konum etrafında dönüyor:\nFiziksel bir sembol sisteminin bir zihni ve zihinsel durumları olabilir.\nSearle, bu konumu \"zayıf yapay zeka\" dediği durumdan ayırdı:\nFiziksel bir sembol sistemi akıllıca hareket edebilir."
+  },
+  {
+    "chunk_id": "chunk_ca406ddb",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "ni ve zihinsel durumları olabilir.\nSearle, bu konumu \"zayıf yapay zeka\" dediği durumdan ayırdı:\nFiziksel bir sembol sistemi akıllıca hareket edebilir.\nSearle, güçlü yapay zekayı zayıf yapay zekadan ayırmak için terimleri tanıttı, böylece daha ilginç ve tartışmalı olduğunu düşündüğü şeye odaklanabildi. Tam olarak insan zihni gibi hareket eden bir bilgisayar programımız olduğunu varsaysak bile, yine de cevaplanması gereken zor bir felsefi soru olacağını savundu.\n== Düşünmek bir tür hesaplama mıdır? =="
+  },
+  {
+    "chunk_id": "chunk_278a0921",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "ayar programımız olduğunu varsaysak bile, yine de cevaplanması gereken zor bir felsefi soru olacağını savundu.\n== Düşünmek bir tür hesaplama mıdır? ==\nHesaplamalı zihin teorisi veya \"bilgisayarcılık\", zihin ve beyin arasındaki ilişkinin (aynı değilse de) çalışan bir program ile bilgisayar arasındaki ilişkiye benzer olduğunu iddia eder. Bu fikrin felsefi kökleri Hobbes (akıl yürütmenin \"hesaplamadan başka bir şey olmadığını\" iddia eden), Leibniz (tüm insan fikirlerinin mantıksal bir hesabını oluşturmaya çalışan), Hume (algının \"atomik izlenimlere\" indirgenebileceğini düşünen) ve hatta (biçimsel kurallar tarafından kontrol edilen tüm deneyimleri analiz eden) Kant bile  (tüm deneyimleri biçimsel kurallarla kontrol edildiği şekilde analiz eden) son sürüm filozoflar Hilary Putnam ve Jerry Fodor ile ilişkilidir.\n== Diğer ilgili sorular ==\n=== Bir makinenin duyguları olabilir mi? ==="
+  },
+  {
+    "chunk_id": "chunk_6c76349c",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "naliz eden) son sürüm filozoflar Hilary Putnam ve Jerry Fodor ile ilişkilidir.\n== Diğer ilgili sorular ==\n=== Bir makinenin duyguları olabilir mi? ===\nEğer \"duygular\" sadece davranış üzerindeki etkileri veya bir organizmanın içinde nasıl işlev gördükleri açısından tanımlanırsa, duygular akıllı bir ajanın eylemlerinin faydasını en üst düzeye çıkarmak için kullandığı bir mekanizma olarak görülebilir. Bu duygu tanımı göz önüne alındığında, Hans Moravec \"robotların genel olarak iyi insanlar olma konusunda oldukça duygusal olacağına\" inanıyor.\n=== Bir makine kendinin farkında olabilir mi? ==="
+  },
+  {
+    "chunk_id": "chunk_42f5b25c",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "s Moravec \"robotların genel olarak iyi insanlar olma konusunda oldukça duygusal olacağına\" inanıyor.\n=== Bir makine kendinin farkında olabilir mi? ===\nYukarıda belirtildiği gibi, \"öz farkındalık\" bazen bilimkurgu yazarları tarafından bir karakteri tamamen insan yapan temel insan özelliğinin adı olarak kullanılır. Turing, insanın diğer tüm özelliklerini ortadan kaldırır ve soruyu \"bir makine kendi düşüncesinin konusu olabilir mi?\" sorusuna indirger. Kendini düşünebilir mi? Bu şekilde bakıldığında, hata ayıklayıcı gibi kendi iç durumları hakkında rapor verebilen bir program yazılabilir.\n=== Bir makine orijinal veya yaratıcı olabilir mi? ==="
+  },
+  {
+    "chunk_id": "chunk_eaa85414",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "ında, hata ayıklayıcı gibi kendi iç durumları hakkında rapor verebilen bir program yazılabilir.\n=== Bir makine orijinal veya yaratıcı olabilir mi? ===\nTuring bunu bir makinenin \"bizi şaşırtıp götüremeyeceği\" sorusuna indirger ve herhangi bir programcının onaylayabileceği gibi bunun açıkça doğru olduğunu iddia eder. Yeterli depolama kapasitesine sahip bir bilgisayarın astronomik sayıda farklı şekilde davranabileceğini belirtiyor. Fikirleri temsil edebilen bir bilgisayarın onları yeni şekillerde birleştirmesi mümkün, hatta önemsiz olmalıdır. (Douglas Lenat'ın Otomatik Matematikçisi, bir örnek olarak, yeni matematiksel gerçekleri keşfetmek için fikirleri birleştirdi.) Kaplan ve Haenlein, makinelerin bilimsel yaratıcılığı sergileyebileceğini öne sürerken, sanatsal yaratıcılığın söz konusu olduğu yerde insanların üstünlüğünün olması muhtemel görünüyor.\n== Felsefenin rolü üzerine görüşler =="
+  },
+  {
+    "chunk_id": "chunk_f6b06965",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "öne sürerken, sanatsal yaratıcılığın söz konusu olduğu yerde insanların üstünlüğünün olması muhtemel görünüyor.\n== Felsefenin rolü üzerine görüşler ==\nBazı akademisyenler, AI topluluğunun felsefeyi reddetmesinin zararlı olduğunu savunuyor.Stanford Felsefe Ansiklopedisi'nde, bazı filozoflar, felsefenin yapay zekadaki rolünün yeterince takdir edilmediğini savunuyorlar. Fizikçi David Deutsch, felsefeyi veya onun kavramlarını anlamadan, AI gelişiminin ilerleme eksikliğinden muzdarip olacağını savunuyor.\n== Kaynakça ==\n== Ayrıca bakınız ==\n== Notlar ==\nAdam, Alison (1989). Artificial Knowing: Gender and the Thinking Machine. Routledge & CRC Press. https://www.routledge.com/Artificial-Knowing-Gender-and-the-Thinking-Machine/Adam/p/book/9780415129633\nBenjamin, Ruha (2019). Race After Technology: Abolitionist Tools for the New Jim Code. Wiley. ISBN 978-1-509-52643-7 14 Temmuz 2021 tarihinde Wayback Machine sitesinde arşivlendi."
+  },
+  {
+    "chunk_id": "chunk_a2bcad55",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "fter Technology: Abolitionist Tools for the New Jim Code. Wiley. ISBN 978-1-509-52643-7 14 Temmuz 2021 tarihinde Wayback Machine sitesinde arşivlendi.\nBlackmore, Susan (2005), Consciousness: A Very Short Introduction, Oxford University Press\nBostrom, Nick (2014), Superintelligence: Paths, Dangers, Strategies, Oxford University Press , 978-0-19-967811-2\nBrooks, Rodney (1990), \"Elephants Don't Play Chess\" (PDF), Robotics and Autonomous Systems, 6 (1–2), ss. 3-15, CiteSeerX 10.1.1.588.7539 , doi:10.1016/S0921-8890(05)80025-9, 9 Ağustos 2007 tarihinde kaynağından arşivlendi (PDF)30 Ağustos 2007\nBryson, Joanna (2019). The Artiﬁcial Intelligence of the Ethics of Artiﬁcial Intelligence: An Introductory Overview for Law and Regulation, 34.\nChalmers, David J (1996), The Conscious Mind: In Search of a Fundamental Theory, Oxford University Press, New York, ISBN 978-0-19-511789-9"
+  },
+  {
+    "chunk_id": "chunk_8e8f63c1",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "lation, 34.\nChalmers, David J (1996), The Conscious Mind: In Search of a Fundamental Theory, Oxford University Press, New York, ISBN 978-0-19-511789-9\nCole, David (Sonbahar 2004), \"The Chinese Room Argument\",  Zalta, Edward N. (Ed.), The Stanford Encyclopedia of Philosophy, 27 Şubat 2021 tarihinde kaynağından arşivlendi20 Ağustos 2021 .\nCrawford, Kate (2021). The Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale University Press.\nŞablon:Crevier 1993\nDennett, Daniel (1991), Consciousness Explained, The Penguin Press, ISBN 978-0-7139-9037-9\nDreyfus, Hubert (1972), What Computers Can't Do, New York: MIT Press, ISBN 978-0-06-011082-6\nDreyfus, Hubert (1979), What Computers Still Can't Do, New York: MIT Press .\nDreyfus, Hubert; Dreyfus, Stuart (1986), Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer, Oxford, UK: Blackwell"
+  },
+  {
+    "chunk_id": "chunk_ab039956",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "eyfus, Hubert; Dreyfus, Stuart (1986), Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer, Oxford, UK: Blackwell\nFearn, Nicholas (2007), The Latest Answers to the Oldest Questions: A Philosophical Adventure with the World's Greatest Thinkers, New York: Grove Press\nGladwell, Malcolm (2005), Blink: The Power of Thinking Without Thinking, Boston: Little, Brown, ISBN 978-0-316-17232-5 .\nHarnad, Stevan (2001), \"What's Wrong and Right About Searle's Chinese Room Argument?\",  Bishop, M.; Preston, J. (Ed.), Essays on Searle's Chinese Room Argument, Oxford University Press, 26 Ekim 2011 tarihinde kaynağından arşivlendi20 Ağustos 2021\nHaraway, Donna (1985). A Cyborg Manifesto.\nHaugeland, John (1985), Artificial Intelligence: The Very Idea, Cambridge, Mass.: MIT Press .\nHofstadter, Douglas (1979), Gödel, Escher, Bach: an Eternal Golden Braid ."
+  },
+  {
+    "chunk_id": "chunk_93713e07",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "985), Artificial Intelligence: The Very Idea, Cambridge, Mass.: MIT Press .\nHofstadter, Douglas (1979), Gödel, Escher, Bach: an Eternal Golden Braid .\nHorst, Steven (2009), \"The Computational Theory of Mind\",  Zalta, Edward N. (Ed.), The Stanford Encyclopedia of Philosophy, Metaphysics Research Lab, Stanford University, 11 Eylül 2018 tarihinde kaynağından arşivlendi20 Ağustos 2021 .\nKaplan, Andreas; Haenlein, Michael (2018), \"Siri, Siri in my Hand, who's the Fairest in the Land? On the Interpretations, Illustrations and Implications of Artificial Intelligence\", Business Horizons, cilt 62, ss. 15-25, doi:10.1016/j.bushor.2018.08.004\nKurzweil, Ray (2005), The Singularity is Near, New York: Viking Press, ISBN 978-0-670-03384-3 .\nLucas, John (1961), \"Minds, Machines and Gödel\",  Anderson, A.R. (Ed.), Minds and Machines, 19 Ağustos 2007 tarihinde kaynağından arşivlendi20 Ağustos 2021 ."
+  },
+  {
+    "chunk_id": "chunk_42aff344",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "John (1961), \"Minds, Machines and Gödel\",  Anderson, A.R. (Ed.), Minds and Machines, 19 Ağustos 2007 tarihinde kaynağından arşivlendi20 Ağustos 2021 .\nMalabou, Catherine (2019). Morphing Intelligence: From IQ Measurement to Artificial Brains. (C. Shread, Trans.). Columbia University Press.\nMcCarthy, John; Minsky, Marvin; Rochester, Nathan; Shannon, Claude (1955), A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, 30 Eylül 2008 tarihinde kaynağından arşivlendi .\nMcDermott, Drew (14 Mayıs 1997), \"How Intelligent is Deep Blue\", New York Times, 4 Ekim 2007 tarihinde kaynağından arşivlendi10 Ekim 2007\nMoravec, Hans (1988), Mind Children, Harvard University Press\nPenrose, Roger (1989), The Emperor's New Mind: Concerning Computers, Minds, and The Laws of Physics, Oxford University Press, ISBN 978-0-14-014534-2"
+  },
+  {
+    "chunk_id": "chunk_13f286f8",
+    "article_title": "Yapay zekâ felsefesi",
+    "text": "s\nPenrose, Roger (1989), The Emperor's New Mind: Concerning Computers, Minds, and The Laws of Physics, Oxford University Press, ISBN 978-0-14-014534-2\nSearle, John (1980), \"Minds, Brains and Programs\" (PDF), Behavioral and Brain Sciences, 3 (3), ss. 417-457, doi:10.1017/S0140525X00005756, 23 Eylül 2015 tarihinde kaynağından (PDF) arşivlendi\nSearle, John (1992), The Rediscovery of the Mind, Cambridge, Massachusetts: M.I.T. Press\nSearle, John (1999), Mind, language and society, New York, NY: Basic Books, ISBN 978-0-465-04521-1, OCLC 231867665\nŞablon:Turing 1950\nYee, Richard (1993), \"Turing Machines And Semantic Symbol Processing: Why Real Computers Don't Mind Chinese Emperors\" (PDF), Lyceum, 5 (1), ss. 37-59, 24 Şubat 2021 tarihinde kaynağından arşivlendi (PDF)20 Ağustos 2021"
+  },
+  {
+    "chunk_id": "chunk_0f987619",
+    "article_title": "Yapay zekâ mühendisliği",
+    "text": "Yapay zekâ mühendisliği, makinelerin insan beyni gibi düşünmesine yönelik programlama yapan bir mühendislik dalıdır. Yapay zekâ mühendisleri temelde makinelere insan gibi düşünebilme, karar verebilme, duyguları ayrıştırabilme ve olayları mantıklı kararlara bağlayabilme gibi yetenekler kazandırmayı hedefler. Bu hedefler doğrultusunda makine öğrenme algoritmaları ve modelleri geliştirmektedirler.\nDil çevirisi, görsel algı (nesnelerin tanınması) ve duygu analizine dayalı reklamcılık bu mühendislik dalının bazı uygulamalarındandır. Bu çalışmaları veri mühendisleri ve veri bilimcileri ile koordineli şekilde yürütürler.\n== Eğitimi ==\nYapay zekâ mühendisliği bölümü 4 yıldır, bu eğitimi bitirenler yapay zekâ mühendisi unvanını alırlar. 2022'de, ABD'de bir yapay zekâ mühendisinin ortalama yıllık maaşı $149,982'dı.\n== İlgili dallar =="
+  },
+  {
+    "chunk_id": "chunk_dd36d0d0",
+    "article_title": "Yapay zekâ mühendisliği",
+    "text": "i bitirenler yapay zekâ mühendisi unvanını alırlar. 2022'de, ABD'de bir yapay zekâ mühendisinin ortalama yıllık maaşı $149,982'dı.\n== İlgili dallar ==\nYapay zekâ mühendisliği de tıpkı yazılım mühendisliği gibi bilgisayar mühendisliğinden türemiştir. Sistem mühendisliği, yazılım mühendisliği, bilgisayar bilimi ve insan merkezli tasarımın bir kombinasyonu olarak ortaya çıkmıştır.\n== Ayrıca bakınız ==\nMühendislik\nYapay zekâ\nBilgisayar mühendisliği\nYazılım mühendisliği\nMakine öğrenmesi\n== Kaynakça =="
+  },
+  {
+    "chunk_id": "chunk_8d5c7eaa",
+    "article_title": "Üretken yapay zekâ",
+    "text": "Üretken yapay zekâ (İngilizce: Generative artificial intelligence, Generative AI, GenAI, ya da GAI), bilgisayar sistemlerinin metin, görüntü, ses gibi farklı büyük veri türlerini işleyerek orijinal içerik oluşturmasına yarayan bir yapay zekâ teknolojisi dalıdır. Bu modeller, eğitim, doğrulama ve test veri kümeleri altında yatan kalıpları ve yapıları öğrenir. Daha sonra bunları, genellikle doğal dil istemleri biçiminde gelen girdiye dayalı olarak yeni veriler üretmek için kullanır.\nÜretken yapay zekâ sistemleri genellikle derin öğrenme ve sinir ağları kullanarak eğitilir ve veriyi işleyerek anlamlandırılabilir, üretebilir veya dönüştürebilir."
+  },
+  {
+    "chunk_id": "chunk_7349d371",
+    "article_title": "Üretken yapay zekâ",
+    "text": " zekâ sistemleri genellikle derin öğrenme ve sinir ağları kullanarak eğitilir ve veriyi işleyerek anlamlandırılabilir, üretebilir veya dönüştürebilir.\nTransformatör tabanlı derin sinir ağlarındaki (DNN) iyileştirmeler, özellikle büyük dil modelleri (LLM), 2020'lerin başında üretken yapay zekâ sistemlerinin patlak vermesine yol açtı. Günümüzde üretken yapay zekâ sistemleri, sağlık, eğitim, savunma sanayi, medya, tarım, madencilik, finans, pazarlama, müşteri temsilciliği, yazılım geliştirme, oyun, sanat, yazarlık dâhil olmak üzere çok çeşitli alanda kullanılmaktadır.\n2020'li yıllarda aralarında DeepSeek, ChatGPT, Bing Chat, Bard ve Llama gibi popüler uygulamaların yer aldığı üretken zekâya dayalı sohbet robotları ile Stable Diffusion, Midjourney ve DALL-E gibi yazılı metni görüntüye çeviren üretken yapay zekâ programları yaygınlaşıp tanınmıştır. OpenAI, Anthropic, Microsoft, Google ve Baidu gibi büyük şirketler ile birçok daha küçük firma, üretken yapay zeka modelleri geliştirmiştir."
+  },
+  {
+    "chunk_id": "chunk_8b2d66d0",
+    "article_title": "Üretken yapay zekâ",
+    "text": "ınmıştır. OpenAI, Anthropic, Microsoft, Google ve Baidu gibi büyük şirketler ile birçok daha küçük firma, üretken yapay zeka modelleri geliştirmiştir.\nÜretken yapay zeka, yazılım geliştirme, sağlık hizmetleri, finans, eğlence, müşteri hizmetleri, satış ve pazarlama, sanat, yazım, moda ve ürün tasarımı gibi çok çeşitli endüstrilerde kullanılmaktadır. Bununla birlikte, üretken yapay zekanın kötüye kullanılma potansiyeli hakkında endişeler dile getirilmiştir. Bu endişeler arasında siber suçlar, insanları kandırmak veya manipüle etmek için sahte haberler veya derin sahtekarlıkların (deepfake) kullanımı ve insan iş gücünün kitlesel olarak değiştirilmesi yer almaktadır. Ayrıca, telif hakkı ile korunan sanat eserleri üzerinde eğitim alan ve bunları taklit eden üretken modeller etrafında da fikri mülkiyet hukuku ile ilgili endişeler bulunmaktadır.\n== Üretken yapay zekâ örnekleri ==\n== Ayrıca bakınız ==\nErişim destekli üretim\nSufle mühendisliği\nMetinden videoya model\nMetinden resme model"
+  },
+  {
+    "chunk_id": "chunk_a3eb301a",
+    "article_title": "Üretken yapay zekâ",
+    "text": "aktadır.\n== Üretken yapay zekâ örnekleri ==\n== Ayrıca bakınız ==\nErişim destekli üretim\nSufle mühendisliği\nMetinden videoya model\nMetinden resme model\nYapay genel zekâ\nÜretken çekişmeli ağ\n== Kaynakça =="
+  },
+  {
+    "chunk_id": "chunk_a4a225dd",
+    "article_title": "Yapay zekâ patlaması",
+    "text": "Yapay Zekâ Patlaması, veya Yapay Zekâ Baharı, yapay zekâ alanında çok hızlı bir şekilde devam eden ilerleme dönemidir. Yapay zekâ çağı'nda öne çıkan örnekler arasında Google DeepMind ve OpenAI gibi laboratuvarlar tarafından yürütülen üretken yapay zekâlar yer almaktadır.\nYapay zekâ patlamasının derin kültürel, felsefi, dini, ekonomik ve sosyal etkilerinin olması beklenirken, yapay zekâ hizalaması, qualia ve yapay genel zekânın gelişimi gibi sorular popüler tartışmaların öne çıkan konuları haline gelmiştir.\n== Tarih =="
+  },
+  {
+    "chunk_id": "chunk_7041946d",
+    "article_title": "Yapay zekâ patlaması",
+    "text": "ken, yapay zekâ hizalaması, qualia ve yapay genel zekânın gelişimi gibi sorular popüler tartışmaların öne çıkan konuları haline gelmiştir.\n== Tarih ==\n2012 yılında Toronto Üniversitesi'nden bir araştırma ekibi yapay sinir ağları ve derin öğrenme tekniklerini kullanarak bilgisayarlı görü alanındaki ImageNet nesne tanıma yarışmasında hata oranını ilk kez %25'in altına düşürmüştür. Bu olay, ImageNet yarışmasının mezunlarının teknoloji endüstrisinde lider konuma gelmesiyle, aynı on yıl içinde yapay zekâ patlamasına öncülük etmiştir. Üretken yapay zekâ yarışı, OpenAI'nin kurulması ve grafiksel işlem birimi, eğitim verilerinin miktarı ve kalitesi, üretken rakip ağ, yayılma modeli ve transformatör mimarisinde kaydedilen önceki ilerlemelerin ardından 2016 veya 2017'de ciddi anlamda başlamıştır. Stanford Üniversitesi'nin  bir girişimi olan Yapay Zekâ Endeksi, 2018 yılında yapay zekâ alanında ticari ve araştırma çabalarında küresel bir patlama yaşandığını bildirdi. O yıl bu alanda en fazla makale Avrupa'da yayınlanırken, onu Çin ve Kuzey Amerika takip etti. AlphaFold gibi teknolojiler, protein katlanmasının daha doğru tahmin edilmesine ve daha iyi ilaç geliştirilmesine yol açtı. Ekonomi alanında çalışan araştırmacılar ve kanun yapıcılar yapay zekânın etkilerini daha sık tartışır hale geldiler. 2022 yılına gelindiğinde geniş dil modellerinin chatbot uygulamalarında kullanımı arttı; metinden resme modeller, insan yapımı gibi görünen görüntüler üretebilir; ve konuşma sentezleyici yazılımı insan konuşmasını verimli bir şekilde kopyalamayı başardı."
+  },
+  {
+    "chunk_id": "chunk_2a6f9007",
+    "article_title": "Yapay zekâ patlaması",
+    "text": "modeller, insan yapımı gibi görünen görüntüler üretebilir; ve konuşma sentezleyici yazılımı insan konuşmasını verimli bir şekilde kopyalamayı başardı.\n2017-2021 yılları arasındaki ölçümlere göre, Amerika Birleşik Devletleri risk sermayesi finansmanı, startup sayısı ve yapay zekâ alanında alınan patentler açısından dünyanın geri kalanını geride bırakmaktadır. ABD'ye göç eden bilim insanları, ülkenin yapay zekâ teknolojisini geliştirmesinde büyük rol oynamaktadır. Birçoğunun Çin'de eğitim görmüş olması, iki ülke arasındaki ilişkilerin kötüleştiği bir dönemde ulusal güvenlik kaygılarına ilişkin tartışmalara yol açmıştır. Bir Dış İlişkiler Konseyi analisti, Çin'in kaydettiği ilerleme karşısında ABD'nin konumunu korumasının yollarını özetledi. 2023 yılında Stratejik ve Uluslararası Çalışmalar Merkezi'nden bir analist, ABD'nin ticaret anlaşmalarına güvenmek yerine dış politikasını yönlendirmek için yapay zekâ teknolojisindeki hakimiyetini kullanmasını savunmuştur.\n== İlerlemeler =="
+  },
+  {
+    "chunk_id": "chunk_ae4e0f3d",
+    "article_title": "Yapay zekâ patlaması",
+    "text": " anlaşmalarına güvenmek yerine dış politikasını yönlendirmek için yapay zekâ teknolojisindeki hakimiyetini kullanmasını savunmuştur.\n== İlerlemeler ==\n=== Bilimsel ===\nYapay zekânın insan hayatının uzatması için kullanılmasına yönelik öneriler bulunmaktadır.\nAlphaFold 2'nin CASP'nin küresel mesafe testinde (GDT) 90'dan fazla puanı, hesaplamalı biyolojide önemli bir başarı  ve biyolojinin on yıllardır süren büyük mücadelesine doğru büyük bir ilerleme kat ettiği kabul ediliyor. Nobel Ödülü sahibi ve yapısal biyolog Venki Ramakrishnan, sonucu \"protein katlama probleminde çarpıcı bir ilerleme\" olarak nitelendirdi ve şunu ekledi: \"Bu alandaki pek çok kişinin tahmin edebileceğinden onlarca yıl önce gerçekleşti. Biyolojik araştırmaları temelden değiştirecek birçok yolu görmek heyecan verici olacaktır.\"  AlphaFold 2'nin başarısı medyanın geniş ilgisini çekti."
+  },
+  {
+    "chunk_id": "chunk_7680eb71",
+    "article_title": "Yapay zekâ patlaması",
+    "text": ". Biyolojik araştırmaları temelden değiştirecek birçok yolu görmek heyecan verici olacaktır.\"  AlphaFold 2'nin başarısı medyanın geniş ilgisini çekti.\nProtein yapılarını oluşturan amino asit dizilimine dayanarak doğru bir şekilde tahmin etme yeteneğinin, gelişmiş ilaç keşfini hızlandırmak ve hastalıkların daha iyi anlaşılmasını sağlamak da dahil olmak üzere sağlık bilimleri alanında çok çeşitli faydaları olması beklenmektedir. Etkinlik hakkında yazan MIT Technology Review, yapay zekânın \"biyolojinin elli yıllık büyük bir sorununu çözdüğünü\" belirtti. Yapay zekâ algoritmasının \"proteinlerin şeklini bir atom genişliğine kadar tahmin edebildiğini\" belirtti.\n=== Geniş dil modelleri ==="
+  },
+  {
+    "chunk_id": "chunk_b4947bec",
+    "article_title": "Yapay zekâ patlaması",
+    "text": "üğünü\" belirtti. Yapay zekâ algoritmasının \"proteinlerin şeklini bir atom genişliğine kadar tahmin edebildiğini\" belirtti.\n=== Geniş dil modelleri ===\nGPT-3, OpenAI tarafından 2020'de piyasaya sürülen geniş dil modelidir ve bir insan tarafından yazıp yazmadığının belirlenmesi zor olabilecek, yüksek kaliteli, insana benzer metinler üretme kapasitesine sahiptir. ChatGPT'de GPT-3.5 adı verilen yükseltilmiş bir sürüm kullanıldı ve daha sonra ayrıntılı yanıtları ve birçok bilgi alanındaki yanıtları açıkça ifade etmesiyle dikkat çekti. GPT-4 adı verilen yeni sürüm 14 Mart 2023'te yayımlandı ve Microsoft Bing arama motorunda kullanıldı. Google tarafından PaLM ve Gemini ve Meta Platformları tarafından LLaMA gibi diğer dil modelleri de piyasaya sürüldü."
+  },
+  {
+    "chunk_id": "chunk_12f338a4",
+    "article_title": "Yapay zekâ patlaması",
+    "text": " Bing arama motorunda kullanıldı. Google tarafından PaLM ve Gemini ve Meta Platformları tarafından LLaMA gibi diğer dil modelleri de piyasaya sürüldü.\nOcak 2023'te, tek dilli metinleri geliştirmeye yönelik yapay zekâ tabanlı bir araç olan DeepL Çeviri yayınlandı. Aralık 2023'te Google'ın en son modeli olan Gemini tanıtıldı ve çoğu karşılaştırmada önceki son teknoloji model GPT-4'ü geride bıraktığı öne sürüldü.\n=== Metinden resme modeller ===\nKamuoyunun dikkatini çeken ilk metinden görüntüye modellerden biri, Ocak 2021'de duyurulan bir transformatör sistemi olan OpenAI'nin geliştirdiği DALL-E oldu.  Karmaşık ve gerçekçi görüntüler oluşturabilen bir halef olan DALL-E 2, Nisan 2022'de tanıtıldı  Alternatif bir metinden görüntüye model olan Midjourney Temmuz 2022'de piyasaya sürüldü. Başka bir alternatif, açık kaynaklı model Stable Diffusion, Ağustos 2022'de piyasaya sürüldü"
+  },
+  {
+    "chunk_id": "chunk_6812b842",
+    "article_title": "Yapay zekâ patlaması",
+    "text": "ye model olan Midjourney Temmuz 2022'de piyasaya sürüldü. Başka bir alternatif, açık kaynaklı model Stable Diffusion, Ağustos 2022'de piyasaya sürüldü\nDiğer metinden görüntüye modellerini takiben, DAMO, Make-A-Video, Imagen Video  ve Phenaki  gibi dil modeli destekli metinden videoya platformları metin ve/veya metin/görüntü istemlerinden video oluşturabilir.\n=== Konuşma sentezi ==="
+  },
+  {
+    "chunk_id": "chunk_86c221c6",
+    "article_title": "Yapay zekâ patlaması",
+    "text": "Phenaki  gibi dil modeli destekli metinden videoya platformları metin ve/veya metin/görüntü istemlerinden video oluşturabilir.\n=== Konuşma sentezi ===\n15.ai, insanların çeşitli medya kaynaklarından gelen çeşitli kurgusal karakterlerden doğal, duygusal, yüksek kaliteli metinden konuşmaya sesler üretmesine olanak tanıyan, halka açık ilk konuşma sentezi yazılımlarından birisi olmuştur. İlk olarak Mart 2020'de piyasaya sürülmüştür. ElevenLabs, kullanıcıların ses örnekleri yükleyebildiği ve bu örneklerden sesler üretmesine olanak tanıyan bir web sitesi yayınladı. Şirket, kullanıcıların yazılımını ünlülerin, kamu görevlilerinin ve diğer ünlü kişilerin ses tarzında tartışmalı ifadeler üretmek için istismar edebilmelerinin üzerine eleştiriye uğradı  ve daha ikna edici deepfake oluşturmak için kullanılabileceğine dair endişeler dile getirildi. Konuşma sentezi yazılımında müzisyenler Drake ve The Weeknd'in sesleri kullanılarak oluşturulan resmi olmayan bir şarkı, benzer yazılımların etiği ve yasallığı hakkında soruları gündeme getirdi."
+  },
+  {
+    "chunk_id": "chunk_18b61452",
+    "article_title": "Yapay zekâ patlaması",
+    "text": "e ve The Weeknd'in sesleri kullanılarak oluşturulan resmi olmayan bir şarkı, benzer yazılımların etiği ve yasallığı hakkında soruları gündeme getirdi.\n== Etkisi ==\n=== Kültürel ===\nYapay zekâ patlaması sırasında farklı gruplar ortaya çıktı. Bunlar etkili ivmecileri, etkili özgecileri ve felaketçileri içermektedir.\n=== Teknoloji devlerinin hâkimiyeti ===\nTicari yapay zekâ sahnesine, bu alandaki yatırımları ABD merkezli girişim sermayedarlarının yatırımlarını geride bırakan Alphabet Inc., Amazon, Apple Inc., Meta Platforms ve Microsoft gibi Amerikan Büyük Teknoloji şirketleri hakim konumdadır. Bu oyunculardan bazıları halihazırda mevcut bulut bilişim altyapısının büyük çoğunluğuna sahiptir ve bu da onların pazarda daha da sağlamlaşmasına yardımcı olmaktadır. Bu durum birçok kişiyi derin endişelere sürüklemektedir.\n=== Fikri mülkiyet ===\nTeknoloji şirketleri, yapay zekâ modellerini eğitmek için eserlerini kullandıkları gerekçesiyle sanatçılar ve yazılım geliştiriciler tarafından dava edilmiştir."
+  },
+  {
+    "chunk_id": "chunk_7ae970b4",
+    "article_title": "Yapay zekâ patlaması",
+    "text": "şirketleri, yapay zekâ modellerini eğitmek için eserlerini kullandıkları gerekçesiyle sanatçılar ve yazılım geliştiriciler tarafından dava edilmiştir.\n== Endişeler ==\n=== Ekonomik bozulma ===\nYapay zekâ daha sofistike hale geldikçe, insan çalışanlardan daha iyi performans göstereceğine ve daha uygun maliyetli olacağına dair endişeler bulunmaktadır.\n=== İnsanlığa yönelik riskler ==="
+  },
+  {
+    "chunk_id": "chunk_7c16e839",
+    "article_title": "Yapay zekâ patlaması",
+    "text": "nsan çalışanlardan daha iyi performans göstereceğine ve daha uygun maliyetli olacağına dair endişeler bulunmaktadır.\n=== İnsanlığa yönelik riskler ===\nBirçok uzman, yapay zekâ patlamasının, büyük şirketlerin güvenlik konusunda çok az endişe duyarak piyasadaki en güçlü yapay zekâ modeline sahip olmak için birbirleriyle rekabet ettiği bir silahlanma yarışı başladığını belirtmektedir. Yapay zekâ patlaması sırasında uzmanlar tarafından çok sayıda güvenlik endişesi dile getirildi. Özellikle, hız ve kârın güvenlik ve kullanıcı korumasından daha öncelikli olduğu güçlü modellerin geliştirilmesine ilişkin endişeler bulunmaktadır. ChatGPT, Microsoft'un Tay'i ve önde gelen yapay zekâ yüz tanıma modellerinin ırkçı, cinsiyetçi, homofobik ve diğer ayrımcılık türlerine ilişkin çok sayıda rapor bulunmaktadır. Yapay zekânın insan değerleriyle uyumlu olmasını nasıl sağlayacağımızı anlamak için dünya çapında 80 ila 120 araştırmacının  çalıştığı tahmin edilmektedir. Yapay zekânın nasıl çalıştığına dair eksik anlayış nedeniyle, dünya genelindeki pek çok araştırmacı, yapay zekâ patlamasının gelecekteki olası etkileriyle ilgili endişelerini dile getirmiştir. Kamuoyunun yapay zekâ patlamasına tepkisi ise karışık oldu; bazı taraflar yapay zekânın yarattığı yeni olasılıkları övdü  diğer taraflar ise iş güvencesini tehdit etmekle ve 'tekinsiz' ya da kusurlu yanıtlar vermekle itham etti."
+  },
+  {
+    "chunk_id": "chunk_53e3ce70",
+    "article_title": "Yapay zekâ patlaması",
+    "text": "y zekânın yarattığı yeni olasılıkları övdü  diğer taraflar ise iş güvencesini tehdit etmekle ve 'tekinsiz' ya da kusurlu yanıtlar vermekle itham etti.\nYapay zekâ patlamasının ortasında, yapay zekâyı çevreleyen heyecan, önemli tehlikeler oluşturduğu şeklinde tanımlanmıştır. Kamuoyunda yapay zekâya duyulan ilginin yarattığı coşku ve baskı, geliştiricileri yapay zekâ sistemlerinin oluşturulmasını ve dağıtımını hızlandırmaya sevk etmektedir. Bu acele, önemli güvenlik prosedürlerinin ihmal edilmesine yol açabilir ve potansiyel olarak ciddi varoluşsal risklerle sonuçlanabilir. Holden Karnofsky'nin belirttiği gibi, tüketici beklentilerini karşılamak için zorunlu rekabet, kuruluşları kapsamlı güvenlik kontrolleri yerine hıza öncelik vermeye teşvik edebilir ve böylece yapay zekânın bilinçli bir şekilde geliştirilmesini tehlikeye sokabilir."
+  },
+  {
+    "chunk_id": "chunk_727df5d4",
+    "article_title": "Yapay zekâ patlaması",
+    "text": "ı güvenlik kontrolleri yerine hıza öncelik vermeye teşvik edebilir ve böylece yapay zekânın bilinçli bir şekilde geliştirilmesini tehlikeye sokabilir.\nHakim olan yapay zekâ yarışı zihniyeti, yapay genel zekânın geliştirilmesiyle ilgili riskleri artırmaktadır. Rekabet yenilikçiliği ve yapay zekâda ilerleme'yi teşvik edebilirken, rakiplerden daha iyi performans göstermeye yönelik yoğun bir yarış, uzun vadeli güvenlik yerine kısa vadeli kazançlara öncelik verilmesini teşvik edebilmektedir. \"Kazanan her şeyi alır\" zihniyeti, köşeleri kesmeyi daha da teşvik edebilir, potansiyel olarak dibe doğru bir yarış yaratabilir ve etik hususları sorumlu yapay zekâ gelişimine gölge düşürebilir."
+  },
+  {
+    "chunk_id": "chunk_880f2057",
+    "article_title": "Yapay zekâ patlaması",
+    "text": "kesmeyi daha da teşvik edebilir, potansiyel olarak dibe doğru bir yarış yaratabilir ve etik hususları sorumlu yapay zekâ gelişimine gölge düşürebilir.\nYapay zekâ topluluğunun önde gelen isimleri temkinli bir yaklaşımı savunarak, yapay zekâ şirketlerini gereksiz abartı ve hızlanmadan kaçınmaya çağırdı. Endişeler, yapay zekâ sektörüne çok hızlı bir şekilde para akıtmanın, temel riskleri dikkate almadan dönüştürücü yapay zekâ geliştirmek için yarışan şirketlerin tedbirsizliğine yol açabileceği inancından kaynaklanmaktadır. Yapay zekâya yapılan yatırımlara rağmen, bazıları hızlanma ile ilişkili riskleri azaltmak için çok geç olmadığını savunmaktadır. İhtiyatlı olmayı savunanlar, temel riskler, güçlü güvenlik prosedürleri hakkında farkındalık yaratmanın ve uyum araştırması, standartlar ve izleme gibi yapay zekâ güvenlik önlemlerine yatırım yapmanın önemini vurgulamaktadır.\n== Ayrıca bakınız ==\nYapay zekâ çöplüğü\nYapay zekâ kışı, yapay zekâ araştırmalarına fon ve ilginin azaldığı bir dönem"
+  },
+  {
+    "chunk_id": "chunk_0ac7a561",
+    "article_title": "Yapay zekâ patlaması",
+    "text": "apmanın önemini vurgulamaktadır.\n== Ayrıca bakınız ==\nYapay zekâ çöplüğü\nYapay zekâ kışı, yapay zekâ araştırmalarına fon ve ilginin azaldığı bir dönem\nTeknolojik tekillik\n== Kaynakça =="
+  },
+  {
+    "chunk_id": "chunk_6f8e9358",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "Yapay zekâ güvenliği, yapay zekâ sistemlerinden kaynaklanabilecek kazaları, kötüye kullanımı veya diğer zararlı sonuçları önlemekle ilgilenen disiplinler arası bir alandır. Yapay zekâ sistemlerini ahlaki ve faydalı hale getirmeyi amaçlayan makine etiği ile yapay zekâ uyumunu kapsar ve yapay zekâ güvenliği, riskler için sistemleri izlemek ve onları son derece güvenilir hale getirmek gibi teknik sorunları kapsar. Yapay zekâ araştırmalarının ötesinde, güvenliği teşvik eden normlar ve politikalar geliştirmeyi içerir.\n== Motivasyonlar =="
+  },
+  {
+    "chunk_id": "chunk_7f8c5009",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "i teknik sorunları kapsar. Yapay zekâ araştırmalarının ötesinde, güvenliği teşvik eden normlar ve politikalar geliştirmeyi içerir.\n== Motivasyonlar ==\nYapay zekâ araştırmacıları, yapay zekâ teknolojisinin oluşturduğu riskin ciddiyeti ve birincil kaynakları hakkında farklı görüşlere sahiptir. Yine de anketler, uzmanların yüksek sonuçlu riskleri ciddiye aldığını göstermektedir. Yapay zekâ araştırmacılarıyla yapılan iki ankette, katılımcıların ortalamasının genel olarak yapay zekâ konusunda iyimser olduğu, ancak gelişmiş yapay zekânın \"son derece kötü (örneğin insan neslinin tükenmesi)\" bir sonuca yol açma olasılığının %5 olduğu görülmüştür. 2022 yılında Doğal dil işleme (NLP) topluluğunda yapılan bir ankete katılanların %37'si, yapay zekâ kararlarının \"en az topyekün bir nükleer savaş kadar kötü\" bir felakete yol açabileceğinin makul olduğunu kabul etmiş veya zayıf bir şekilde kabul etmiştir. Akademisyenler kritik sistem arızalarından, önyargıdan, ve yapay zekâ destekli gözetimden kaynaklanan mevcut riskleri tartışmaktadır; teknolojik işsizlik, dijital manipülasyon  ve silahlanmadan kaynaklanan riskler; ve gelecekteki yapay genel zekânın kontrolünü kaybetmekten kaynaklanan spekülatif riskleri göze almaktadırlar."
+  },
+  {
+    "chunk_id": "chunk_bc22dc3b",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "  ve silahlanmadan kaynaklanan riskler; ve gelecekteki yapay genel zekânın kontrolünü kaybetmekten kaynaklanan spekülatif riskleri göze almaktadırlar.\nBazıları, 2015'te bunları \"henüz gezegene ayak basmadığımız halde Mars'ta aşırı nüfus konusunda endişelenmek\" ile karşılaştıran Andrew Ng gibi yapay genel zekâ ile ilgili endişeleri eleştirmiştir. Öte yandan Stuart J. Russell, Diğer taraftan Stuart J. Russell, \"insan yaratıcılığını tahmin edebilmenin onu hafife almaktan daha iyi olduğunu\" savunarak dikkatli olunması çağrısında bulunuyor.\n== Arka plan ==\nYapay zekâdan kaynaklanan riskler bilişim çağının başlangıcında ciddi olarak tartışılmaya başlandı:\nDahası, öğrenen ve davranışları deneyimle değiştirilen makineler yapma yönünde ilerlersek, makineye verdiğimiz her bağımsızlık derecesinin, isteklerimize olası bir meydan okuma derecesi olduğu gerçeğiyle yüzleşmeliyiz."
+  },
+  {
+    "chunk_id": "chunk_1c861980",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "ma yönünde ilerlersek, makineye verdiğimiz her bağımsızlık derecesinin, isteklerimize olası bir meydan okuma derecesi olduğu gerçeğiyle yüzleşmeliyiz.\n2008-2009 yılları arasında Yapay Zekâ Geliştirme Derneği, yapay zekâ araştırma ve geliştirmesinin potansiyel uzun vadeli toplumsal etkilerini araştırmak ve ele almak üzere bir çalışma yaptırmıştır. Panel, bilimkurgu yazarları tarafından ifade edilen radikal görüşlere genel olarak şüpheyle yaklaşmış, ancak \"beklenmedik sonuçları en aza indirmek için karmaşık hesaplama sistemlerinin davranış yelpazesini anlama ve doğrulama yöntemleri konusunda ek araştırmaların değerli olacağı\" konusunda hemfikir olunmuştur.\nRoman Yampolskiy 2011 yılında Yapay Zekâ Felsefesi ve Teorisi konferansında \" Yapay zekâ güvenlik mühendisliği\" terimini ortaya atmış, yapay zekâ sistemlerinin önceki başarısızlıklarını sıralamış ve \"yapay zekâlar daha yetenekli hale geldikçe bu tür olayların sıklığı ve ciddiyetinin giderek artacağını\" savunmuştur."
+  },
+  {
+    "chunk_id": "chunk_5c7137d2",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": " başarısızlıklarını sıralamış ve \"yapay zekâlar daha yetenekli hale geldikçe bu tür olayların sıklığı ve ciddiyetinin giderek artacağını\" savunmuştur.\nFilozof Nick Bostrom 2014 senesinde \"Süper Zekâ:Yollar, Tehlikeler, Stratejiler\" adlı kitabını yayınladı. Bostrom, yapay zekânın yükselişinin, işgücünün yapay zekâ tarafından yerinden edilmesinden, siyasi ve askeri yapıların manipüle edilmesine ve hatta insan neslinin tükenme olasılığına kadar çeşitli toplumsal sorunlar yaratma potansiyeline sahip olduğu görüşündedir. Gelecekteki gelişmiş sistemlerin insan varlığına tehdit oluşturabileceği yönündeki argümanı Elon Musk, Bill Gates  ve Stephen Hawking'in de benzer endişeleri dile getirmesine neden olmuştur."
+  },
+  {
+    "chunk_id": "chunk_7da4cd36",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "arlığına tehdit oluşturabileceği yönündeki argümanı Elon Musk, Bill Gates  ve Stephen Hawking'in de benzer endişeleri dile getirmesine neden olmuştur.\n2015 yılında onlarca yapay zekâ uzmanı, yapay zekânın toplumsal etkileri üzerine araştırma yapılması çağrısında bulunan ve somut yönergeler belirleyen bir açık mektuba imza atmıştır. Mektup bugüne kadar Yann LeCun, Shane Legg, Yoshua Bengio ve Stuart Russell'ın da aralarında bulunduğu 8000'den fazla kişi tarafından imzalandı.\nAynı yıl, profesör Stuart Russell liderliğindeki bir grup akademisyen California Berkeley Üniversitesinde İnsan Uyumlu Yapay Zekâ Merkezi'ni kurdu ve Yaşamın Geleceği Enstitüsü \"yapay zekânın güvenli, etik ve faydalı kalmasını sağlamayı\" amaçlayan araştırmalar için 6,5 milyon dolar hibe desteği sağladı."
+  },
+  {
+    "chunk_id": "chunk_425ae3b3",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "mın Geleceği Enstitüsü \"yapay zekânın güvenli, etik ve faydalı kalmasını sağlamayı\" amaçlayan araştırmalar için 6,5 milyon dolar hibe desteği sağladı.\n2016 yılında Beyaz Saray Bilim ve Teknoloji Politikası Ofisi ve Carnegie Mellon Üniversitesi, yapay zekânın \"avantajlarını ve dezavantajlarını\" araştırmayı amaçlayan dört Beyaz Saray çalıştayından biri olan Yapay Zekâ için Güvenlik ve Kontrol Kamu Çalıştayı'nı duyurdu.  Aynı yıl, ilk ve en etkili teknik Yapay Zekâ Güvenliği gündemlerinden biri olan \"Concrete Problems in AI Safety\" yayınlandı.\n2017 yılında Yaşamın Geleceği Enstitüsü, 100'den fazla düşünce liderinin aşağıdakiler de dahil olmak üzere faydalı yapay zekâ için ilkeleri formüle ettiği Asilomar Faydalı Yapay Zekâ Konferansı'na sponsor oldu. \"Yarıştan Kaçınma: Yapay zekâ sistemleri geliştiren ekipler, güvenlik standartlarında köşe dönmekten kaçınmak için aktif olarak işbirliği yapmalıdır.\""
+  },
+  {
+    "chunk_id": "chunk_b9a07dbd",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "\"Yarıştan Kaçınma: Yapay zekâ sistemleri geliştiren ekipler, güvenlik standartlarında köşe dönmekten kaçınmak için aktif olarak işbirliği yapmalıdır.\"\n2018 yılında DeepMind Safety ekibi, teknik özellik, sağlamlık ve güvence konularında yapay zekâ güvenlik sorunlarının ana hatlarını ortaya koydu. Ertesi yıl, araştırmacılar ICLR'de bu sorun alanlarına odaklanan bir çalıştay düzenlediler.\n2021 yılında, sağlamlık, izleme, hizalama ve sistemik güvenlik alanlarındaki araştırma yönlerini özetleyen \"Unsolved Problems in Machine Learning Safety\" yayınlandı.\nRishi Sunak, 2023 yılında Birleşik Krallık'ın \"küresel yapay zekâ güvenlik düzenlemesinin merkezi\" olmasını ve yapay zekâ güvenliği konusundaki ilk küresel zirveye ev sahipliği yapmasını istediğini söyledi.\n== Araştırma odağı ==\nYapay zekâ güvenlik araştırma alanları arasında sağlamlık, izleme ve hizalama yer almaktadır.\n=== Sağlamlık ===\n==== Saldırıya karşı sağlamlık ===="
+  },
+  {
+    "chunk_id": "chunk_922b9aa6",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "==\nYapay zekâ güvenlik araştırma alanları arasında sağlamlık, izleme ve hizalama yer almaktadır.\n=== Sağlamlık ===\n==== Saldırıya karşı sağlamlık ====\nYapay zekâ sistemleri genellikle rakip örneklere veya \"bir saldırganın kasten modelin hata yapmasına neden olacak şekilde tasarladığı makine öğrenimi (ML) modellerindeki girdilere\" karşı savunmasız durumdadır. Örneğin, 2013 yılında Szegedy ve arkadaşları, bir görüntüye belirli algılanamaz bozulmalar eklemenin, görüntünün yüksek güvenle yanlış sınıflandırılmasına neden olabileceğini ortaya çıkarmıştır. Bu durum sinir ağları ile ilgili bir sorun olmaya devam etmektedir, ancak son çalışmalarda bozulmalar genellikle algılanabilecek kadar büyük olmaktadır."
+  },
+  {
+    "chunk_id": "chunk_f3bd3dc8",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": " durum sinir ağları ile ilgili bir sorun olmaya devam etmektedir, ancak son çalışmalarda bozulmalar genellikle algılanabilecek kadar büyük olmaktadır.\nSağdaki tüm görüntülerin bozulma uygulandıktan sonra devekuşu olduğu tahmin edilmektedir. Solda yapay zekâ köpeği doğru tahin ediyor ama tititzlikle eklenen gürültü yüzünden yapay zekâ köpeği bir devekuşu olarak sınıflandırıyor. Bu da bize dikkatli bir şekilde oluşturulmuş gürültülerin yapay zekâyı yanlış sınıflandırmaya itebileceğini göstermektedir.\nSaldırıya karşı sağlamlık genellikle güvenlikle ilişkilendirilir. Araştırmacılar, bir ses sinyalinin fark edilmeyecek şekilde değiştirilebileceğini ve böylece konuşmadan metne sistemlerinin bunu saldırganın seçtiği herhangi bir mesaja dönüştürebileceğini göstermiştir. Ağa izinsiz giriş  ve kötü amaçlı yazılım  tespit sistemleri de saldırganlara karşı dayanıklı olmalıdır çünkü saldırganlar saldırılarını bu tespit edicileri kandırmak için tasarlayabilir."
+  },
+  {
+    "chunk_id": "chunk_ba639f0a",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "ılım  tespit sistemleri de saldırganlara karşı dayanıklı olmalıdır çünkü saldırganlar saldırılarını bu tespit edicileri kandırmak için tasarlayabilir.\nHedefleri temsil eden modeller (ödül modelleri) de tersine dayanıklı olmalıdır. Örneğin, bir ödül modeli bir metin yanıtının ne kadar yararlı olduğunu tahmin edebilir ve bir dil modeli bu puanı en üst düzeye çıkarmak için eğitilebilir. Araştırmacılar, bir dil modelinin yeterince uzun süre eğitilmesi durumunda, daha iyi bir puan elde etmek ve amaçlanan görevde daha kötü performans göstermek için ödül modelinin zayıflıklarından yararlanacağını göstermiştir. Bu sorun, ödül modelinin düşmana karşı sağlamlığı geliştirilerek ele alınabilir. Daha genel olarak, başka bir yapay zekâ sistemini değerlendirmek için kullanılan herhangi bir yapay zekâ sistemi agresif olarak güvenilir olmalıdır. Bu, izleme araçlarını da içerebilir, çünkü daha yüksek bir ödül üretmek için potansiyel olarak manipüle edilebilirler.\n=== İzleme ==="
+  },
+  {
+    "chunk_id": "chunk_650a9b16",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "nilir olmalıdır. Bu, izleme araçlarını da içerebilir, çünkü daha yüksek bir ödül üretmek için potansiyel olarak manipüle edilebilirler.\n=== İzleme ===\n==== Belirsizliğin tahmin edilmesi ====\nİnsan operatörlerin, özellikle tıbbi teşhis gibi yüksek riskli ortamlarda, bir yapay zekâ sistemine ne kadar güvenmeleri gerektiğini ölçmeleri genellikle çok önemlidir. Makine öğrenimi modelleri genellikle olasılık çıktısı vererek güven ifade eder; bununla birlikte, özellikle ele almak üzere eğitildiklerinden farklı durumlarda genellikle aşırı güven duyarlar. Kalibrasyon araştırmaları, model olasılıklarının modelin doğru olma oranına mümkün olduğunca yakın olmasını amaçlamaktadır."
+  },
+  {
+    "chunk_id": "chunk_e390ec5f",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "ikle aşırı güven duyarlar. Kalibrasyon araştırmaları, model olasılıklarının modelin doğru olma oranına mümkün olduğunca yakın olmasını amaçlamaktadır.\nBenzer şekilde, anomali tespiti veya dağılım dışı tespiti, bir yapay zekâ sisteminin olağandışı bir durumda olduğunu tespit etmeyi amaçlamaktadır. Örneğin, otonom bir araçtaki bir sensör arızalıysa veya zorlu bir araziyle karşılaşırsa, sürücüyü kontrolü ele alması veya kenara çekmesi için uyarması gerekmektedir. Anomali tespiti, basitçe anormal ve anormal olmayan girdileri ayırt etmek için bir sınıflandırıcıyı eğiterek uygulanmaktadır, ancak bir dizi ek yöntem de kullanılmaktadır.\n==== Kötü niyetli kullanımın tespiti ===="
+  },
+  {
+    "chunk_id": "chunk_9893ec1f",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "yırt etmek için bir sınıflandırıcıyı eğiterek uygulanmaktadır, ancak bir dizi ek yöntem de kullanılmaktadır.\n==== Kötü niyetli kullanımın tespiti ====\nAkademisyenler  ve devlet kurumları, yapay zekâ sistemlerinin kötü niyetli aktörlerin silah üretmesine, kamuoyunu manipüle etmesine, veya siber saldırıları otomatikleştirmesine yardımcı olmak için kullanılabileceği yönündeki endişelerini dile getirmiştir. Bu endişeler, güçlü yapay zekâ araçlarını çevrimiçi olarak barındıran OpenAI gibi şirketler için mevcut bir endişe sebebidir. Kötüye kullanımı önlemek için OpenAI, kullanıcıları etkinliklerine göre işaretleyen veya kısıtlayan algılama sistemleri geliştirmiştir.\n==== Şeffaflık ===="
+  },
+  {
+    "chunk_id": "chunk_341419a5",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "e kullanımı önlemek için OpenAI, kullanıcıları etkinliklerine göre işaretleyen veya kısıtlayan algılama sistemleri geliştirmiştir.\n==== Şeffaflık ====\nSinir ağları sıklıkla kara kutular olarak tanımlanır; yani gerçekleştirdikleri çok sayıda hesaplama sonucunda aldıkları kararları neden aldıklarını anlamak oldukça zordur. Bu da arızaları önceden tahmin etmeyi zorlaştırmaktadır. 2018 yılında sürücüsüz bir araç, bir yayayı tespit edemeyerek ölümüne neden oldu. Yapay zekâ yazılımının kara kutu niteliği nedeniyle, arızanın nedeni belirsizliğini korumaktadır.\nŞeffaflığın kritik faydalarından biri açıklanabilirliktir. Bazen, örneğin iş başvurularını otomatik olarak filtrelemek veya kredi notu atamak gibi, adaleti sağlamak için bir kararın neden verildiğine dair bir açıklama yapmak yasal bir zorunluluktur."
+  },
+  {
+    "chunk_id": "chunk_d9b56f45",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": " olarak filtrelemek veya kredi notu atamak gibi, adaleti sağlamak için bir kararın neden verildiğine dair bir açıklama yapmak yasal bir zorunluluktur.\nBir diğer faydası ise arızaların nedeninin ortaya çıkarılmasıdır. Araştırmacılar, 2020 COVID-19 pandemisinin başlangıcında, tıbbi görüntü sınıflandırıcılarının alakasız hastane etiketlerine 'dikkat ettiğini' göstermek için şeffaflık araçlarını kullandılar."
+  },
+  {
+    "chunk_id": "chunk_34989fb4",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "in başlangıcında, tıbbi görüntü sınıflandırıcılarının alakasız hastane etiketlerine 'dikkat ettiğini' göstermek için şeffaflık araçlarını kullandılar.\nŞeffaflık yöntemleri hataları düzeltmek için de kullanılabilir. Örneğin, \"Locating and Editing Factual Associations in GPT\" başlıklı makalede yazarlar, Eyfel kulesinin konumuyla ilgili soruları nasıl cevapladığını belirleyen model parametrelerini tespit edebilmişlerdir. Daha sonra bu bilgiyi düzenleyerek modelin sorulara kulenin Fransa yerine Roma'da olduğuna inanıyormuş gibi yanıt vermesini sağlamışlardır. Bu durumda yazarlar bir hataya neden olmuş olsalar da, bu yöntemler potansiyel olarak hataları etkili bir şekilde düzeltmek için kullanılabilir. Model düzenleme teknikleri bilgisayarla görüntülemede de mevcuttur."
+  },
+  {
+    "chunk_id": "chunk_d42e0aa1",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "emler potansiyel olarak hataları etkili bir şekilde düzeltmek için kullanılabilir. Model düzenleme teknikleri bilgisayarla görüntülemede de mevcuttur.\nSon olarak, bazı kişiler yapay zekâ sistemlerinin şeffaf olmamasının önemli bir risk unsuru olduğunu ve bu sistemlerin nasıl çalıştığının daha iyi anlaşılmasının gelecekte büyük çaplı arızaları önleyebileceğini ileri sürmüştür.\"İçsel\" yorumlanabilirlik araştırması makine öğrenimi modellerini şeffaf olmaktan çıkarmayı amaçlamaktadır. Bu araştırmanın bir amacı, iç nöron aktivasyonlarının neyi temsil ettiğini tespit etmektir. Örneğin, araştırmacılar CLIP yapay zekâ sisteminde örümcek adam kostümlü insanların görüntülerine, örümcek adam çizimlerine ve 'örümcek' kelimesine tepki veren bir nöron tanımladılar. Ayrıca bu nöronlar veya 'devreler' arasındaki bağlantıların da izah edilmesini içermektedir. Örneğin, araştırmacılar dil modellerinin bağlamlarından nasıl öğrendiklerinde rol oynayabilecek transformatör dikkatindeki örüntü eşleştirme mekanizmalarını tanımlamışlardır. \"İçsel yorumlanabilirlik\" sinirbilim ile mukayese edilmektedir. Her iki durumda da amaç karmaşık bir sistemde neler olup bittiğini anlamaktır, bununla birlikte makine öğrenimi araştırmacıları mükemmel ölçümler alabilme ve keyfi çıkarımlar yapabilme avantajına sahiptir."
+  },
+  {
+    "chunk_id": "chunk_8922f5c9",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "p bittiğini anlamaktır, bununla birlikte makine öğrenimi araştırmacıları mükemmel ölçümler alabilme ve keyfi çıkarımlar yapabilme avantajına sahiptir.\n==== Trojanları tespit etmek ===="
+  },
+  {
+    "chunk_id": "chunk_12750938",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "rlikte makine öğrenimi araştırmacıları mükemmel ölçümler alabilme ve keyfi çıkarımlar yapabilme avantajına sahiptir.\n==== Trojanları tespit etmek ====\nMakine öğrenimi modelleri potansiyel olarak 'trojan' veya 'arka kapı' içerebilmektedir: bunlar kötü niyetli aktörlerin bir yapay zekâ sisteminde oluşturdukları güvenlik açıklarıdır. Örneğin, trojanlı bir yüz tanıma sistemi, belirli bir mücevher parçası göründüğünde erişim izni verebilir; veya trojanlı bir otonom araç, belirli bir hareket tetikleyicisi görünene kadar normal çalışabilir. Bir saldırganın bir trojan yerleştirebilmesi için sistemin eğitim verilerine erişimi olması gerektiğini unutulmamalıdır. CLIP veya GPT-3 gibi bazı büyük modellerde halka açık internet verileriyle eğitildiklerinden bunu yapmak daha zor olmayabilir. Araştırmacılar, 3 milyon eğitim görüntüsünden sadece 300'ünü değiştirerek bir görüntü sınıflandırıcıya trojan yerleştirmeyi başardılar. Araştırmacılar, güvenlik riski oluşturmanın yanı sıra, trojanların daha iyi izleme araçlarının test edilmesi ve geliştirilmesi için somut bir ortam sağladığını ileri sürmektedir."
+  },
+  {
+    "chunk_id": "chunk_139f3828",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "ki oluşturmanın yanı sıra, trojanların daha iyi izleme araçlarının test edilmesi ve geliştirilmesi için somut bir ortam sağladığını ileri sürmektedir.\n=== Sistemik güvenlik ve sosyoteknik faktörler ==="
+  },
+  {
+    "chunk_id": "chunk_d4736c0f",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "eme araçlarının test edilmesi ve geliştirilmesi için somut bir ortam sağladığını ileri sürmektedir.\n=== Sistemik güvenlik ve sosyoteknik faktörler ===\nYapay zekâ risklerinin (ve daha genel olarak teknolojik risklerin) yanlış kullanım veya kazalar şeklinde sınıflandırılması yaygındır. Bazı akademisyenler bu bakış açısının yetersiz kaldığını öne sürmüşlerdir. Örneğin, Küba Füze Krizi açıkça bir hata ya da yanlış teknoloji kullanımı sonucu ortaya çıkmamıştır. Politika analistleri Zwetsloot ve Dafoe şöyle yazmıştır: \"Kötüye kullanım ve kaza bakış açıları, bir hasara yol açan nedensellik zincirinde yalnızca son adıma odaklanma eğilimi gösterir: Yani, teknolojiyi kötüye kullanan kişiye veya istenmeyen şekilde hareket eden bir sisteme... Ancak çoğu zaman, ilgili nedensellik zinciri çok daha uzun olmaktadır.\" Riskler genellikle rekabet baskısı, zararların yayılması, hızlı gelişim, yüksek düzeyde belirsizlik ve yetersiz güvenlik kültürü gibi 'yapısal' veya 'sistematik' etkenlerden kaynaklanmaktadır. Güvenlik mühendisliğinin daha geniş bağlamında, 'kurumsal güvenlik kültürü' gibi yapısal faktörler popüler STAMP risk analizi çerçevesinde merkezi bir öneme sahiptir."
+  },
+  {
+    "chunk_id": "chunk_b220bfb7",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "sliğinin daha geniş bağlamında, 'kurumsal güvenlik kültürü' gibi yapısal faktörler popüler STAMP risk analizi çerçevesinde merkezi bir öneme sahiptir.\nYapısal bakış açısından esinlenen bazı araştırmacılar, sosyoteknik güvenlik faktörlerini iyileştirmek için makine öğrenimini kullanmanın önemini vurgulamaktadır; örneğin, siber savunma için makine öğrenimini kullanmak, kurumsal karar verme sürecini iyileştirmek ve işbirliğini kolaylaştırmak mümkündür.\n==== Siber savunma ====\nBazı akademisyenler, yapay zekânın siber saldırganlar ve siber savunmacılar arasında zaten dengesiz olan oyunu daha da kötüleştireceğinden endişe duymaktadır. Bu durum 'ilk saldırı' güdülerini arttıracak olup daha agresif ve istikrarı bozucu saldırılara yol açabilecektir. Bu riski azaltmak için bazıları siber savunma konusuna daha fazla önem verilmesini önermektedir. Buna ek olarak, güçlü yapay zekâ modellerinin çalınıp kötüye kullanılmasını önlemek için yazılım güvenliği de çok önemlidir."
+  },
+  {
+    "chunk_id": "chunk_6e93e37b",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "verilmesini önermektedir. Buna ek olarak, güçlü yapay zekâ modellerinin çalınıp kötüye kullanılmasını önlemek için yazılım güvenliği de çok önemlidir.\n==== Kurumsal karar alma mekanizmasının iyileştirilmesi ====\nYapay zekânın ekonomik ve askeri alanlarda ilerlemesi, benzeri görülmemiş siyasi sorunlara yol açacaktır. Bazı akademisyenler, yapay zekâ yarışı dinamiklerini, az sayıda karar merciinin dikkatli kararlarının çoğu zaman istikrar ve felaket arasındaki farkı belirlediği soğuk savaş ile kıyaslamıştır. Yapay zekâ araştırmacıları, yapay zekâ teknolojilerinin karar verme sürecine yardımcı olmak için de kullanılabileceğini ileri sürmüşlerdir. Örneğin, araştırmacılar yapay zekâ tahmin ve danışmanlık sistemleri geliştirmeye başlamıştır.\n==== İşbirliğini kolaylaştırmak ===="
+  },
+  {
+    "chunk_id": "chunk_874031ba",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "ileri sürmüşlerdir. Örneğin, araştırmacılar yapay zekâ tahmin ve danışmanlık sistemleri geliştirmeye başlamıştır.\n==== İşbirliğini kolaylaştırmak ====\nEn büyük küresel tehditlerin çoğu (nükleer savaş, iklim değişikliği, vb.) işbirliği yapmanın zor olduğu konulardır. İyi bilinen tutsak ikilemi senaryosunda olduğu gibi, bazı dinamikler, kendi çıkarları doğrultusunda en iyi şekilde hareket etseler bile, tüm oyuncular için kötü sonuçlara yol açabilmektedir. Örneğin, hiç kimse müdahale etmezse sonuçları önemli olsa bile, hiçbir tekil aktörün iklim değişikliğini ele almak için ciddi girişimleri bulunmamaktadır."
+  },
+  {
+    "chunk_id": "chunk_7b3fb31d",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "ğin, hiç kimse müdahale etmezse sonuçları önemli olsa bile, hiçbir tekil aktörün iklim değişikliğini ele almak için ciddi girişimleri bulunmamaktadır.\nGöze çarpan bir yapay zekâ işbirliği sorunu, 'dibe doğru yarıştan' sakınmaktır. Bu durumda ülkeler ya da şirketler daha yetenekli yapay zekâ sistemleri kurmak için yarışırken güvenliği ihmal edecek ve bu da ilgili herkese zarar veren feci bir kazayla sonuçlanacaktır. Bu gibi durumlara ilişkin endişeler, insanlar arasında ve potansiyel olarak yapay zekâ sistemleri arasında işbirliğini kolaylaştırmak için hem siyasi hem de teknik çabalara ilham vermiştir. Çoğu yapay zekâ araştırması, tekil etmenlerin birbirinden ayrı görevler yerine getirecek şekilde tasarlanması konusuna odaklanmaktadır. Akademisyenler, yapay zekâ sistemleri daha otonom hale geldikçe, etkileşim biçimlerini incelemenin ve şekillendirmenin önemli hale gelebileceğini belirtmişlerdir.\n==== Büyük Dil Modellerinin Zorlukları ===="
+  },
+  {
+    "chunk_id": "chunk_68cdee69",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "eldikçe, etkileşim biçimlerini incelemenin ve şekillendirmenin önemli hale gelebileceğini belirtmişlerdir.\n==== Büyük Dil Modellerinin Zorlukları ====\nSon yıllarda, büyük dil modellerinin geliştirilmesi, yapay zekâ güvenliği alanında eşsiz kaygılar ortaya çıkarmıştır.\nAraştırmacılar Bender ile Gebru ve diğerleri, bu modellerin eğitimiyle ilgili çevresel ve mali maliyetlerin altını çizerek, Transformatör modelleri için olduğu gibi eğitim süreçlerinin enerji tüketimi ve karbon ayak izinin önemli olabileceğini vurgulamışlardır.\nDahası, bu modeller genellikle devasa, işlenmemiş İnternet tabanlı veri kümelerine dayanmaktadır; bu da egemen ve önyargılı bakış açılarını kodlayarak yeterince temsil edilmeyen grupları daha da ötekileştirebilir.\nBüyük ölçekli eğitim verileri çok geniş olsa da çeşitliliği güvence altına almaz ve genellikle ayrıcalıklı demografik grupların dünya görüşlerini yansıtarak mevcut önyargıları ve basmakalıp düşünceleri sürdüren modellere neden olmaktadır."
+  },
+  {
+    "chunk_id": "chunk_ca5d8dfe",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "llikle ayrıcalıklı demografik grupların dünya görüşlerini yansıtarak mevcut önyargıları ve basmakalıp düşünceleri sürdüren modellere neden olmaktadır.\nBu durum, bu modellerin görünüşte tutarlı ve akıcı metinler üretme eğilimi ile daha da şiddetlenmektedir; bu da kullanıcıları, \" tesadüfi papağanlar\" olarak tanımlanan bir fenomen olan, anlam ve niyetin olmadığı yerlerde anlam ve niyet atfetme konusunda yanlış yönlendirebilir.\nDolayısıyla bu modeller toplumsal önyargıları güçlendirme, yanlış bilgi yayma ve aşırılık yanlısı propaganda ya da deepfake üretme gibi kötü niyetli amaçlarla kullanılma riski taşımaktadır.\nBu zorlukların üstesinden gelmek için araştırmacılar, veri seti oluşturma ve sistem geliştirme konusunda daha dikkatli bir planlama yapılmasını savunmakta ve eşitlikçi bir teknolojik ekosisteme olumlu katkıda bulunan araştırma projelerine duyulan ihtiyacı vurgulamaktadır..\n== Yönetişimde =="
+  },
+  {
+    "chunk_id": "chunk_779b8a6c",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "nı savunmakta ve eşitlikçi bir teknolojik ekosisteme olumlu katkıda bulunan araştırma projelerine duyulan ihtiyacı vurgulamaktadır..\n== Yönetişimde ==\nYapay zekâ yönetişimi, genel olarak yapay zekâ sistemlerinin kullanımına ve geliştirilmesine rehberlik edecek normlar, standartlar ve düzenlemeler oluşturmakla ilgilenmektedir.\n=== Araştırma ===\nYapay zekâ güvenlik yönetişimi araştırmaları, yapay zekânın potansiyel etkilerine ilişkin temel araştırmalardan belirli uygulamalara kadar uzanmaktadır.\nTemelde araştırmacılar, yapay zekânın geniş uygulanabilirliği nedeniyle toplumun birçok yönünü dönüştürebileceğini savunmuş, onu elektrik ve buhar makinesiyle karşılaştırmışlardır.\nBazı çalışmalar, bu etkilerden oluşabilecek belirli riskleri öngörmeye odaklanmıştır; örneğin, kitlesel işsizlik, silahlanma, dezenformasyon, gözetim, ve gücün yoğunlaşmasından kaynaklanan riskler bunlara dahildir."
+  },
+  {
+    "chunk_id": "chunk_2cbb1c14",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "örmeye odaklanmıştır; örneğin, kitlesel işsizlik, silahlanma, dezenformasyon, gözetim, ve gücün yoğunlaşmasından kaynaklanan riskler bunlara dahildir.\nDiğer çalışmalar, hızla gelişen yapay zekâ endüstrisini izlemenin zorluğu, yapay zekâ modellerinin kullanılabilirliği, ve 'dibe doğru yarış' dinamikleri gibi altta yatan risk faktörlerini araştırmaktadır.Askell, Amanda; Brundage, Miles; Hadfield, Gillian (10 Temmuz 2019).\n\"The Role of Cooperation in Responsible AI Development\".\narXiv:1907.04534."
+  },
+  {
+    "chunk_id": "chunk_02ba7a81",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "ktadır.Askell, Amanda; Brundage, Miles; Hadfield, Gillian (10 Temmuz 2019).\n\"The Role of Cooperation in Responsible AI Development\".\narXiv:1907.04534.\n</ref> DeepMind'da uzun vadeli yönetişim ve strateji başkanı olan Allan Dafoe, yarışın tehlikelerini ve potansiyel işbirliği ihtiyacını vurgulamıştır: \" Yapay zekâ güvenliği ve uyumu için, gelişmiş güçlü sistemler devreye sokulmadan önce yüksek derecede dikkatli olunması neredeyse gerekli ve yeterli bir koşul haline gelecektir; fakat aktörler, ilk girenlere büyük getiri sağlayacak ya da göreceli avantaj sağlayacak bir alanda rekabet ediyorlarsa, kendilerine idealin altında bir dikkat düzeyi tercih etmeleri yönünde baskı yapılacaktır.\"  Bir araştırma akışı, yapay zekâ hesap verebilirliğini değerlendirmek, yapay zekâ tabanlı sistemlerin denetimlerine rehberlik etmek ve desteklemek için yaklaşımlar, çerçeveler ve metotlar geliştirmeye yoğunlaşmaktadır..\n=== Yerel Yapay Zekâ Güvenlik Önlemlerini Küresel Çözümlere Ölçeklendirmek ==="
+  },
+  {
+    "chunk_id": "chunk_6d8a56bd",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "çin yaklaşımlar, çerçeveler ve metotlar geliştirmeye yoğunlaşmaktadır..\n=== Yerel Yapay Zekâ Güvenlik Önlemlerini Küresel Çözümlere Ölçeklendirmek ===\nYapay zekâ güvenliği sorununu ele alırken, yerel ve küresel çözümler arasındaki ayrımı vurgulamak önemlidir. Yerel çözümler, bireysel yapay zekâ sistemlerine odaklanarak güvenli ve faydalı olmalarını sağlarken, küresel çözümler çeşitli yetki alanlarındaki tüm yapay zekâ sistemleri için güvenlik önlemleri uygulamaya çalışmaktadır. Bazı araştırmacılar  yerel güvenlik önlemlerinin küresel düzeye aktarmanın gerekliliğini savunarak bu küresel çözümler için ayrı bir sınıflandırma önermektedir. Bu yaklaşım, hiçbir kuruluşun yapay zekâ teknolojileriyle ilişkili riskleri etkili bir şekilde yönetemeyeceğini belirterek, yapay zekâ güvenliğinin uluslararası yönetişiminde işbirliğine dayalı çabaların önemini ortaya koymaktadır. Bu bakış açısı, dünya çapında gelişmiş yapay zekâ sistemlerinin ortaya çıkardığı karmaşık zorlukların üstesinden gelmeyi amaçlayan uluslararası politika oluşturma ve düzenleyici çerçevelerde devam eden çabalarla uyumludur."
+  },
+  {
+    "chunk_id": "chunk_793f9aba",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "ıkardığı karmaşık zorlukların üstesinden gelmeyi amaçlayan uluslararası politika oluşturma ve düzenleyici çerçevelerde devam eden çabalarla uyumludur.\n=== Hükümet eylemleri ===\nBazı uzmanlar, düzenlemelerin yeniliği engelleyeceği ve \"cehalet içinde düzenleme yapmak için acele etmenin\" aptallık olacağı yönündeki endişelerini ifade ederek, yapay zekâyı düzenlemek için henüz çok erken olduğunu belirtmiştir. İş adamı Elon Musk, felaket risklerini azaltmak için önleyici eylem konusunda çağrıda bulmaktadır."
+  },
+  {
+    "chunk_id": "chunk_1c76be42",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "enlemek için henüz çok erken olduğunu belirtmiştir. İş adamı Elon Musk, felaket risklerini azaltmak için önleyici eylem konusunda çağrıda bulmaktadır.\nResmi mevzuatın dışında, devlet kurumları etik ve güvenlik önerileri ortaya koymuştur. Mart 2021'de ABD Yapay Zekâ Ulusal Güvenlik Komisyonu, yapay zekâdaki gelişmelerin \"sistemlerin güvenlik, sağlamlık ve güvenilirlik dahil olmak üzere hedef ve değerlerle uyumlu olmasını sağlamayı\" gittikçe daha önemli hale getireceğini rapor etmiştir. Daha sonra, Ulusal Standartlar ve Teknoloji Enstitüsü, \"yıkıcı riskler mevcut olduğu zaman riskler yeterince yönetilene kadar geliştirme ve dağıtım güvenli bir şekilde durdurulmalıdır\" tavsiyesinde bulunan Yapay Zekâ Riskini yönetmeye yönelik bir taslak hazırlamıştır."
+  },
+  {
+    "chunk_id": "chunk_d474271a",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "e kadar geliştirme ve dağıtım güvenli bir şekilde durdurulmalıdır\" tavsiyesinde bulunan Yapay Zekâ Riskini yönetmeye yönelik bir taslak hazırlamıştır.\nEylül 2021'de Çin Halk Cumhuriyeti, yapay zekâ kararlarının insan kontrolü altında kalması gerektiğini vurgulayarak ve hesap verebilirlik mekanizmaları çağrısında bulunarak Çin'de yapay zekâ kullanımına yönelik etik yönergeleri yayınladı. Aynı ay, Birleşik Krallık 10 yıllık Ulusal Yapay Zekâ Stratejisini  yayınladı; bu stratejide İngiliz hükûmetinin \"bağlantısız Yapay Genel Zekânın uzun vadede oluşturduğu riski ve bunun anlamına geleceği öngörülemeyen değişiklikleri\" belirtiyor. Strateji, yıkıcı riskler de dahil olmak üzere uzun vadeli yapay zekâ risklerini değerlendirmeye yönelik eylemleri açıklamaktadır. İngiliz hükûmeti yapay zekâ güvenliği konusunda ilk büyük küresel zirveyi düzenledi. Bu zirve 1 ve 2 Kasım 2023 tarihlerinde gerçekleşti ve \"politika yapıcıların ve dünya liderlerinin yapay zekânın mevcut ve gelecekteki risklerini ve bu risklerin küresel olarak koordine edilmiş bir yaklaşımla nasıl azaltılabileceğini değerlendirmeleri için bir fırsat\" şeklinde nitelendirildi."
+  },
+  {
+    "chunk_id": "chunk_f4c0483f",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "ni ve bu risklerin küresel olarak koordine edilmiş bir yaklaşımla nasıl azaltılabileceğini değerlendirmeleri için bir fırsat\" şeklinde nitelendirildi.\nÖzellikle Amerika Birleşik Devletleri'ndeki hükûmet kuruluşları da teknik yapay zekâ güvenlik araştırmalarının geliştirilmesini desteklemiştir. İstihbarat İleri Araştırma Projeleri Faaliyeti, yapay zekâ sistemlerine yönelik Trojan saldırılarını tespit etmek ve bunlara karşı koruma sağlamak amacıyla TrojAI projesini başlatmıştır. DARPA, açıklanabilir yapay zekâ ve düşman saldırılarına karşı sağlamlığın artırılması üzerine araştırmalar yapmaktadır. Ulusal Bilim Vakfı da Güvenilir Makine Öğrenimi Merkezi'ni destekliyor ve deneysel yapay zekâ güvenlik araştırmaları için milyonlarca dolar fon ayırıyor.\n=== Kurumsal regülasyonlar ==="
+  },
+  {
+    "chunk_id": "chunk_8ffceeb0",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "kine Öğrenimi Merkezi'ni destekliyor ve deneysel yapay zekâ güvenlik araştırmaları için milyonlarca dolar fon ayırıyor.\n=== Kurumsal regülasyonlar ===\nYapay zekâ laboratuvarları ve şirketleri genellikle resmi mevzuatın dışında kalan güvenlik uygulamalarına veya kurallarına uymaktadır. Yönetişim araştırmacılarının bir amacı da bu standartları şekillendirmektir. Literatürde bulunan güvenlik tavsiyelerine örnek olarak üçüncü taraf denetimi, hataların bulunması için ödüller sunulması, yapay zekâ olaylarının paylaşılması   yönergelerin takip edilmesi. araştırma veya modellerin yayınlanıp yayınlanmayacağına karar vermek, ve yapay zekâ laboratuvarlarında bilgi ve siber güvenliği iyileştirmek  yer almaktadır."
+  },
+  {
+    "chunk_id": "chunk_3a44de42",
+    "article_title": "Yapay zekâ güvenliği",
+    "text": "ma veya modellerin yayınlanıp yayınlanmayacağına karar vermek, ve yapay zekâ laboratuvarlarında bilgi ve siber güvenliği iyileştirmek  yer almaktadır.\nŞirketler de bazı taahhütlerde bulundu. Cohere, OpenAI ve AI21, kötüye kullanımı azaltan \"dil modellerinin dağıtımına yönelik en iyi uygulamalar\" önerisinde bulundu ve üzerinde anlaşmaya vardı. OpenAI, yarış dinamiklerine katkıda bulunmaktan kaçınmak için tüzüğünde \"eğer değerlerle uyumlu, güvenlik bilincine sahip bir proje bizden önce Yapay Genel Zekâ'yı inşa etmeye yaklaşırsa, bu projeyle rekabet etmeyi bırakıp ona yardımcı olmaya başlayacağımızı beyan ediyoruz\" ifadesine yer vermiştir. Ayrıca, DeepMind CEO'su Demis Hassabis, Facebook Yapay Zekâ Direktörü Yann LeCun gibi sektör liderleri Asilomar İlkeleri  ve Otonom Silahlar Açık Mektubu gibi açık mektuplara imza atmışlardır.\n== Ayrıca bakınız ==\nAlgoritmik önyargı\n== Kaynakça =="
+  },
+  {
+    "chunk_id": "chunk_f6b54a68",
+    "article_title": "Açık kaynaklı yapay zekâ",
+    "text": "Açık kaynaklı yapay zeka, açık kaynak yaklaşımının yapay zeka geliştirme alanında uygulanmasıdır.\nAçık kaynaklı yapay zeka ürünlerinin çoğu, büyük şirketler tarafından açık kaynaklı yazılım olarak paylaşılan araç ve teknolojilerin varyasyonlarıdır.\nŞirketler genellikle pazarda rekabet avantajını korumak amacıyla açık kaynaklı olmayan ürünler geliştirirler.\nPopüler açık kaynaklı yapay zeka kategorileri arasında büyük dil modelleri, makine çeviri araçları ve sohbet botları sayılabilir.\nYazılım geliştiricilerin açık kaynaklı yapay zeka kaynakları üretebilmeleri için, geliştirmede kullandıkları diğer çeşitli açık kaynaklı yazılım bileşenlerine de güvenmeleri gerekir.\n== Büyük dil modelleri ==\n=== LLaMA ==="
+  },
+  {
+    "chunk_id": "chunk_3576b0ee",
+    "article_title": "Açık kaynaklı yapay zekâ",
+    "text": "eri için, geliştirmede kullandıkları diğer çeşitli açık kaynaklı yazılım bileşenlerine de güvenmeleri gerekir.\n== Büyük dil modelleri ==\n=== LLaMA ===\nLLaMA, Meta AI tarafından Şubat 2023 tarihinde piyasaya sürülen büyük dil modelleri ailesindendir  Meta, bu modellerin açık kaynaklı yazılım olduğunu iddia etmektedir, ancak Açık Kaynak Girişimi, Meta'nın LLaMa modelleri ve koduna ilişkin lisansının bu standardı karşılamadığını; özellikle bazı kullanıcılar için ticari kullanıma kısıtlamalar getirdiğini ileri sürerek bu iddiaya karşı çıkmaktadır ve ayrıca modelin ve yazılımın belirli amaçlarla kullanımını kısıtlar (Kabul Edilebilir Kullanım Politikası). LLaMa 3 en son sürümüdür ve Nisan 2024'te yayınlanmıştır.\n== Kaynakça =="
+  },
+  {
+    "chunk_id": "chunk_b9ca2120",
+    "article_title": "Yapay Zekâ Yasası",
+    "text": "Yapay Zekâ Yasası (İngilizce: Artificial Intelligence Act), Avrupa Birliği'nin yapay zekâya (AI) ilişkin düzenlemesidir.\nAvrupa Birliği'nde (AB) yapay zekâ için ortak bir düzenleyici ve yasal çerçeve oluşturur. Avrupa Komisyonu tarafından 21 Nisan 2021'de önerildi, ve ardından 13 Mart 2024'te Avrupa Parlamentosu'nda kabul edildi, 21 Mayıs 2024'te Avrupa Birliği Konseyi tarafından onaylandı. Kanun, ulusal işbirliğini teşvik etmek ve düzenlemeye uyumu sağlamak için Avrupa Yapay Zekâ Kurulunu oluşturmaktadır. AB'nin Genel Veri Koruma Yönetmeliği gibi, Kanun da, AB içinde kullanıcıları varsa, AB dışından sağlayıcılara bölge dışı olarak uygulanabilir."
+  },
+  {
+    "chunk_id": "chunk_2841e55d",
+    "article_title": "Yapay Zekâ Yasası",
+    "text": "ktadır. AB'nin Genel Veri Koruma Yönetmeliği gibi, Kanun da, AB içinde kullanıcıları varsa, AB dışından sağlayıcılara bölge dışı olarak uygulanabilir.\nÇok çeşitli sektörlerdeki her türlü yapay zekâyı kapsar; istisnalar arasında yalnızca askeri, ulusal güvenlik, araştırma ve profesyonel olmayan amaçlarla kullanılan yapay zekâ sistemleri yer alır. Ürün düzenlemesinin bir parçası olarak, bireylere haklar vermeyecek, ancak yapay zekâ sistemleri sağlayıcılarını ve yapay zekâyı profesyonel bağlamda kullanan kuruluşları düzenleyecektir. Taslak Kanun, genel amaçlı yetenekleri ana çerçeveye uymayan ChatGPT gibi üretken yapay zekâ sistemlerinin popülaritesinin artmasının ardından revize edildi. Sistemik etkiye sahip güçlü, üretken yapay zekâ sistemleri için daha kısıtlayıcı düzenlemeler planlanıyor."
+  },
+  {
+    "chunk_id": "chunk_9499bc62",
+    "article_title": "Yapay Zekâ Yasası",
+    "text": "itesinin artmasının ardından revize edildi. Sistemik etkiye sahip güçlü, üretken yapay zekâ sistemleri için daha kısıtlayıcı düzenlemeler planlanıyor.\nKanun, yapay zekâ uygulamalarını zarar verme risklerine göre sınıflandırıyor Dört seviye (kabul edilemez, yüksek, sınırlı, minimum) artı genel amaçlı yapay zekâ için ek bir kategori vardır. Kabul edilemez risk taşıyan uygulamalar yasaklanmıştır. Yüksek riskli uygulamaların güvenlik, şeffaflık ve kalite yükümlülüklerine uyması ve uygunluk değerlendirmelerinden geçmesi gerekir Sınırlı riskli uygulamaların yalnızca şeffaflık yükümlülükleri vardır ve minimum risk teşkil edenler düzenlemeye tabi değildir. Genel amaçlı yapay zekâ için, yüksek riskler olduğunda ek değerlendirmelerle birlikte şeffaflık gereklilikleri uygulanır.\n== Yasal prosedür =="
+  },
+  {
+    "chunk_id": "chunk_aa608067",
+    "article_title": "Yapay Zekâ Yasası",
+    "text": "ğildir. Genel amaçlı yapay zekâ için, yüksek riskler olduğunda ek değerlendirmelerle birlikte şeffaflık gereklilikleri uygulanır.\n== Yasal prosedür ==\nŞubat 2020'de Avrupa Komisyonu \"Yapay Zekâ Üzerine Beyaz Kitap - Mükemmellik ve güvene Avrupa yaklaşımı\"nı yayınladı. Ekim 2020'de Avrupa Devlet ve Hükûmet Başkanları Konseyi'nde AB liderleri arasında tartışmalar yaşandı. 21 Nisan 2021'de Yapay Zekâ Yasası Komisyon tarafından resmi olarak önerildi. 6 Aralık 2022'de Avrupa Konseyi, Avrupa Parlamentosu ile müzakerelerin başlamasına izin veren genel yönelimi kabul etti. Üç gün süren \"maraton\" görüşmelerin ardından 9 Aralık 2023'te AB Konseyi ve Parlamentosu bir anlaşmaya vardı."
+  },
+  {
+    "chunk_id": "chunk_ec880bc3",
+    "article_title": "Yapay Zekâ Yasası",
+    "text": "na izin veren genel yönelimi kabul etti. Üç gün süren \"maraton\" görüşmelerin ardından 9 Aralık 2023'te AB Konseyi ve Parlamentosu bir anlaşmaya vardı.\nKanun, 13 Mart 2024'te Avrupa Parlamentosu'nda ezici çoğunlukla kabul edildi ve 21 Mayıs 2024'te AB Konseyi tarafından onaylandı. Mayıs ayında yasama dönemi sonunda Resmî Gazete'de yayımlandıktan 20 gün sonra yürürlüğe girdi. Yürürlüğe girdikten sonra, uygulama türüne bağlı olarak uygulanabilir hale gelmesinde bir gecikme olacaktır Bu gecikme, \"kabul edilemez riskli\" yapay zekâ sistemlerine yönelik yasaklar için 6 ay, uygulama kuralları için 9 ay, genel amaçlı yapay zekâ sistemleri için 12 ay, \"yüksek riskli\" yapay zekâ sistemlerine ilişkin bazı yükümlülükler için 36 ay ve \"yüksek riskli\" yapay zekâ sistemlerine ilişkin yasaklar için 24 aydır.\n== Ayrıca bakınız ==\nYapay zekâ etiği\n== Kaynakça ==\n== Dış bağlantılar ==\nYapay Zekâ Yasası"
+  },
+  {
+    "chunk_id": "chunk_eda2005f",
+    "article_title": "Yapay Zekâ Yasası",
+    "text": "\" yapay zekâ sistemlerine ilişkin yasaklar için 24 aydır.\n== Ayrıca bakınız ==\nYapay zekâ etiği\n== Kaynakça ==\n== Dış bağlantılar ==\nYapay Zekâ Yasası\nAvrupa Parlamentosu ve Konseyi EUR-Lex'te Yapay Zekâ (Yapay Zekâ Yasası) ile ilgili Uyumlaştırılmış Kurallar Belirleyen Yönetmelik Teklifi\nEUR-Lex'te Prosedür 2021/0106/COD\nŒIL'ye ilişkin Prosedür 2021/0106(COD)"
+  },
+  {
+    "chunk_id": "chunk_650a9310",
+    "article_title": "Nöro-sembolik yapay zekâ",
+    "text": "Nöro-sembolik yapay zekâ (İngilizce: Neuro-symbolic artificial intelligence), yapay zekâ alanında sembolik akıl yürütme ile derin öğrenme temelli yöntemlerin bir araya getirildiği hibrit bir yaklaşımdır. Bu yaklaşım, geleneksel sembolik sistemlerin bilgi temsili ve mantıksal çıkarım yeteneklerini, modern sinir ağı tabanlı sistemlerin güçlü örüntü tanıma ve öğrenme kapasitesiyle bütünleştirerek daha esnek, açıklanabilir yapay zekâ açıklanabilir ve genellenebilir yapay zekâ sistemleri üretmeyi hedefler.\nSembolik yapay zekâ, bilgiye kurallar ve semboller aracılığıyla anlam yüklerken; derin öğrenme, büyük veri kümeleri üzerinden örüntüleri öğrenerek karar vermeyi sağlar. Nöro-sembolik yapay zekâ bu iki paradigmayı bir arada kullanarak, hem öğrenmeye hem de mantıksal çıkarıma dayalı sistemler geliştirir. Böylece sistemler yalnızca veriler üzerinden sezgisel sonuçlar üretmekle kalmaz, aynı zamanda bu sonuçları neden ve nasıl ürettiklerini açıklayabilir."
+  },
+  {
+    "chunk_id": "chunk_1aa8f4a3",
+    "article_title": "Nöro-sembolik yapay zekâ",
+    "text": "Böylece sistemler yalnızca veriler üzerinden sezgisel sonuçlar üretmekle kalmaz, aynı zamanda bu sonuçları neden ve nasıl ürettiklerini açıklayabilir.\nBu yaklaşım, özellikle açıklanabilir yapay zekâ (XAI), az veriyle öğrenme (few-shot learning), nedensel çıkarım (causal reasoning) ve yapay genel zekâ (AGI) gibi alanlarda kritik öneme sahiptir. Nöro-sembolik sistemlerin amacı, insan benzeri bilişsel süreçleri daha doğru modelleyerek daha sağlam, güvenilir ve yorumlanabilir yapay zekâ çözümleri üretmektir.\n== Tarihçe ve gelişim ==\nNöro-sembolik yapay zekâ, yapay zekânın gelişiminde üçüncü dalga olarak kabul edilmektedir. 1950'li yıllarda sembolik yapay zekâ ile başlayan süreç, 2010'larda derin öğrenmenin yükselişiyle birlikte istatistiksel öğrenme yaklaşımlarına kaymıştır. Ancak, derin öğrenme sistemlerinin açıklanabilirlik ve genelleme konularında sınırlı kalması, sembolik ve nörel sistemlerin birleşimini öne çıkarmıştır."
+  },
+  {
+    "chunk_id": "chunk_70af6b00",
+    "article_title": "Nöro-sembolik yapay zekâ",
+    "text": "cak, derin öğrenme sistemlerinin açıklanabilirlik ve genelleme konularında sınırlı kalması, sembolik ve nörel sistemlerin birleşimini öne çıkarmıştır.\nBu alanda öncü çalışmalar, Artur d'Avila Garcez ve Lamb tarafından sistematik olarak tanımlanmış ve Neurosymbolic AI: The 3rd Wave adlı makalede detaylandırılmıştır. Aynı zamanda, Gary Marcus tarafından önerilen hibrit sistemler yaklaşımı, bu paradigmanın önümüzdeki on yılın en önemli gelişme alanlarından biri olacağını öngörmektedir.\n== Amaç ve hedefler ==\nNöro-sembolik yapay zekânın temel amacı, yapay zekâ sistemlerinin hem öğrenme hem de mantıksal çıkarım yeteneklerini bir arada barındırmasını sağlamaktır. Bu yaklaşım, geleneksel sembolik yapay zekânın açıklanabilirliği ile derin öğrenmenin örüntü tanıma ve öğrenme gücünü birleştirir.\nBu doğrultuda nöro-sembolik yapay zekânın başlıca hedefleri şunlardır:"
+  },
+  {
+    "chunk_id": "chunk_d69857a9",
+    "article_title": "Nöro-sembolik yapay zekâ",
+    "text": "lanabilirliği ile derin öğrenmenin örüntü tanıma ve öğrenme gücünü birleştirir.\nBu doğrultuda nöro-sembolik yapay zekânın başlıca hedefleri şunlardır:\nÖğrenen ve akıl yürüten sistemler geliştirmek: Sistemlerin yalnızca verilerden öğrenmekle kalmayıp, aynı zamanda öğrendikleri üzerinde mantıksal çıkarım yapmaları hedeflenir.\nAçıklanabilir yapay zekâ (XAI): Sistemlerin kararlarını insanlar tarafından anlaşılabilir şekilde açıklayabilmesi.\nGenelleme becerisi: Az miktarda veriyle geniş kapsamlı ve doğru tahminler yapabilme yeteneği.\nNedensel çıkarım (causal reasoning): Olaylar arasındaki neden-sonuç ilişkilerini kavrayabilen sistemler üretmek.\nYapay genel zekâ (AGI) yolunda ilerlemek: Sadece belirli görevlerde uzmanlaşan sistemler yerine, insan zekâsına yakın genel problem çözme yeteneğine sahip yapay zekâlar tasarlamak.\n== Sistem örnekleri ==\nNöro-sembolik yapay zekâ, teorik bir öneri olmanın ötesinde birçok uygulama sistemine dönüşmüştür:"
+  },
+  {
+    "chunk_id": "chunk_edc3c38f",
+    "article_title": "Nöro-sembolik yapay zekâ",
+    "text": "ip yapay zekâlar tasarlamak.\n== Sistem örnekleri ==\nNöro-sembolik yapay zekâ, teorik bir öneri olmanın ötesinde birçok uygulama sistemine dönüşmüştür:\nNeuro-Symbolic Concept Learner(NSCL): IBM Research tarafından geliştirilen bir sistemdir. Görsel sahneleri tanıyıp mantıksal çıkarım yapabilir.\nLogic Tensor Networks (LTN): Sembolik ifadeleri diferansiyellenebilir tensörlere dönüştürerek sinir ağı ile mantıksal çıkarım yapılmasını sağlar.\nDeepProbLog: olasılıksal mantık programlama ile derin öğrenmenin birleşimi.\nGreedy Neural Theorem Prover (GNTP): Mantıksal ispat görevlerinde nörel yaklaşım sunar.\nTensor Product Representations (TPR): Dilsel ve mantıksal yapıları nörel temsillere entegre eder.\nBu sistemler arasında bazıları gevşek bağlı sistemler (loosely coupled), bazıları ise sıkı bütünleşik sistemler (tightly integrated) olarak sınıflandırılır.\n== Yaklaşımlar =="
+  },
+  {
+    "chunk_id": "chunk_5b9d1157",
+    "article_title": "Nöro-sembolik yapay zekâ",
+    "text": "zıları gevşek bağlı sistemler (loosely coupled), bazıları ise sıkı bütünleşik sistemler (tightly integrated) olarak sınıflandırılır.\n== Yaklaşımlar ==\nNöro-sembolik entegrasyon yaklaşımları oldukça çeşitlidir. Henry Kautz'un nöro-sembolik mimarilere yönelik taksonomisi, bu çeşitliliği bazı örneklerle birlikte aşağıdaki şekilde sınıflandırmaktadır:\n=== Sembolik → Nöral (Symbolic Neural) ===\nBu yaklaşım, kelimelerin veya alt kelime belirteçlerinin büyük dil modellerinin nihai girdisi ve çıktısı olduğu doğal dil işleme uygulamalarında yaygın olarak kullanılır. BERT, RoBERTa ve GPT-3 bu sınıfa örnek verilebilir.\n=== Sembolik[Nöral] (Symbolic[Neural]) ===\nSembolik tekniklerin, nöral yöntemleri çağırmak amacıyla kullanıldığı bir yaklaşımdır. Örneğin, AlphaGo sembolik Monte Carlo ağaç aramasını kullanarak oyun pozisyonlarını değerlendirmek için nöral tekniklere başvurur.\n=== Nöral | Sembolik (Neural | Symbolic) ==="
+  },
+  {
+    "chunk_id": "chunk_ca025675",
+    "article_title": "Nöro-sembolik yapay zekâ",
+    "text": " Monte Carlo ağaç aramasını kullanarak oyun pozisyonlarını değerlendirmek için nöral tekniklere başvurur.\n=== Nöral | Sembolik (Neural | Symbolic) ===\nBu yapı, algısal verileri sembolik olarak yorumlamak için nöral mimarilerden yararlanır. Semboller ve bunlar arasındaki ilişkiler, daha sonra sembolik biçimde işlenir. Neural Concept Learner bu yaklaşıma örnektir.\n=== Sembolik → Nöral (Symbolic → Neural) ===\nBu yöntemde, sembolik akıl yürütme sistemleri eğitim verisi oluşturmak veya etiketlemek için kullanılır. Örneğin, Macsyma benzeri sembolik matematik sistemleri aracılığıyla, sembolik hesaplamalar yapan bir derin öğrenme modeline örnek veri sağlanabilir.\n=== NöralSymbolic ===\nSembolik kurallardan türetilmiş bir nöral ağın kullanıldığı bir yaklaşımdır. Neural Theorem Prover, bilgi tabanı kurallarından ve terimlerinden türetilmiş VE-VEYA kanıt ağaçlarını kullanarak bir nöral ağ inşa eder. Logic Tensor Networks de bu kategoriye girer.\n=== Nöral[Sembolik] (Neural[Symbolic]) ==="
+  },
+  {
+    "chunk_id": "chunk_cdf14d9f",
+    "article_title": "Nöro-sembolik yapay zekâ",
+    "text": "ş VE-VEYA kanıt ağaçlarını kullanarak bir nöral ağ inşa eder. Logic Tensor Networks de bu kategoriye girer.\n=== Nöral[Sembolik] (Neural[Symbolic]) ===\nBu modelde bir nöral ağ, doğrudan bir sembolik akıl yürütme motorunu çağırabilir. Örneğin, ChatGPT'nin bir eklenti yardımıyla Wolfram Alpha'ya sorgu göndermesi bu yapıya örnektir.\n== Genişletilmiş Sınıflandırmalar ve Tartışmalar ==\nBu kategoriler kapsamlı değildir; özellikle çok ajanlı sistemler gibi yapıları dikkate almamaktadır. 2005 yılında Bader ve Hitzler, sembol kullanımının mantık içerip içermediğini ve içeriyorsa bunun önerme mantığı mı yoksa birinci dereceden mantık mı olduğunu da göz önüne alan daha ayrıntılı bir sınıflandırma sunmuştur. Bu sınıflandırma, 2021 yılında yayımlanan bir makalede Kautz'un taksonomisi ile karşılaştırılmıştır."
+  },
+  {
+    "chunk_id": "chunk_df96927e",
+    "article_title": "Nöro-sembolik yapay zekâ",
+    "text": " alan daha ayrıntılı bir sınıflandırma sunmuştur. Bu sınıflandırma, 2021 yılında yayımlanan bir makalede Kautz'un taksonomisi ile karşılaştırılmıştır.\nSon olarak, Sepp Hochreiter grafik sinir ağlarının (Graph Neural Networks) \"nöro-sembolik hesaplamanın baskın modelleri\" olduğunu ileri sürmüştür. Ona göre bu ağlar; moleküllerin özelliklerini tanımlama, sosyal ağları simüle etme ve parçacık-parçacık etkileşimleri içeren fiziksel ya da mühendislik uygulamalarında gelecekteki durumları tahmin etme gibi görevlerde kullanılmaktadır.\n== Karşılaşılan zorluklar ==\nNöro-sembolik sistemlerin geliştirilmesi birçok teknik ve teorik zorluk içermektedir. Bu zorluklar, sembolik sistemler ve nörel ağlar arasındaki doğal farklardan kaynaklanmakta ve sistem tasarımını karmaşıklaştırmaktadır: bu kısmı bu şekilde düzeltir misn\nTemsil Dili Seçimi: Sembolik bilginin sinir ağına nasıl aktarılacağı ve sinir ağlarından sembolik bilgiye nasıl geri dönüleceği hâlen çözülmesi gereken önemli bir problemdir."
+  },
+  {
+    "chunk_id": "chunk_d08577fe",
+    "article_title": "Nöro-sembolik yapay zekâ",
+    "text": "olik bilginin sinir ağına nasıl aktarılacağı ve sinir ağlarından sembolik bilgiye nasıl geri dönüleceği hâlen çözülmesi gereken önemli bir problemdir.\nAçıklanabilirlik: Derin öğrenme bileşenlerinin neden belirli bir sonuca ulaştığını, sembolik düzlemde ve insan tarafından anlaşılabilir şekilde açıklamak zordur.\nBirleştirme Mimarisi: Sembolik ve nörel yapıların hangi mimari altında en verimli şekilde entegre edileceği konusunda standart bir yaklaşım yoktur.\nMantıksal ifade gücü: Derin öğrenme sistemleri genellikle önerme mantığı düzeyinde kalır. Birinci dereceden mantık gibi daha karmaşık yapıları anlamak ve işlemek sınırlıdır.\nVeri ve Bilgi Uyuşmazlığı: Sembolik sistemler bilgiye dayalı çalışırken, nörel sistemler veriye dayanır. Bu iki farklı yaklaşımın aynı sistemde tutarlı biçimde işlemesi halen araştırma konusudur.\nPerformans ve hesaplama gücü: Nöro-sembolik sistemlerin çalışması genellikle yüksek işlem gücü gerektirir, bu da gerçek zamanlı uygulamalarda zorluk çıkarabilir."
+  },
+  {
+    "chunk_id": "chunk_02a6c32d",
+    "article_title": "Nöro-sembolik yapay zekâ",
+    "text": "ve hesaplama gücü: Nöro-sembolik sistemlerin çalışması genellikle yüksek işlem gücü gerektirir, bu da gerçek zamanlı uygulamalarda zorluk çıkarabilir.\n== Gelecek araştırmalar ve yönelimler ==\nNöro-sembolik yapay zekânın geleceği, yapay zekânın daha güvenilir, açıklanabilir ve insan benzeri hale gelmesi açısından önemli fırsatlar sunmaktadır. Bu alandaki başlıca araştırma yönleri şunlardır:\nSistem 1 ve Sistem 2 modellerinin birleşimi: Daniel Kahneman'ın hızlı (S1) ve yavaş (S2) düşünme modelinden yola çıkarak, derin öğrenmenin sezgisel yapısı ile sembolik sistemlerin mantıksal yapısını birleştirmeyi amaçlayan sistemler geliştirilmektedir.\nAçıklanabilir yapay zekâ (XAI): Karar verme süreçlerini mantıksal ifadelerle açıklayarak kara kutu yapay zekâların şeffaflığını artırır.\nKavramsal öğrenme ve sembol türetimi: Derin öğrenme çıktılarının sembollere dönüştürülmesiyle kavramsal temsilin geliştirilmesi hedeflenmektedir."
+  },
+  {
+    "chunk_id": "chunk_7d3a0720",
+    "article_title": "Nöro-sembolik yapay zekâ",
+    "text": "rır.\nKavramsal öğrenme ve sembol türetimi: Derin öğrenme çıktılarının sembollere dönüştürülmesiyle kavramsal temsilin geliştirilmesi hedeflenmektedir.\nBilgi tabanlı aktarımlı öğrenme: Önceden öğrenilmiş bilgilerin yeni görevlere aktarılmasıyla verimlilik artırılabilir.\nNedensel çıkarım ve karşıolgusal sorgulama: Sistemlerin yalnızca ne olduğunu değil, neden olduğunu ve alternatif senaryolarda ne olabileceğini anlaması sağlanmaktadır.\nMantık programlama ve bilgi çıkarımı: Ontoloji oluşturulması, bilginin otomatik çıkarılması ve olasılıksal mantık sistemlerinin entegrasyonu, nöro-sembolik yapay zekânın temel yapı taşlarındandır.\nBu alanlarda akademik araştırmalar için arXiv, Google Scholar, Semantic Scholar, IBM Research, AAAI ve OpenReview.net gibi kaynaklardan yararlanılabilir.\n== Kaynakça ==\n== Ek kaynaklar ==\nMarcus, Gary (2020-02-13). The Next Decade in AI: Four Steps Toward Robust Artificial Intelligence. arXiv:2002.06177."
+  },
+  {
+    "chunk_id": "chunk_b5603add",
+    "article_title": "Nöro-sembolik yapay zekâ",
+    "text": "= Kaynakça ==\n== Ek kaynaklar ==\nMarcus, Gary (2020-02-13). The Next Decade in AI: Four Steps Toward Robust Artificial Intelligence. arXiv:2002.06177.\nGarcez, Artur d'Avila; Lamb, Luís C. (2020-12-10). Neurosymbolic AI: The 3rd Wave. arXiv:2012.05876.\nKautz, Henry (2020-02-11). Üçüncü AI Yaz, AAAI 2020 Robert S. Engelmore Anıt Ödülü Dersi.\nIBM Research. Neuro-Symbolic Concept Learner (NSCL). https://research.ibm.com"
+  },
+  {
+    "chunk_id": "chunk_998d768e",
+    "article_title": "Yapay zekâ uygulamaları",
+    "text": "Yapay zeka uygulaması (YZ), yapay zekânın çeşitli alanlarda aktif olarak kullanılma yöntemidir.\nYapay zeka, modern toplumda birçok uygulamalara sahip genel amaçlı bir teknolojidir. Yapay zeka sistemleri, endüstriyel üretimde, bilimsel araştırmada, dilbilimde, sanatta, e-ticarette, muhasebe ve finans, mühendislik, sağlık, eğitim, ulaşım vb. alanlarda yaygın kullanılmaktadır.\n== Yapay zeka uygulamaları ==\nBiyoenformatik'te makine öğrenimi\nDeepfake\nYer bilimleri'nde makine öğrenimi\nÜretken yapay zekâ\nYapay zekâ sanatı\nÜretken ses\nMüzik ve yapay zekâ\nHükûmet'te yapay zekâ\nSağlık hizmetlerinde yapay zekâ\nRuh sağlığında yapay zekâ\nSanayide yapay zekâ\nYapay zekâ destekli yazılım geliştirme\nMakine çevirisi\nYapay zekâ silahlanma yarışı\nFizikte makine öğrenimi\nYapay zekâ projeleri\n== Kaynakça ==\n== Ayrıca bakınız ==\nYapay Zekâ Soğuk Savaşı\nYapay zekâ tarihi"
+  }
+]

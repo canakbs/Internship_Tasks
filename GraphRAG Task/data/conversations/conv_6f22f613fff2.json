@@ -1,0 +1,606 @@
+{
+  "id": "conv_6f22f613fff2",
+  "title": "John Searle'in yapay zeka felsefesindeki en ünlü d...",
+  "created_at": "2026-07-30T14:36:52.015292",
+  "messages": [
+    {
+      "role": "user",
+      "content": "John Searle'in yapay zeka felsefesindeki en ünlü düşünce deneyi nedir?",
+      "timestamp": "2026-07-30T14:36:57.700104"
+    },
+    {
+      "role": "assistant",
+      "content": "John Searle, yapay zeka felsefesinde özellikle zihin, bilinç ve makinelerin kapasitesi üzerine yaptığı katkılarla tanınır. Sağlanan bilgilere ve graf ilişkilerine göre John Searle, güçlü ve zayıf yapay zeka kavramlarını birbirinden ayırmış ([Yapay zekâ felsefesi](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi)); doğru girdi ve çıktılara sahip, uygun şekilde programlanmış bir bilgisayarın insanların sahip olduğu anlamda bir akla sahip olacağını savunan \"güçlü AI hipotezini\" ortaya atarak ([Yapay zekâ felsefesi](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi)) bu alandaki tartışmalara yön vermiştir. \n\nGraf ve topluluk özetlerinde de belirtildiği üzere Searle'ün felsefi katkıları ve Çince Odası argümanı (The Chinese Room Argument) etrafındaki eleştirileri, makinelerin gerçekten bilinç sahibi olup olamayacağını inceleyen yapay zeka felsefesinin temel taşlarından birini oluşturur. Searle'ün bu konudaki görüşleri ve eserleri arasında *Minds, Brains and Programs*, *The Rediscovery of the Mind* ve *Mind, Language and Society* gibi önemli çalışmalar yer almaktadır.\n\n### Kaynakça\n* [Yapay zekâ felsefesi](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi)\n",
+      "timestamp": "2026-07-30T14:36:57.700104",
+      "sources": [
+        {
+          "title": "Yapay zekâ felsefesi",
+          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi",
+          "chunk_id": "chunk_ca406ddb",
+          "score": 0.8679
+        }
+      ],
+      "pipeline_stages": [
+        {
+          "stage": "embedding",
+          "status": "done",
+          "duration_ms": 659,
+          "detail": "Soru vektoru uretildi (3072 boyut)"
+        },
+        {
+          "stage": "vector_search",
+          "status": "done",
+          "duration_ms": 1510,
+          "chunks_found": 5,
+          "detail": "5 benzer chunk bulundu",
+          "chunks": [
+            {
+              "chunk_id": "chunk_ca406ddb",
+              "article_title": "Yapay zekâ felsefesi",
+              "score": 0.8679,
+              "text_preview": "ni ve zihinsel durumları olabilir.\nSearle, bu konumu \"zayıf yapay zeka\" dediği durumdan ayırdı:\nFiziksel bir sembol sistemi akıllıca hareket edebilir.\nSearle, güçlü yapay zekayı zayıf yapay zekadan ay..."
+            },
+            {
+              "chunk_id": "chunk_13f286f8",
+              "article_title": "Yapay zekâ felsefesi",
+              "score": 0.8615,
+              "text_preview": "s\nPenrose, Roger (1989), The Emperor's New Mind: Concerning Computers, Minds, and The Laws of Physics, Oxford University Press, ISBN 978-0-14-014534-2\nSearle, John (1980), \"Minds, Brains and Programs\"..."
+            },
+            {
+              "chunk_id": "chunk_61a1e8d7",
+              "article_title": "Yapay zekâ felsefesi",
+              "score": 0.8517,
+              "text_preview": " ve Herbert A. Simon'ın fiziksel sembol sistemi hipotezi: \"Fiziksel bir sembol sistemi, genel akıllı eylem için gerekli ve yeterli araçlara sahiptir.\"\nJohn Searle'nin güçlü AI hipotezi: \"Doğru girdi v..."
+            },
+            {
+              "chunk_id": "chunk_da28828f",
+              "article_title": "Yapay zekâ felsefesi",
+              "score": 0.8477,
+              "text_preview": " AI araştırmasının yöntemleriyle). Temel öncül lehine argümanlar, böyle bir sistemin mümkün olduğunu göstermelidir.\n=== Zeka ===\n==== Turing test ====\nAlan Turing, zekayı tanımlama sorununu konuşma ha..."
+            },
+            {
+              "chunk_id": "chunk_20258117",
+              "article_title": "Yapay zekâ felsefesi",
+              "score": 0.8469,
+              "text_preview": "orunu çözebilir mi?\nİnsan zekası ve makine zekası aynı mıdır? Makine zekası insan zekasından üstün olabilir mi? İnsan beyni aslında bir bilgisayar mı?\nBunun gibi sorular, sırasıyla AI araştırmacıların..."
+            }
+          ]
+        },
+        {
+          "stage": "graph_expansion",
+          "status": "done",
+          "duration_ms": 199,
+          "triples_found": 30,
+          "detail": "30 graf uclusu genisletildi",
+          "triples": [
+            {
+              "source": "Herbert A. Simon",
+              "relation": "CREATED_BY",
+              "target": "Nöro-sembolik Yapay Zekâ"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "CREATED_BY",
+              "target": "Fiziksel Simge Sistemleri Hipotezi"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "CREATED_BY",
+              "target": "Sembol Manipülasyonu"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "CREATED_BY",
+              "target": "Logic Theorist"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "CREATED_BY",
+              "target": "Fiziksel Simge Varsayımı"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "PARTICIPATED_IN",
+              "target": "1963"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "PARTICIPATED_IN",
+              "target": "Yapay Zekâ Tarihi"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "DEVELOPED_BY",
+              "target": "Logic Theorist"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "DEVELOPED_BY",
+              "target": "Genel Sorun Çözücü"
+            },
+            {
+              "source": "Allen Newell",
+              "relation": "CREATED_BY",
+              "target": "Fiziksel Simge Sistemleri Hipotezi"
+            },
+            {
+              "source": "Allen Newell",
+              "relation": "CREATED_BY",
+              "target": "Sembol Manipülasyonu"
+            },
+            {
+              "source": "Allen Newell",
+              "relation": "CREATED_BY",
+              "target": "Logic Theorist"
+            },
+            {
+              "source": "Allen Newell",
+              "relation": "PARTICIPATED_IN",
+              "target": "1963"
+            },
+            {
+              "source": "Allen Newell",
+              "relation": "DEVELOPED_BY",
+              "target": "Logic Theorist"
+            },
+            {
+              "source": "Allen Newell",
+              "relation": "DEVELOPED_BY",
+              "target": "Genel Sorun Çözücü"
+            },
+            {
+              "source": "John Searle",
+              "relation": "CREATED_BY",
+              "target": "Zayıf Yapay Zekâ"
+            },
+            {
+              "source": "John Searle",
+              "relation": "CREATED_BY",
+              "target": "Güçlü Ai Hipotezi"
+            },
+            {
+              "source": "John Searle",
+              "relation": "CREATED_BY",
+              "target": "Minds, Brains And Programs"
+            },
+            {
+              "source": "John Searle",
+              "relation": "CREATED_BY",
+              "target": "The Rediscovery Of The Mind"
+            },
+            {
+              "source": "John Searle",
+              "relation": "CREATED_BY",
+              "target": "Mind, Language And Society"
+            },
+            {
+              "source": "John Searle",
+              "relation": "USED_IN",
+              "target": "Güçlü Yapay Zekâ"
+            },
+            {
+              "source": "John Searle",
+              "relation": "USED_IN",
+              "target": "Zayıf Yapay Zekâ"
+            },
+            {
+              "source": "Turing Testi",
+              "relation": "CREATED_BY",
+              "target": "Turing Machines And Semantic Symbol Processing: Why Real Computers Don't Mind Chinese Emperors"
+            },
+            {
+              "source": "Turing Testi",
+              "relation": "CREATED_BY",
+              "target": "Alan Turing"
+            },
+            {
+              "source": "Turing Testi",
+              "relation": "USED_IN",
+              "target": "Yapay Genel Zekâ"
+            },
+            {
+              "source": "Turing Testi",
+              "relation": "USED_IN",
+              "target": "Bilgi İşlem Makineleri Ve Zekâ"
+            },
+            {
+              "source": "Turing Testi",
+              "relation": "DEVELOPED_BY",
+              "target": "Turing Machines And Semantic Symbol Processing: Why Real Computers Don't Mind Chinese Emperors"
+            },
+            {
+              "source": "Alan Turing",
+              "relation": "RELATED_TO",
+              "target": "Öz Farkındalık"
+            },
+            {
+              "source": "Alan Turing",
+              "relation": "CREATED_BY",
+              "target": "Turing Testi"
+            },
+            {
+              "source": "Alan Turing",
+              "relation": "CREATED_BY",
+              "target": "Yapay Sinir Hücreleri Hesaplama Modeli"
+            }
+          ]
+        },
+        {
+          "stage": "community_selection",
+          "status": "done",
+          "duration_ms": 1200,
+          "communities_evaluated": 78,
+          "selected": 4,
+          "detail": "78 topluluk degerlendirildi, 4 secildi",
+          "communities": [
+            {
+              "id": "comm_051",
+              "summary": "Bu topluluk, yapay zekânın doğasını, makinelerin gerçekten bilinç sahibi olup olamayacağını ve insan zihninin bilişsel süreçlerini felsefi açıdan ince...",
+              "score": 0.7207,
+              "selected": true
+            },
+            {
+              "id": "comm_056",
+              "summary": "Bu topluluk, yapay zeka, zihin felsefesi ve hesaplamalı zihin kuramları etrafında şekillenen; insan bilinci ile makinelerin kapasitesi arasındaki iliş...",
+              "score": 0.7012,
+              "selected": true
+            },
+            {
+              "id": "comm_032",
+              "summary": "Bu topluluk; insan zihni, bilinç felsefesi ve yapay zekanın doğası etrafında şekillenen akademik ve felsefi eserleri bir araya getirmektedir. David J....",
+              "score": 0.6846,
+              "selected": true
+            },
+            {
+              "id": "comm_059",
+              "summary": "Bu topluluk; insan zihni, yapay zeka, bilinç ve hesaplama kuramları arasındaki felsefi ve bilimsel ilişkileri inceleyen eserleri ve yazarları bir aray...",
+              "score": 0.6798,
+              "selected": true
+            },
+            {
+              "id": "comm_043",
+              "summary": "Bu topluluk, zekânın sembollerin manipülasyonu yoluyla üretilebileceğini savunan ve 1950'lerden 1980'lerin sonuna kadar yapay zekâ araştırmalarına hâk...",
+              "score": 0.6786,
+              "selected": false
+            },
+            {
+              "id": "comm_046",
+              "summary": "Bu topluluk; Douglas Lenat'ın \"Otomatik Matematikçisi\" örneği üzerinden makinelerin yeni fikirler üreterek orijinal, yaratıcı ve bilimsel keşiflerde b...",
+              "score": 0.6765,
+              "selected": false
+            },
+            {
+              "id": "comm_044",
+              "summary": "Bu topluluk; insan zihni, bilişsel bilim, zeka ve hesaplama kuramları ekseninde yapay zekanın doğasını ve sınırlarını incelemektedir. Douglas Hofstadt...",
+              "score": 0.6764,
+              "selected": false
+            },
+            {
+              "id": "comm_057",
+              "summary": "Bu topluluk; zeka kavramının IQ ölçümlerinden yapay zeka ve yapay beyinlere evrilme sürecini, insan zihni ile makinelerin ilişkisi bağlamında ele alma...",
+              "score": 0.6671,
+              "selected": false
+            },
+            {
+              "id": "comm_030",
+              "summary": "Bu topluluk, IBM'in geliştirdiği Deep Blue bilgisayarının 1997 yılında dünya satranç şampiyonu Garry Kasparov'u yenmesi üzerinden yapay zekanın doğası...",
+              "score": 0.6623,
+              "selected": false
+            },
+            {
+              "id": "comm_058",
+              "summary": "Bu topluluk; insan zihni, yapay zeka, makinelerin bilişsel kapasitesi ve bilinç gibi kavramlar etrafında şekillenen transhumanizm ve felsefi yapay zek...",
+              "score": 0.6584,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "stage": "generation",
+          "status": "done",
+          "duration_ms": 1765,
+          "model": "gemini-3.5-flash-lite",
+          "detail": "Gemini (gemini-3.5-flash-lite) ile yanit uretildi"
+        }
+      ],
+      "total_duration_ms": 5366
+    },
+    {
+      "role": "user",
+      "content": "Peki bu deneyle neyi kanıtlamaya çalışmıştır?",
+      "timestamp": "2026-07-30T14:37:37.708072"
+    },
+    {
+      "role": "assistant",
+      "content": "Önceki konuşmamızda ele aldığımız John Searle'ün en ünlü düşünce deneyi olan **Çince Odası (The Chinese Room)** argümanı ile Searle, makinelerin sadece programlanmış sembolleri ve kuralları takip ederek gerçekten bir \"anlama\" kapasitesine sahip olup olamayacağını sınamıştır ([Yapay zekâ felsefesi](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi)).\n\nBu deneyle Searle'ün kanıtlamaya çalıştığı temel hususlar şunlardır:\n\n1. **Güçlü Yapay Zeka Hipotezinin Çürütülmesi:** Searle, uygun girdi ve çıktılara sahip, doğru programlanmış bir bilgisayarın (veya yapay zeka sisteminin) sadece bu dışsal başarı nedeniyle gerçek bir bilince, zihne ve anlama yetisine sahip olamayacağını kanıtlamak istemiştir ([Yapay zekâ felsefesi](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi)). Deneydeki odanın içinde bulunan ve Çince bilmediği halde dışarıdan gelen Çince karakterleri elindeki kurallara göre eşleştirip dışarıya anlamlı cevaplar veren kişi, bilgisayar programlarının işleyişini simgelemektedir. O içerideki kişi Çinceyi \"anlamamaktadır\", sadece sembol manipülasyonu yapmaktadır.\n2. **Sözdizimi (Syntax) ve Anlambilim (Semantics) Ayrımı:** Bir bilgisayarın veya programın yalnızca sözdizimsel kurallarla (sembol manipülasyonuyla) çalıştığını, ancak bunun asla gerçek bir anlambilime (kelimelerin ve kavramların ne anlama geldiğini kavramaya) dönüşemeyeceğini ortaya koymuştur ([Yapay zekâ felsefesi](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi)). \n3. **İnsan Zihninin Öznelliği ve Özgül Nitelikleri:** Bilgisayarların yeteneklerinde pratik veya teorik sınırlar bulunduğunu ve akıllı davranış ile bilinç için insan zihnine özgü, makineler tarafından kopyalanamayan bazı özel niteliklerin (örneğin bilinçli deneyim ve öznel farkındalık) var olduğunu savunmuştur ([Yapay zekâ felsefesi](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi)).\n\nÖzetle Searle, Çince Odası deneyiyle \"akıllı gibi davranan bir makinenin gerçekten düşündüğü ve anladığı\" anlamına gelen güçlü yapay zeka iddiasının geçersiz olduğunu kanıtlamayı amaçlamıştır ([Yapay zekâ felsefesi](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi)).\n\n### Kaynakça\n* [Yapay zekâ felsefesi](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi)\n",
+      "timestamp": "2026-07-30T14:37:37.708072",
+      "sources": [
+        {
+          "title": "Yapay zekâ felsefesi",
+          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi",
+          "chunk_id": "chunk_da28828f",
+          "score": 0.8134
+        }
+      ],
+      "pipeline_stages": [
+        {
+          "stage": "embedding",
+          "status": "done",
+          "duration_ms": 896,
+          "detail": "Soru vektoru uretildi (3072 boyut)"
+        },
+        {
+          "stage": "vector_search",
+          "status": "done",
+          "duration_ms": 1315,
+          "chunks_found": 5,
+          "detail": "5 benzer chunk bulundu",
+          "chunks": [
+            {
+              "chunk_id": "chunk_da28828f",
+              "article_title": "Yapay zekâ felsefesi",
+              "score": 0.8134,
+              "text_preview": " AI araştırmasının yöntemleriyle). Temel öncül lehine argümanlar, böyle bir sistemin mümkün olduğunu göstermelidir.\n=== Zeka ===\n==== Turing test ====\nAlan Turing, zekayı tanımlama sorununu konuşma ha..."
+            },
+            {
+              "chunk_id": "chunk_3b63b39f",
+              "article_title": "Yapay genel zekâ",
+              "score": 0.8004,
+              "text_preview": "esti (Goertzel)\nBir makine bir üniversiteye kaydolur, insanların alacağı aynı sınıfları alıp geçer ve bir derece alır.\nGörevlendirilme Testi (Nilsson)\nBir makine ekonomik olarak önemli bir işe girer v..."
+            },
+            {
+              "chunk_id": "chunk_d974dc1c",
+              "article_title": "Yapay genel zekâ",
+              "score": 0.7996,
+              "text_preview": "stemi, robot, evrimsel hesaplama), ancak henüz hiçbiri insan seviyesinde değildir.\n=== Yapay genel zekâ'yı onaylayan testler ===\nTuring testi (Turing)\nİkinci bir insana görünmeden bir makine ve bir in..."
+            },
+            {
+              "chunk_id": "chunk_11b9ad2b",
+              "article_title": "Yapay zekâ felsefesi",
+              "score": 0.7994,
+              "text_preview": "muş gibi davranması önemli değildir.\nÇoğu AI araştırmacısının temel konumu, 1956 Dartmouth Konferansı teklifinde yer alan bu açıklamada özetlenmiştir:\n\"Öğrenmenin her yönü veya zekanın diğer herhangi ..."
+            },
+            {
+              "chunk_id": "chunk_20258117",
+              "article_title": "Yapay zekâ felsefesi",
+              "score": 0.7985,
+              "text_preview": "orunu çözebilir mi?\nİnsan zekası ve makine zekası aynı mıdır? Makine zekası insan zekasından üstün olabilir mi? İnsan beyni aslında bir bilgisayar mı?\nBunun gibi sorular, sırasıyla AI araştırmacıların..."
+            }
+          ]
+        },
+        {
+          "stage": "graph_expansion",
+          "status": "done",
+          "duration_ms": 280,
+          "triples_found": 29,
+          "detail": "29 graf uclusu genisletildi",
+          "triples": [
+            {
+              "source": "Kahve Testi",
+              "relation": "DEVELOPED_BY",
+              "target": "Wozniak"
+            },
+            {
+              "source": "Robot Kolej Öğrencisi Testi",
+              "relation": "DEVELOPED_BY",
+              "target": "Goertzel"
+            },
+            {
+              "source": "Görevlendirilme Testi",
+              "relation": "CREATED_BY",
+              "target": "Nilsson"
+            },
+            {
+              "source": "Görevlendirilme Testi",
+              "relation": "DEVELOPED_BY",
+              "target": "Nilsson"
+            },
+            {
+              "source": "Wozniak",
+              "relation": "DEVELOPED_BY",
+              "target": "Kahve Testi"
+            },
+            {
+              "source": "Goertzel",
+              "relation": "DEVELOPED_BY",
+              "target": "Robot Kolej Öğrencisi Testi"
+            },
+            {
+              "source": "Nilsson",
+              "relation": "CREATED_BY",
+              "target": "Görevlendirilme Testi"
+            },
+            {
+              "source": "Nilsson",
+              "relation": "DEVELOPED_BY",
+              "target": "Görevlendirilme Testi"
+            },
+            {
+              "source": "Tony Severyns",
+              "relation": "CREATED_BY",
+              "target": "Düz Paket Mobilya Testi"
+            },
+            {
+              "source": "Ağustos 2020",
+              "relation": "OCCURRED_IN",
+              "target": "Stable Diffusion"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "CREATED_BY",
+              "target": "Nöro-sembolik Yapay Zekâ"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "CREATED_BY",
+              "target": "Fiziksel Simge Sistemleri Hipotezi"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "CREATED_BY",
+              "target": "Sembol Manipülasyonu"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "CREATED_BY",
+              "target": "Logic Theorist"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "CREATED_BY",
+              "target": "Fiziksel Simge Varsayımı"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "PARTICIPATED_IN",
+              "target": "1963"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "PARTICIPATED_IN",
+              "target": "Yapay Zekâ Tarihi"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "DEVELOPED_BY",
+              "target": "Logic Theorist"
+            },
+            {
+              "source": "Herbert A. Simon",
+              "relation": "DEVELOPED_BY",
+              "target": "Genel Sorun Çözücü"
+            },
+            {
+              "source": "Allen Newell",
+              "relation": "CREATED_BY",
+              "target": "Fiziksel Simge Sistemleri Hipotezi"
+            },
+            {
+              "source": "Allen Newell",
+              "relation": "CREATED_BY",
+              "target": "Sembol Manipülasyonu"
+            },
+            {
+              "source": "Allen Newell",
+              "relation": "CREATED_BY",
+              "target": "Logic Theorist"
+            },
+            {
+              "source": "Allen Newell",
+              "relation": "PARTICIPATED_IN",
+              "target": "1963"
+            },
+            {
+              "source": "Allen Newell",
+              "relation": "DEVELOPED_BY",
+              "target": "Logic Theorist"
+            },
+            {
+              "source": "Allen Newell",
+              "relation": "DEVELOPED_BY",
+              "target": "Genel Sorun Çözücü"
+            },
+            {
+              "source": "Turing Testi",
+              "relation": "CREATED_BY",
+              "target": "Turing Machines And Semantic Symbol Processing: Why Real Computers Don't Mind Chinese Emperors"
+            },
+            {
+              "source": "Turing Testi",
+              "relation": "CREATED_BY",
+              "target": "Alan Turing"
+            },
+            {
+              "source": "Turing Testi",
+              "relation": "USED_IN",
+              "target": "Yapay Genel Zekâ"
+            },
+            {
+              "source": "Turing Testi",
+              "relation": "USED_IN",
+              "target": "Bilgi İşlem Makineleri Ve Zekâ"
+            }
+          ]
+        },
+        {
+          "stage": "community_selection",
+          "status": "done",
+          "duration_ms": 1040,
+          "communities_evaluated": 78,
+          "selected": 4,
+          "detail": "78 topluluk degerlendirildi, 4 secildi",
+          "communities": [
+            {
+              "id": "comm_015",
+              "summary": "Bu topluluk, yapay genel zekânın (YGZ) insan benzeri zekâ seviyesine ulaşıp ulaşmadığını ve yetkinliğini ölçmek için geliştirilen değerlendirme kriter...",
+              "score": 0.5818,
+              "selected": true
+            },
+            {
+              "id": "comm_042",
+              "summary": "Bu topluluk, makinelerin insan düzeyinde zeka ve beceri gerektiren karmaşık fiziksel veya akademik görevleri yerine getirme yeteneğini ölçen yapay gen...",
+              "score": 0.5808,
+              "selected": true
+            },
+            {
+              "id": "comm_014",
+              "summary": "Bu topluluk, yapay genel zekânın (YGZ) insan seviyesindeki zekâ ve becerilerini ölçmek için geliştirilen teorik değerlendirme testlerini ve bu alandak...",
+              "score": 0.5781,
+              "selected": true
+            },
+            {
+              "id": "comm_046",
+              "summary": "Bu topluluk; Douglas Lenat'ın \"Otomatik Matematikçisi\" örneği üzerinden makinelerin yeni fikirler üreterek orijinal, yaratıcı ve bilimsel keşiflerde b...",
+              "score": 0.5773,
+              "selected": true
+            },
+            {
+              "id": "comm_013",
+              "summary": "Bu topluluk, makinelerin insan seviyesinde bir zekaya ulaştığını kanıtlamak için geliştirilen **Yapay Genel Zekâ (AGI) testlerini** konu almaktadır. W...",
+              "score": 0.5724,
+              "selected": false
+            },
+            {
+              "id": "comm_062",
+              "summary": "Bu topluluk, yapay zekâ güvenliğinin alt alanlarından biri olan **\"sağlamlık\"** (özellikle saldırıya karşı direnç) teması etrafında şekillenmektedir. ...",
+              "score": 0.5562,
+              "selected": false
+            },
+            {
+              "id": "comm_056",
+              "summary": "Bu topluluk, yapay zeka, zihin felsefesi ve hesaplamalı zihin kuramları etrafında şekillenen; insan bilinci ile makinelerin kapasitesi arasındaki iliş...",
+              "score": 0.5465,
+              "selected": false
+            },
+            {
+              "id": "comm_037",
+              "summary": "Bu topluluk, yapay zekâ tarihinde klasik sembolik yaklaşımlara karşı geliştirilen alternatif akımları ve Rodney Brooks'un öncülük ettiği \"temsilsiz ro...",
+              "score": 0.5455,
+              "selected": false
+            },
+            {
+              "id": "comm_044",
+              "summary": "Bu topluluk; insan zihni, bilişsel bilim, zeka ve hesaplama kuramları ekseninde yapay zekanın doğasını ve sınırlarını incelemektedir. Douglas Hofstadt...",
+              "score": 0.5418,
+              "selected": false
+            },
+            {
+              "id": "comm_057",
+              "summary": "Bu topluluk; zeka kavramının IQ ölçümlerinden yapay zeka ve yapay beyinlere evrilme sürecini, insan zihni ile makinelerin ilişkisi bağlamında ele alma...",
+              "score": 0.5406,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "stage": "generation",
+          "status": "done",
+          "duration_ms": 3648,
+          "model": "gemini-3.5-flash-lite",
+          "detail": "Gemini (gemini-3.5-flash-lite) ile yanit uretildi"
+        }
+      ],
+      "total_duration_ms": 7213
+    }
+  ]
+}

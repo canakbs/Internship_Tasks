@@ -1,0 +1,304 @@
+{
+  "id": "conv_5c319e863e6d",
+  "title": "John McCarthy ile Dartmouth Atölyesi ve LISP progr...",
+  "created_at": "2026-07-30T14:04:26.089152",
+  "messages": [
+    {
+      "role": "user",
+      "content": "John McCarthy ile Dartmouth Atölyesi ve LISP programlama dili arasındaki ilişki nedir?",
+      "timestamp": "2026-07-30T14:04:44.855182"
+    },
+    {
+      "role": "assistant",
+      "content": "John McCarthy ile 1956 yılındaki Dartmouth Atölyesi arasındaki ilişki, yapay zekâ tarihinin en önemli dönüm noktalarından birini oluşturmaktadır. Princeton Üniversitesi'nde sürdürdüğü çalışmaların ardından McCarthy; Minsky, Shannon ve Rochester ile birlikte 1956 yılında Dartmouth'da iki aylık bir açık çalışma düzenlemiştir ([Yapay zekâ](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2)). Bu toplantının en önemli tarihi özelliği, John McCarthy tarafından önerilen \"yapay zekâ\" adının resmen konulmasıdır ([Yapay zekâ](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2)). \n\nSağlanan bilgi grafiği verileri de bu bağı doğrulamakta; John McCarthy'nin 1956'daki Dartmouth College Atölye Çalışması'na katılımcı olarak katıldığını ve bu atölyenin yapay zekâ tarihi ile doğrudan ilişkili olduğunu göstermektedir. \n\n*(Not: Sunulan bağlam bilgilerinde LISP programlama dili ile ilgili herhangi bir metin veya ilişki bulunmadığından, bu konuya yanıt içerisinde yer verilmemiştir.)*\n\n### Kaynakça\n* [Yapay zekâ](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2)\n",
+      "timestamp": "2026-07-30T14:04:44.855182",
+      "sources": [
+        {
+          "title": "Yapay zekâ",
+          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
+          "chunk_id": "chunk_da3ee559",
+          "score": 0.8361
+        }
+      ],
+      "pipeline_stages": [
+        {
+          "stage": "embedding",
+          "status": "done",
+          "duration_ms": 595,
+          "detail": "Soru vektoru uretildi (3072 boyut)"
+        },
+        {
+          "stage": "vector_search",
+          "status": "done",
+          "duration_ms": 1236,
+          "chunks_found": 5,
+          "detail": "5 benzer chunk bulundu",
+          "chunks": [
+            {
+              "chunk_id": "chunk_da3ee559",
+              "article_title": "Yapay zekâ",
+              "score": 0.8361,
+              "text_preview": "ındaki bağlantıların şiddetlerini değiştirmek için basit bir kural önerince, öğrenebilen yapay sinir ağlarını gerçekleştirmek de olası hale gelmiştir.\n1950'lerde Shannon ve Turing bilgisayarlar için s..."
+            },
+            {
+              "chunk_id": "chunk_b105f6ee",
+              "article_title": "Yapay zekâ",
+              "score": 0.834,
+              "text_preview": "an Bilgi İşlem Makineleri ve Zekâ adlı makalesi bulunmaktaydı. Bu dönemde yapılan bu tür araştırmalar, yapay zekânın temel alanlarının ortaya çıkardı.\n1956'da Dartmouth College'deki bir atölye çalışma..."
+            },
+            {
+              "chunk_id": "chunk_42aff344",
+              "article_title": "Yapay zekâ felsefesi",
+              "score": 0.8028,
+              "text_preview": "John (1961), \"Minds, Machines and Gödel\",  Anderson, A.R. (Ed.), Minds and Machines, 19 Ağustos 2007 tarihinde kaynağından arşivlendi20 Ağustos 2021 .\nMalabou, Catherine (2019). Morphing Intelligence:..."
+            },
+            {
+              "chunk_id": "chunk_f44d4152",
+              "article_title": "Yapay zekâ",
+              "score": 0.7932,
+              "text_preview": "ettiler ve araştırmalara büyük kaynaklar ayrılmaya başlandı. 1988'de yapay zekâ endüstrisinin cirosu 2 milyar dolara ulaşmıştı.\n== Doğal dil işleme ==\nAntropoloji bilimi, gelişmiş insan zekâsı ile dil..."
+            },
+            {
+              "chunk_id": "chunk_06111646",
+              "article_title": "Yapay zekâ",
+              "score": 0.7909,
+              "text_preview": "elişmesine sebep oldu ve bu durum yapay zekâ alanında yeniden bir canlanmaya yol açtı. Kısa sürede Uzman sistemler adı verilen bir metodoloji gelişti.\nUzman sistemler bir konuda belli ön koşullar aynı..."
+            }
+          ]
+        },
+        {
+          "stage": "graph_expansion",
+          "status": "done",
+          "duration_ms": 179,
+          "triples_found": 29,
+          "detail": "29 graf uclusu genisletildi",
+          "triples": [
+            {
+              "source": "1956'daki Dartmouth College Atölye Çalışması",
+              "relation": "RELATED_TO",
+              "target": "Yapay Zekâ Tarihi"
+            },
+            {
+              "source": "1956'daki Dartmouth College Atölye Çalışması",
+              "relation": "CREATED_BY",
+              "target": "Yapay Zekâ Tarihi"
+            },
+            {
+              "source": "1956'daki Dartmouth College Atölye Çalışması",
+              "relation": "OCCURRED_IN",
+              "target": "1956"
+            },
+            {
+              "source": "1956'daki Dartmouth College Atölye Çalışması",
+              "relation": "HELD_IN",
+              "target": "A Proposal For The Dartmouth Summer Research Project On Artificial Intelligence"
+            },
+            {
+              "source": "1956'daki Dartmouth College Atölye Çalışması",
+              "relation": "HELD_IN",
+              "target": "Dartmouth College"
+            },
+            {
+              "source": "1956'daki Dartmouth College Atölye Çalışması",
+              "relation": "PARTICIPATED_IN",
+              "target": "Shannon, Claude"
+            },
+            {
+              "source": "1956'daki Dartmouth College Atölye Çalışması",
+              "relation": "PARTICIPATED_IN",
+              "target": "Minsky, Marvin"
+            },
+            {
+              "source": "1956'daki Dartmouth College Atölye Çalışması",
+              "relation": "PARTICIPATED_IN",
+              "target": "Mc Carthy"
+            },
+            {
+              "source": "1956'daki Dartmouth College Atölye Çalışması",
+              "relation": "PARTICIPATED_IN",
+              "target": "Rochester, Nathan"
+            },
+            {
+              "source": "1956'daki Dartmouth College Atölye Çalışması",
+              "relation": "PARTICIPATED_IN",
+              "target": "Ai Araştırmacıları"
+            },
+            {
+              "source": "1956",
+              "relation": "OCCURRED_IN",
+              "target": "1956'daki Dartmouth College Atölye Çalışması"
+            },
+            {
+              "source": "Dartmouth College",
+              "relation": "HELD_IN",
+              "target": "1956'daki Dartmouth College Atölye Çalışması"
+            },
+            {
+              "source": "Amerika Birleşik Devletleri",
+              "relation": "PARTICIPATED_IN",
+              "target": "Yapay Zekâ Tarihi"
+            },
+            {
+              "source": "Amerika Birleşik Devletleri",
+              "relation": "DEVELOPED_BY",
+              "target": "Yapay Zekâ Teknolojisi"
+            },
+            {
+              "source": "Logic Theorist",
+              "relation": "CREATED_BY",
+              "target": "Herbert A. Simon"
+            },
+            {
+              "source": "Logic Theorist",
+              "relation": "CREATED_BY",
+              "target": "Allen Newell"
+            },
+            {
+              "source": "Logic Theorist",
+              "relation": "DEVELOPED_BY",
+              "target": "Herbert A. Simon"
+            },
+            {
+              "source": "Logic Theorist",
+              "relation": "DEVELOPED_BY",
+              "target": "Allen Newell"
+            },
+            {
+              "source": "Edmonds",
+              "relation": "DEVELOPED_BY",
+              "target": "Snarc"
+            },
+            {
+              "source": "Mc Carthy",
+              "relation": "CREATED_BY",
+              "target": "Yapay Zekâ Tarihi"
+            },
+            {
+              "source": "Mc Carthy",
+              "relation": "PARTICIPATED_IN",
+              "target": "Princeton Üniversitesi"
+            },
+            {
+              "source": "Mc Carthy",
+              "relation": "PARTICIPATED_IN",
+              "target": "1956'daki Dartmouth College Atölye Çalışması"
+            },
+            {
+              "source": "1951",
+              "relation": "OCCURRED_IN",
+              "target": "Snarc"
+            },
+            {
+              "source": "Princeton Üniversitesi",
+              "relation": "PARTICIPATED_IN",
+              "target": "Mc Carthy"
+            },
+            {
+              "source": "Uzman Sistemler",
+              "relation": "USED_IN",
+              "target": "Prosedürel İçerik Üretimi"
+            },
+            {
+              "source": "Uzman Sistemler",
+              "relation": "SUBFIELD_OF",
+              "target": "Yapay Zekâ Tarihi"
+            },
+            {
+              "source": "Doğal Dil İşleme",
+              "relation": "USED_IN",
+              "target": "Diyalog Bazlı Yapay Zeka"
+            },
+            {
+              "source": "Doğal Dil İşleme",
+              "relation": "USED_IN",
+              "target": "Gpt-3.5"
+            },
+            {
+              "source": "Doğal Dil İşleme",
+              "relation": "USED_IN",
+              "target": "Yapay Zeka Tabanlı Chatbot"
+            }
+          ]
+        },
+        {
+          "stage": "community_selection",
+          "status": "done",
+          "duration_ms": 897,
+          "communities_evaluated": 78,
+          "selected": 4,
+          "detail": "78 topluluk degerlendirildi, 4 secildi",
+          "communities": [
+            {
+              "id": "comm_002",
+              "summary": "Bu topluluk, yapay zekâ (AI) disiplininin 1950'li yıllardaki öncü isimlerini, dönüm noktası niteliğindeki akademik çalışmaları ve tarihi laboratuvar d...",
+              "score": 0.7117,
+              "selected": true
+            },
+            {
+              "id": "comm_025",
+              "summary": "Bu topluluk, Joseph Weizenbaum'un geliştirdiği Eliza programı ve \"Eliza Etkisi\" bağlamında, yapay zekânın erken dönemlerindeki yüzeysel ve sentaktik y...",
+              "score": 0.596,
+              "selected": true
+            },
+            {
+              "id": "comm_011",
+              "summary": "Bu topluluk; Alan Turing'in öncülük ettiği kuramsal temellerden günümüzdeki gelişmiş dil modelleri, sesli asistanlar ve chatbot'lara kadar uzanan **Ya...",
+              "score": 0.5844,
+              "selected": true
+            },
+            {
+              "id": "comm_043",
+              "summary": "Bu topluluk, zekânın sembollerin manipülasyonu yoluyla üretilebileceğini savunan ve 1950'lerden 1980'lerin sonuna kadar yapay zekâ araştırmalarına hâk...",
+              "score": 0.574,
+              "selected": true
+            },
+            {
+              "id": "comm_046",
+              "summary": "Bu topluluk; Douglas Lenat'ın \"Otomatik Matematikçisi\" örneği üzerinden makinelerin yeni fikirler üreterek orijinal, yaratıcı ve bilimsel keşiflerde b...",
+              "score": 0.5731,
+              "selected": false
+            },
+            {
+              "id": "comm_056",
+              "summary": "Bu topluluk, yapay zeka, zihin felsefesi ve hesaplamalı zihin kuramları etrafında şekillenen; insan bilinci ile makinelerin kapasitesi arasındaki iliş...",
+              "score": 0.5712,
+              "selected": false
+            },
+            {
+              "id": "comm_012",
+              "summary": "Bu topluluk, Allen Newell ve Herbert A. Simon öncülüğünde gelişen, insan zekasının ve problem çözme süreçlerinin bilgisayar ortamında sembol manipülas...",
+              "score": 0.5706,
+              "selected": false
+            },
+            {
+              "id": "comm_065",
+              "summary": "Bu topluluk, derin öğrenmenin örüntü tanıma gücü ile geleneksel sembolik yapay zekânın mantıksal çıkarım ve açıklanabilirlik yeteneklerini birleştiren...",
+              "score": 0.5621,
+              "selected": false
+            },
+            {
+              "id": "comm_067",
+              "summary": "Bu topluluk, yapay zekada sembolik yöntemler ile derin öğrenmeyi birleştiren **nöro-sembolik entegrasyonu** ana tema olarak ele almaktadır. Henry Kaut...",
+              "score": 0.5613,
+              "selected": false
+            },
+            {
+              "id": "comm_036",
+              "summary": "Bu topluluk, yapay zekâ modellerinin (GPT) bilgi depolama ve işleme mekanizmalarını inceleyen, özellikle bu modellerdeki olgusal ilişkilerin ve bilgil...",
+              "score": 0.5605,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "stage": "generation",
+          "status": "done",
+          "duration_ms": 1610,
+          "model": "gemini-3.5-flash-lite",
+          "detail": "Gemini (gemini-3.5-flash-lite) ile yanit uretildi"
+        }
+      ],
+      "total_duration_ms": 4554
+    }
+  ]
+}

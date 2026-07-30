@@ -1,0 +1,27 @@
+# Sensitive/Personal Files to Exclude
+mail_kaliplari (1).pdf
+gfr.txt
+.txt
+
+# Exclude zip archives (extracted folders are pushed instead)
+*.zip
+**/*.zip
+
+# 5 ML Projects specific excludes
+5 ML Projects/Network_Teknolojileri_ML_Proje_Gorev_Atamalari.docx
+5 ML Projects/5 ML Projesi Teslim/Proje_1_Classification/5 ML Project 1 Classification.knwf
+
+# Data Visualization Task specific excludes
+Data Visualization Task/VERİ GÖRSELLEŞTİRME PROJE ADIMLARI.pdf
+
+# GraphRAG Task specific excludes
+GraphRAG Task/.env
+GraphRAG Task/__pycache__/
+GraphRAG Task/**/*.pyc
+GraphRAG Task/.ipynb_checkpoints/
+
+# System / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

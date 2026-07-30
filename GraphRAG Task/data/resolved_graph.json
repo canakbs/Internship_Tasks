@@ -1,0 +1,7779 @@
+{
+  "entities": [
+    {
+      "name": "Yapay Zekâ",
+      "type": "Technology"
+    },
+    {
+      "name": "Dördüncü Sanayi Devrimi",
+      "type": "Event"
+    },
+    {
+      "name": "Yapay Genel Zekâ",
+      "type": "Technology"
+    },
+    {
+      "name": "Yapay Biyolojik Zekâ",
+      "type": "Technology"
+    },
+    {
+      "name": "Tesler'in Teoremi",
+      "type": "Concept"
+    },
+    {
+      "name": "Optik Karakter Tanıma",
+      "type": "Technology"
+    },
+    {
+      "name": "Satranç",
+      "type": "Concept"
+    },
+    {
+      "name": "Go",
+      "type": "Concept"
+    },
+    {
+      "name": "Poker",
+      "type": "Concept"
+    },
+    {
+      "name": "Otonom Arabalar",
+      "type": "Technology"
+    },
+    {
+      "name": "Isaac Asimov",
+      "type": "Person"
+    },
+    {
+      "name": "Karel Čapek",
+      "type": "Person"
+    },
+    {
+      "name": "R.u.r.",
+      "type": "Concept"
+    },
+    {
+      "name": "1920",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "1920'li Yıllar",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Bilgisayar Bilimi",
+      "type": "Field"
+    },
+    {
+      "name": "Eyleyici Yapay Zekâ",
+      "type": "Concept"
+    },
+    {
+      "name": "Yapay Zekâ Araştırmaları",
+      "type": "Field"
+    },
+    {
+      "name": "Akıl Yürütme Ve Problem Çözme",
+      "type": "Concept"
+    },
+    {
+      "name": "1980'lerin Sonları",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "1990'lar",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Kombinatoryal Patlama",
+      "type": "Concept"
+    },
+    {
+      "name": "Bilgi Temsili",
+      "type": "Concept"
+    },
+    {
+      "name": "Bilgi Mühendisliği",
+      "type": "Field"
+    },
+    {
+      "name": "İçerik Tabanlı İndeksleme",
+      "type": "Concept"
+    },
+    {
+      "name": "Bilgi Erişimi",
+      "type": "Field"
+    },
+    {
+      "name": "Sahne Yorumlama",
+      "type": "Concept"
+    },
+    {
+      "name": "Klinik Karar Destek Sistemleri",
+      "type": "Technology"
+    },
+    {
+      "name": "Bilgi Keşfi",
+      "type": "Concept"
+    },
+    {
+      "name": "Alan Turing",
+      "type": "Person"
+    },
+    {
+      "name": "Warren Mccullouch",
+      "type": "Person"
+    },
+    {
+      "name": "Walter Pitts",
+      "type": "Person"
+    },
+    {
+      "name": "Turing Testi",
+      "type": "Technology"
+    },
+    {
+      "name": "Bilgi İşlem Makineleri Ve Zekâ",
+      "type": "Concept"
+    },
+    {
+      "name": "1943",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "1950",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Sibernetik",
+      "type": "Field"
+    },
+    {
+      "name": "Bilgi Teorisi",
+      "type": "Field"
+    },
+    {
+      "name": "Nörobiyoloji",
+      "type": "Field"
+    },
+    {
+      "name": "Algoritmalar Teorisi",
+      "type": "Concept"
+    },
+    {
+      "name": "1956",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Dartmouth College",
+      "type": "Organization"
+    },
+    {
+      "name": "1956'daki Dartmouth College Atölye Çalışması",
+      "type": "Event"
+    },
+    {
+      "name": "1960'lar",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Bilgisayarlar",
+      "type": "Technology"
+    },
+    {
+      "name": "1950'lerin Sonu",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "1960'ların Başları",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "İngiltere",
+      "type": "Location"
+    },
+    {
+      "name": "Amerika Birleşik Devletleri",
+      "type": "Location"
+    },
+    {
+      "name": "Herbert Simon",
+      "type": "Person"
+    },
+    {
+      "name": "Marvin Minsky",
+      "type": "Person"
+    },
+    {
+      "name": "Sir James Lighthill",
+      "type": "Person"
+    },
+    {
+      "name": "Abd Kongresi",
+      "type": "Organization"
+    },
+    {
+      "name": "Seymour Papert",
+      "type": "Person"
+    },
+    {
+      "name": "Perceptrons",
+      "type": "Concept"
+    },
+    {
+      "name": "Yapay Sinir Ağları",
+      "type": "Technology"
+    },
+    {
+      "name": "Yapay Zekâ Kışı",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "1980'lerin Başı",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Uzman Sistemler",
+      "type": "Technology"
+    },
+    {
+      "name": "1985",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Japonya",
+      "type": "Location"
+    },
+    {
+      "name": "Beşinci Nesil Bilgisayar Projesi",
+      "type": "Concept"
+    },
+    {
+      "name": "Abd",
+      "type": "Location"
+    },
+    {
+      "name": "Britanya",
+      "type": "Location"
+    },
+    {
+      "name": "1987",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Lisp Makinesi",
+      "type": "Technology"
+    },
+    {
+      "name": "İkinci Yapay Zekâ Kışı",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Lisp Makinesi Pazarı",
+      "type": "Concept"
+    },
+    {
+      "name": "1980'ler",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Rodney Brooks",
+      "type": "Person"
+    },
+    {
+      "name": "Judea Pearl",
+      "type": "Person"
+    },
+    {
+      "name": "Lofti Zadeh",
+      "type": "Person"
+    },
+    {
+      "name": "Geoffrey Hinton",
+      "type": "Person"
+    },
+    {
+      "name": "1990",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Yann Lecun",
+      "type": "Person"
+    },
+    {
+      "name": "Evrişimli Sinir Ağları",
+      "type": "Technology"
+    },
+    {
+      "name": "Sinir Ağları",
+      "type": "Technology"
+    },
+    {
+      "name": "Ecun",
+      "type": "Technology"
+    },
+    {
+      "name": "1990'ların Sonları Ve 21. Yüzyılın Başları",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Matematik",
+      "type": "Field"
+    },
+    {
+      "name": "İstatistik",
+      "type": "Field"
+    },
+    {
+      "name": "Ekonomi",
+      "type": "Field"
+    },
+    {
+      "name": "2000'li Yıllar",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Yapay Zekâ Etkisi",
+      "type": "Concept"
+    },
+    {
+      "name": "Agi",
+      "type": "Field"
+    },
+    {
+      "name": "Derin Öğrenme",
+      "type": "Technology"
+    },
+    {
+      "name": "2002",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "2010'lar",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "2012",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Grafik İşlem Birimleri",
+      "type": "Technology"
+    },
+    {
+      "name": "Bulut Bilişim",
+      "type": "Technology"
+    },
+    {
+      "name": "Imagenet",
+      "type": "Concept"
+    },
+    {
+      "name": "Makine Öğrenimi",
+      "type": "Field"
+    },
+    {
+      "name": "2015-2019",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "2016",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Uyum Problemi",
+      "type": "Concept"
+    },
+    {
+      "name": "2010'ların Sonları Ve 2020'lerin Başları",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "2015",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Deepmind",
+      "type": "Organization"
+    },
+    {
+      "name": "Alphago",
+      "type": "Technology"
+    },
+    {
+      "name": "2020",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Openai",
+      "type": "Organization"
+    },
+    {
+      "name": "Gpt-3",
+      "type": "Technology"
+    },
+    {
+      "name": "30 Kasım 2022",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Chatgpt",
+      "type": "Technology"
+    },
+    {
+      "name": "2022",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Ai Impacts",
+      "type": "Organization"
+    },
+    {
+      "name": "Pitchbook",
+      "type": "Organization"
+    },
+    {
+      "name": "2024",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Mcculloch",
+      "type": "Person"
+    },
+    {
+      "name": "Pitts",
+      "type": "Person"
+    },
+    {
+      "name": "Yapay Sinir Hücreleri Hesaplama Modeli",
+      "type": "Technology"
+    },
+    {
+      "name": "Önermeler Mantığı",
+      "type": "Concept"
+    },
+    {
+      "name": "Fizyoloji",
+      "type": "Field"
+    },
+    {
+      "name": "Hesaplama Kuramı",
+      "type": "Concept"
+    },
+    {
+      "name": "Hebb",
+      "type": "Person"
+    },
+    {
+      "name": "Shannon",
+      "type": "Person"
+    },
+    {
+      "name": "Turing",
+      "type": "Person"
+    },
+    {
+      "name": "Snarc",
+      "type": "Technology"
+    },
+    {
+      "name": "Mit",
+      "type": "Organization"
+    },
+    {
+      "name": "Minsky",
+      "type": "Person"
+    },
+    {
+      "name": "Edmonds",
+      "type": "Person"
+    },
+    {
+      "name": "1951",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Princeton Üniversitesi",
+      "type": "Organization"
+    },
+    {
+      "name": "Mc Carthy",
+      "type": "Person"
+    },
+    {
+      "name": "Rochester",
+      "type": "Person"
+    },
+    {
+      "name": "Dartmouth",
+      "type": "Location"
+    },
+    {
+      "name": "Dartmouth Konferansı",
+      "type": "Event"
+    },
+    {
+      "name": "Logic Theorist",
+      "type": "Technology"
+    },
+    {
+      "name": "Newell",
+      "type": "Person"
+    },
+    {
+      "name": "Simon",
+      "type": "Person"
+    },
+    {
+      "name": "Genel Sorun Çözücü",
+      "type": "Technology"
+    },
+    {
+      "name": "Fiziksel Simge Varsayımı",
+      "type": "Concept"
+    },
+    {
+      "name": "Sembolik Yapay Zekâ",
+      "type": "Field"
+    },
+    {
+      "name": "Sibernetik Yapay Zekâ",
+      "type": "Field"
+    },
+    {
+      "name": "Eliza",
+      "type": "Technology"
+    },
+    {
+      "name": "Weizenbaum",
+      "type": "Person"
+    },
+    {
+      "name": "1969",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Yapay Sinir Ağı",
+      "type": "Technology"
+    },
+    {
+      "name": "Dec",
+      "type": "Organization"
+    },
+    {
+      "name": "R1",
+      "type": "Technology"
+    },
+    {
+      "name": "1988",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Doğal Dil İşleme",
+      "type": "Field"
+    },
+    {
+      "name": "Antropoloji",
+      "type": "Field"
+    },
+    {
+      "name": "A.i.m.l",
+      "type": "Technology"
+    },
+    {
+      "name": "T.y.i̇.d",
+      "type": "Technology"
+    },
+    {
+      "name": "Diyalog Bazlı Yapay Zeka",
+      "type": "Field"
+    },
+    {
+      "name": "Makine Öğrenmesi",
+      "type": "Field"
+    },
+    {
+      "name": "Grafiksel Arayüzler",
+      "type": "Technology"
+    },
+    {
+      "name": "Diyalog Bazlı Arayüzler",
+      "type": "Technology"
+    },
+    {
+      "name": "Chatbotlar",
+      "type": "Technology"
+    },
+    {
+      "name": "Sesli Asistanlar",
+      "type": "Technology"
+    },
+    {
+      "name": "Sohbet Robotları",
+      "type": "Technology"
+    },
+    {
+      "name": "Whatsapp",
+      "type": "Technology"
+    },
+    {
+      "name": "Facebook Messenger",
+      "type": "Technology"
+    },
+    {
+      "name": "Google Assistant",
+      "type": "Technology"
+    },
+    {
+      "name": "Siri",
+      "type": "Technology"
+    },
+    {
+      "name": "Reaktif Chatbot",
+      "type": "Concept"
+    },
+    {
+      "name": "Proaktif Chatbot",
+      "type": "Concept"
+    },
+    {
+      "name": "Kural Tabanlı Chatbot",
+      "type": "Technology"
+    },
+    {
+      "name": "Yapay Zeka Tabanlı Chatbot",
+      "type": "Technology"
+    },
+    {
+      "name": "Süper Zekâ",
+      "type": "Concept"
+    },
+    {
+      "name": "Tekillik",
+      "type": "Concept"
+    },
+    {
+      "name": "I. J. Good",
+      "type": "Person"
+    },
+    {
+      "name": "Zekâ Patlaması",
+      "type": "Concept"
+    },
+    {
+      "name": "Vernor Vinge",
+      "type": "Person"
+    },
+    {
+      "name": "Transhümanizm",
+      "type": "Concept"
+    },
+    {
+      "name": "Hans Moravec",
+      "type": "Person"
+    },
+    {
+      "name": "Kevin Warwick",
+      "type": "Person"
+    },
+    {
+      "name": "Ray Kurzweil",
+      "type": "Person"
+    },
+    {
+      "name": "Aldous Huxley",
+      "type": "Person"
+    },
+    {
+      "name": "Robert Ettinger",
+      "type": "Person"
+    },
+    {
+      "name": "Edward Fredkin",
+      "type": "Person"
+    },
+    {
+      "name": "Samuel Butler",
+      "type": "Person"
+    },
+    {
+      "name": "Darwin Among The Machines",
+      "type": "Concept"
+    },
+    {
+      "name": "1863",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "George Dyson",
+      "type": "Person"
+    },
+    {
+      "name": "1998",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Darwin Among The Machines: The Evolution Of Global Intelligence",
+      "type": "Concept"
+    },
+    {
+      "name": "Evolution Of Global Intelligence",
+      "type": "Concept"
+    },
+    {
+      "name": "Önerici Sistemler",
+      "type": "Concept"
+    },
+    {
+      "name": "Makine Çevirisi",
+      "type": "Concept"
+    },
+    {
+      "name": "Google Translate",
+      "type": "Technology"
+    },
+    {
+      "name": "Microsoft Tercüman",
+      "type": "Technology"
+    },
+    {
+      "name": "Yandex.çeviri",
+      "type": "Technology"
+    },
+    {
+      "name": "Sinyal İşleme",
+      "type": "Concept"
+    },
+    {
+      "name": "Prosedürel İçerik Üretimi",
+      "type": "Concept"
+    },
+    {
+      "name": "Regresyon Analizi",
+      "type": "Concept"
+    },
+    {
+      "name": "Yon Analizi",
+      "type": "Concept"
+    },
+    {
+      "name": "Görüntü İşleme",
+      "type": "Concept"
+    },
+    {
+      "name": "Hough Dönüşümü",
+      "type": "Technology"
+    },
+    {
+      "name": "Tıp",
+      "type": "Field"
+    },
+    {
+      "name": "Biyoloji",
+      "type": "Field"
+    },
+    {
+      "name": "Otomotiv",
+      "type": "Field"
+    },
+    {
+      "name": "Üretim",
+      "type": "Field"
+    },
+    {
+      "name": "Makale Yazma",
+      "type": "Concept"
+    },
+    {
+      "name": "8 Eylül 2020",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "The Guardian",
+      "type": "Organization"
+    },
+    {
+      "name": "Türkiye",
+      "type": "Location"
+    },
+    {
+      "name": "Şalom",
+      "type": "Organization"
+    },
+    {
+      "name": "2018",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Güçlü Yapay Zekâ",
+      "type": "Technology"
+    },
+    {
+      "name": "Uygulamalı Yapay Zekâ",
+      "type": "Technology"
+    },
+    {
+      "name": "Zayıf Yapay Zekâ",
+      "type": "Concept"
+    },
+    {
+      "name": "2017",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Planlama",
+      "type": "Concept"
+    },
+    {
+      "name": "Bilişsel Bilim",
+      "type": "Field"
+    },
+    {
+      "name": "Robot",
+      "type": "Technology"
+    },
+    {
+      "name": "Karar Destek Sistemi",
+      "type": "Technology"
+    },
+    {
+      "name": "Kahve Testi",
+      "type": "Technology"
+    },
+    {
+      "name": "Wozniak",
+      "type": "Person"
+    },
+    {
+      "name": "Robot Kolej Öğrencisi Testi",
+      "type": "Technology"
+    },
+    {
+      "name": "Goertzel",
+      "type": "Person"
+    },
+    {
+      "name": "Görevlendirilme Testi",
+      "type": "Technology"
+    },
+    {
+      "name": "Nilsson",
+      "type": "Person"
+    },
+    {
+      "name": "Düz Paket Mobilya Testi",
+      "type": "Concept"
+    },
+    {
+      "name": "Tony Severyns",
+      "type": "Person"
+    },
+    {
+      "name": "Ağustos 2020",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Ygz",
+      "type": "Technology"
+    },
+    {
+      "name": "Elon Musk",
+      "type": "Person"
+    },
+    {
+      "name": "Bill Gates",
+      "type": "Person"
+    },
+    {
+      "name": "Stephen Hawking",
+      "type": "Person"
+    },
+    {
+      "name": "Stuart J. Russell",
+      "type": "Person"
+    },
+    {
+      "name": "Acı Riskleri",
+      "type": "Concept"
+    },
+    {
+      "name": "Bilim",
+      "type": "Field"
+    },
+    {
+      "name": "Mühendislik",
+      "type": "Field"
+    },
+    {
+      "name": "Yapay Zekâ Etiği",
+      "type": "Concept"
+    },
+    {
+      "name": "Teknoloji Etiği",
+      "type": "Field"
+    },
+    {
+      "name": "Roboetik",
+      "type": "Field"
+    },
+    {
+      "name": "Makine Etiği",
+      "type": "Field"
+    },
+    {
+      "name": "Hesap Verilebilirlik",
+      "type": "Concept"
+    },
+    {
+      "name": "Açıklanabilirlik",
+      "type": "Concept"
+    },
+    {
+      "name": "İnsan Denetimi",
+      "type": "Concept"
+    },
+    {
+      "name": "Avrupa Birliği",
+      "type": "Organization"
+    },
+    {
+      "name": "Yapay Zekâ Yasası",
+      "type": "Concept"
+    },
+    {
+      "name": "13 Haziran 2024",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Avrupa Parlamentosu",
+      "type": "Organization"
+    },
+    {
+      "name": "Konsey",
+      "type": "Organization"
+    },
+    {
+      "name": "2 Ağustos 2026",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Simsimi",
+      "type": "Technology"
+    },
+    {
+      "name": "Algoritmik Önyargı",
+      "type": "Concept"
+    },
+    {
+      "name": "Roko'nun Basiliski",
+      "type": "Concept"
+    },
+    {
+      "name": "Sembolik Yz",
+      "type": "Concept"
+    },
+    {
+      "name": "1950'lerin Ortalarından 1980'lerin Sonuna",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "John Haugeland",
+      "type": "Person"
+    },
+    {
+      "name": "Yapay Zekâ Kitabı: The Very Idea",
+      "type": "Concept"
+    },
+    {
+      "name": "Gofai",
+      "type": "Technology"
+    },
+    {
+      "name": "Gofr",
+      "type": "Technology"
+    },
+    {
+      "name": "1960'ların Ortaları",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Allen Newell",
+      "type": "Person"
+    },
+    {
+      "name": "Herbert A. Simon",
+      "type": "Person"
+    },
+    {
+      "name": "Fiziksel Simge Sistemleri Hipotezi",
+      "type": "Concept"
+    },
+    {
+      "name": "Üretim Kuralları",
+      "type": "Concept"
+    },
+    {
+      "name": "Hesaplamalı Zeka",
+      "type": "Field"
+    },
+    {
+      "name": "Optimizasyon",
+      "type": "Concept"
+    },
+    {
+      "name": "Genel Yapay Zekâ",
+      "type": "Field"
+    },
+    {
+      "name": "Valiant",
+      "type": "Person"
+    },
+    {
+      "name": "Makine Öğrenme Modelleri",
+      "type": "Concept"
+    },
+    {
+      "name": "Sembolik Akıl Yürütme",
+      "type": "Concept"
+    },
+    {
+      "name": "Mikro Dünya",
+      "type": "Concept"
+    },
+    {
+      "name": "Üretim Sistemi",
+      "type": "Technology"
+    },
+    {
+      "name": "Yüzeysel Sistem",
+      "type": "Technology"
+    },
+    {
+      "name": "Hubert Dreyfus",
+      "type": "Person"
+    },
+    {
+      "name": "1970'lerin Ortaları",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Yz Kışı",
+      "type": "Event"
+    },
+    {
+      "name": "Lighthill Report",
+      "type": "Concept"
+    },
+    {
+      "name": "Pamela Mccorduck",
+      "type": "Person"
+    },
+    {
+      "name": "Ai",
+      "type": "Field"
+    },
+    {
+      "name": "Ibm",
+      "type": "Organization"
+    },
+    {
+      "name": "Deep Blue",
+      "type": "Technology"
+    },
+    {
+      "name": "1997",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Garry Kasparov",
+      "type": "Person"
+    },
+    {
+      "name": "Fred Reed",
+      "type": "Person"
+    },
+    {
+      "name": "Douglas Hofstadter",
+      "type": "Person"
+    },
+    {
+      "name": "Larry Tesler Teoremi",
+      "type": "Concept"
+    },
+    {
+      "name": "Turing Makinesi",
+      "type": "Technology"
+    },
+    {
+      "name": "İnsan Destekli Turing Makinesi",
+      "type": "Technology"
+    },
+    {
+      "name": "Michael Swaine",
+      "type": "Person"
+    },
+    {
+      "name": "Patrick Winston",
+      "type": "Person"
+    },
+    {
+      "name": "Stottler Henke",
+      "type": "Organization"
+    },
+    {
+      "name": "Ai Etkisi",
+      "type": "Concept"
+    },
+    {
+      "name": "Nick Bostrom",
+      "type": "Person"
+    },
+    {
+      "name": "Ai Kışı",
+      "type": "Event"
+    },
+    {
+      "name": "Patty Tascarella",
+      "type": "Person"
+    },
+    {
+      "name": "Michael Kearns",
+      "type": "Person"
+    },
+    {
+      "name": "Hayvan Bilişi",
+      "type": "Field"
+    },
+    {
+      "name": "Bilinç Çalışmaları",
+      "type": "Field"
+    },
+    {
+      "name": "Çin Odası",
+      "type": "Concept"
+    },
+    {
+      "name": "Eli̇za Etkisi",
+      "type": "Concept"
+    },
+    {
+      "name": "İşlevselcilik",
+      "type": "Field"
+    },
+    {
+      "name": "Yapay Zekanın Tarihi",
+      "type": "Concept"
+    },
+    {
+      "name": "Moravec Paradoksu",
+      "type": "Concept"
+    },
+    {
+      "name": "Kale Direklerini Hareket Ettirmek",
+      "type": "Concept"
+    },
+    {
+      "name": "Yapay Zeka Felsefesi",
+      "type": "Field"
+    },
+    {
+      "name": "Teknoloji Felsefesi",
+      "type": "Field"
+    },
+    {
+      "name": "Etik",
+      "type": "Concept"
+    },
+    {
+      "name": "Bilinç",
+      "type": "Concept"
+    },
+    {
+      "name": "Epistemoloji",
+      "type": "Field"
+    },
+    {
+      "name": "Özgür İrade",
+      "type": "Concept"
+    },
+    {
+      "name": "Ai Topluluğu",
+      "type": "Organization"
+    },
+    {
+      "name": "İnsan Zekası",
+      "type": "Concept"
+    },
+    {
+      "name": "Makine Zekası",
+      "type": "Concept"
+    },
+    {
+      "name": "İnsan Beyni",
+      "type": "Concept"
+    },
+    {
+      "name": "Fiziksel Sembol Sistemi Hipotezi",
+      "type": "Concept"
+    },
+    {
+      "name": "John Searle",
+      "type": "Person"
+    },
+    {
+      "name": "Güçlü Ai Hipotezi",
+      "type": "Concept"
+    },
+    {
+      "name": "1956 Dartmouth Konferansı",
+      "type": "Event"
+    },
+    {
+      "name": "Ai Araştırmacıları",
+      "type": "Person"
+    },
+    {
+      "name": "Zeka",
+      "type": "Concept"
+    },
+    {
+      "name": "Peter Norvig",
+      "type": "Person"
+    },
+    {
+      "name": "Yirmi Birinci Yüzyıl",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Akıllı Ajan",
+      "type": "Concept"
+    },
+    {
+      "name": "Ajan",
+      "type": "Concept"
+    },
+    {
+      "name": "Performans Ölçüsü",
+      "type": "Concept"
+    },
+    {
+      "name": "Termostat",
+      "type": "Technology"
+    },
+    {
+      "name": "Makine",
+      "type": "Technology"
+    },
+    {
+      "name": "2029",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "2005",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "1963",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Fiziksel Sembol Sistemi",
+      "type": "Concept"
+    },
+    {
+      "name": "Sembol Manipülasyonu",
+      "type": "Concept"
+    },
+    {
+      "name": "Dreyfus",
+      "type": "Person"
+    },
+    {
+      "name": "Güçlü Ai",
+      "type": "Concept"
+    },
+    {
+      "name": "Fiziksel Bir Sembol Sistemi",
+      "type": "Technology"
+    },
+    {
+      "name": "Searle",
+      "type": "Person"
+    },
+    {
+      "name": "Bilgisayar Programı",
+      "type": "Technology"
+    },
+    {
+      "name": "İnsan Zihni",
+      "type": "Concept"
+    },
+    {
+      "name": "Hesaplama",
+      "type": "Concept"
+    },
+    {
+      "name": "Hesaplamalı Zihin Teorisi",
+      "type": "Concept"
+    },
+    {
+      "name": "Hobbes",
+      "type": "Person"
+    },
+    {
+      "name": "Leibniz",
+      "type": "Person"
+    },
+    {
+      "name": "Hume",
+      "type": "Person"
+    },
+    {
+      "name": "Kant",
+      "type": "Person"
+    },
+    {
+      "name": "Hilary Putnam",
+      "type": "Person"
+    },
+    {
+      "name": "Jerry Fodor",
+      "type": "Person"
+    },
+    {
+      "name": "Öz Farkındalık",
+      "type": "Concept"
+    },
+    {
+      "name": "Hata Ayıklayıcı",
+      "type": "Technology"
+    },
+    {
+      "name": "Douglas Lenat",
+      "type": "Person"
+    },
+    {
+      "name": "Otomatik Matematikçisi",
+      "type": "Technology"
+    },
+    {
+      "name": "Kaplan",
+      "type": "Person"
+    },
+    {
+      "name": "Haenlein",
+      "type": "Person"
+    },
+    {
+      "name": "Stanford Felsefe Ansiklopedisi",
+      "type": "Organization"
+    },
+    {
+      "name": "David Deutsch",
+      "type": "Person"
+    },
+    {
+      "name": "Alison Adam",
+      "type": "Person"
+    },
+    {
+      "name": "Artificial Knowing: Gender And The Thinking Machine",
+      "type": "Concept"
+    },
+    {
+      "name": "Ruha Benjamin",
+      "type": "Person"
+    },
+    {
+      "name": "Race After Technology: Abolitionist Tools For The New Jim Code",
+      "type": "Concept"
+    },
+    {
+      "name": "Felsefe",
+      "type": "Field"
+    },
+    {
+      "name": "1989",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "2019",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Wiley",
+      "type": "Organization"
+    },
+    {
+      "name": "Oxford University Press",
+      "type": "Organization"
+    },
+    {
+      "name": "Susan Blackmore",
+      "type": "Person"
+    },
+    {
+      "name": "Consciousness: A Very Short Introduction",
+      "type": "Concept"
+    },
+    {
+      "name": "Superintelligence: Paths, Dangers, Strategies",
+      "type": "Concept"
+    },
+    {
+      "name": "Elephants Don't Play Chess",
+      "type": "Concept"
+    },
+    {
+      "name": "Robotics And Autonomous Systems",
+      "type": "Organization"
+    },
+    {
+      "name": "Joanna Bryson",
+      "type": "Person"
+    },
+    {
+      "name": "The Artiﬁcial Intelligence Of The Ethics Of Artiﬁcial Intelligence: An Introductory Overview For Law And Regulation",
+      "type": "Concept"
+    },
+    {
+      "name": "David J. Chalmers",
+      "type": "Person"
+    },
+    {
+      "name": "The Conscious Mind: In Search Of A Fundamental Theory",
+      "type": "Concept"
+    },
+    {
+      "name": "2014",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "1996",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "New York",
+      "type": "Location"
+    },
+    {
+      "name": "David Cole",
+      "type": "Person"
+    },
+    {
+      "name": "The Chinese Room Argument",
+      "type": "Concept"
+    },
+    {
+      "name": "Edward N. Zalta",
+      "type": "Person"
+    },
+    {
+      "name": "The Stanford Encyclopedia Of Philosophy",
+      "type": "Organization"
+    },
+    {
+      "name": "Kate Crawford",
+      "type": "Person"
+    },
+    {
+      "name": "The Atlas Of Ai: Power, Politics, And The Planetary Costs Of Artificial Intelligence",
+      "type": "Concept"
+    },
+    {
+      "name": "Yale University Press",
+      "type": "Organization"
+    },
+    {
+      "name": "Daniel Dennett",
+      "type": "Person"
+    },
+    {
+      "name": "Consciousness Explained",
+      "type": "Concept"
+    },
+    {
+      "name": "The Penguin Press",
+      "type": "Organization"
+    },
+    {
+      "name": "What Computers Can't Do",
+      "type": "Concept"
+    },
+    {
+      "name": "Mit Press",
+      "type": "Organization"
+    },
+    {
+      "name": "What Computers Still Can't Do",
+      "type": "Concept"
+    },
+    {
+      "name": "Stuart Dreyfus",
+      "type": "Person"
+    },
+    {
+      "name": "Mind Over Machine: The Power Of Human Intuition And Expertise İn The Era Of The Computer",
+      "type": "Concept"
+    },
+    {
+      "name": "Blackwell",
+      "type": "Organization"
+    },
+    {
+      "name": "Oxford",
+      "type": "Location"
+    },
+    {
+      "name": "Nicholas Fearn",
+      "type": "Person"
+    },
+    {
+      "name": "The Latest Answers To The Oldest Questions: A Philosophical Adventure With The World's Greatest Thinkers",
+      "type": "Concept"
+    },
+    {
+      "name": "Grove Press",
+      "type": "Organization"
+    },
+    {
+      "name": "Malcolm Gladwell",
+      "type": "Person"
+    },
+    {
+      "name": "Blink: The Power Of Thinking Without Thinking",
+      "type": "Concept"
+    },
+    {
+      "name": "Little, Brown",
+      "type": "Organization"
+    },
+    {
+      "name": "Boston",
+      "type": "Location"
+    },
+    {
+      "name": "Stevan Harnad",
+      "type": "Person"
+    },
+    {
+      "name": "Chinese Room Argument",
+      "type": "Concept"
+    },
+    {
+      "name": "Donna Haraway",
+      "type": "Person"
+    },
+    {
+      "name": "A Cyborg Manifesto",
+      "type": "Concept"
+    },
+    {
+      "name": "Artificial Intelligence: The Very Idea",
+      "type": "Concept"
+    },
+    {
+      "name": "Cambridge",
+      "type": "Location"
+    },
+    {
+      "name": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "type": "Concept"
+    },
+    {
+      "name": "Steven Horst",
+      "type": "Person"
+    },
+    {
+      "name": "The Computational Theory Of Mind",
+      "type": "Concept"
+    },
+    {
+      "name": "Metaphysics Research Lab",
+      "type": "Organization"
+    },
+    {
+      "name": "Stanford University",
+      "type": "Organization"
+    },
+    {
+      "name": "Andreas Kaplan",
+      "type": "Person"
+    },
+    {
+      "name": "Michael Haenlein",
+      "type": "Person"
+    },
+    {
+      "name": "Business Horizons",
+      "type": "Organization"
+    },
+    {
+      "name": "The Singularity İs Near",
+      "type": "Concept"
+    },
+    {
+      "name": "Viking Press",
+      "type": "Organization"
+    },
+    {
+      "name": "John Lucas",
+      "type": "Person"
+    },
+    {
+      "name": "Minds, Machines And Gödel",
+      "type": "Concept"
+    },
+    {
+      "name": "A.r. Anderson",
+      "type": "Person"
+    },
+    {
+      "name": "John",
+      "type": "Person"
+    },
+    {
+      "name": "1961",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Anderson, A.r.",
+      "type": "Person"
+    },
+    {
+      "name": "Minds And Machines",
+      "type": "Concept"
+    },
+    {
+      "name": "19 Ağustos 2007",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "20 Ağustos 2021",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Malabou, Catherine",
+      "type": "Person"
+    },
+    {
+      "name": "Morphing Intelligence: From Iq Measurement To Artificial Brains",
+      "type": "Concept"
+    },
+    {
+      "name": "C. Shread",
+      "type": "Person"
+    },
+    {
+      "name": "Columbia University Press",
+      "type": "Organization"
+    },
+    {
+      "name": "Mccarthy, John",
+      "type": "Person"
+    },
+    {
+      "name": "Minsky, Marvin",
+      "type": "Person"
+    },
+    {
+      "name": "Rochester, Nathan",
+      "type": "Person"
+    },
+    {
+      "name": "Shannon, Claude",
+      "type": "Person"
+    },
+    {
+      "name": "1955",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "A Proposal For The Dartmouth Summer Research Project On Artificial Intelligence",
+      "type": "Concept"
+    },
+    {
+      "name": "30 Eylül 2008",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Mcdermott, Drew",
+      "type": "Person"
+    },
+    {
+      "name": "14 Mayıs 1997",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "How Intelligent İs Deep Blue",
+      "type": "Concept"
+    },
+    {
+      "name": "New York Times",
+      "type": "Organization"
+    },
+    {
+      "name": "4 Ekim 2007",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "10 Ekim 2007",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Moravec, Hans",
+      "type": "Person"
+    },
+    {
+      "name": "Mind Children",
+      "type": "Concept"
+    },
+    {
+      "name": "Harvard University Press",
+      "type": "Organization"
+    },
+    {
+      "name": "Penrose, Roger",
+      "type": "Person"
+    },
+    {
+      "name": "The Emperor's New Mind: Concerning Computers, Minds, And The Laws Of Physics",
+      "type": "Concept"
+    },
+    {
+      "name": "Roger Penrose",
+      "type": "Person"
+    },
+    {
+      "name": "1980",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Minds, Brains And Programs",
+      "type": "Concept"
+    },
+    {
+      "name": "Behavioral And Brain Sciences",
+      "type": "Organization"
+    },
+    {
+      "name": "1992",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "The Rediscovery Of The Mind",
+      "type": "Concept"
+    },
+    {
+      "name": "Massachusetts",
+      "type": "Location"
+    },
+    {
+      "name": "M.i.t. Press",
+      "type": "Organization"
+    },
+    {
+      "name": "1999",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Mind, Language And Society",
+      "type": "Concept"
+    },
+    {
+      "name": "Basic Books",
+      "type": "Organization"
+    },
+    {
+      "name": "Richard Yee",
+      "type": "Person"
+    },
+    {
+      "name": "1993",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Turing Machines And Semantic Symbol Processing: Why Real Computers Don't Mind Chinese Emperors",
+      "type": "Concept"
+    },
+    {
+      "name": "Lyceum",
+      "type": "Organization"
+    },
+    {
+      "name": "Yapay Zekâ Mühendisliği",
+      "type": "Field"
+    },
+    {
+      "name": "Yapay Zekâ Mühendisleri",
+      "type": "Person"
+    },
+    {
+      "name": "Makine Öğrenme Algoritmaları",
+      "type": "Technology"
+    },
+    {
+      "name": "Dil Çevirisi",
+      "type": "Concept"
+    },
+    {
+      "name": "Görsel Algı",
+      "type": "Concept"
+    },
+    {
+      "name": "Duygu Analizi",
+      "type": "Concept"
+    },
+    {
+      "name": "Veri Mühendisleri",
+      "type": "Person"
+    },
+    {
+      "name": "Veri Bilimcileri",
+      "type": "Person"
+    },
+    {
+      "name": "Yazılım Mühendisliği",
+      "type": "Field"
+    },
+    {
+      "name": "Bilgisayar Mühendisliği",
+      "type": "Field"
+    },
+    {
+      "name": "Sistem Mühendisliği",
+      "type": "Field"
+    },
+    {
+      "name": "İnsan Merkezli Tasarım",
+      "type": "Concept"
+    },
+    {
+      "name": "Üretken Yapay Zekâ",
+      "type": "Technology"
+    },
+    {
+      "name": "Büyük Dil Modelleri",
+      "type": "Technology"
+    },
+    {
+      "name": "2020'lerin Başı",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Deepseek",
+      "type": "Technology"
+    },
+    {
+      "name": "Bing Chat",
+      "type": "Technology"
+    },
+    {
+      "name": "Bard",
+      "type": "Technology"
+    },
+    {
+      "name": "Llama",
+      "type": "Technology"
+    },
+    {
+      "name": "Stable Diffusion",
+      "type": "Technology"
+    },
+    {
+      "name": "Midjourney",
+      "type": "Technology"
+    },
+    {
+      "name": "Dall-e",
+      "type": "Technology"
+    },
+    {
+      "name": "Anthropic",
+      "type": "Organization"
+    },
+    {
+      "name": "Microsoft",
+      "type": "Organization"
+    },
+    {
+      "name": "Google",
+      "type": "Organization"
+    },
+    {
+      "name": "Baidu",
+      "type": "Organization"
+    },
+    {
+      "name": "Yazılım Geliştirme",
+      "type": "Field"
+    },
+    {
+      "name": "Sağlık Hizmetleri",
+      "type": "Field"
+    },
+    {
+      "name": "Finans",
+      "type": "Field"
+    },
+    {
+      "name": "Eğlence",
+      "type": "Field"
+    },
+    {
+      "name": "Müşteri Hizmetleri",
+      "type": "Field"
+    },
+    {
+      "name": "Satış Ve Pazarlama",
+      "type": "Field"
+    },
+    {
+      "name": "Sanat",
+      "type": "Field"
+    },
+    {
+      "name": "Yazım",
+      "type": "Field"
+    },
+    {
+      "name": "Moda",
+      "type": "Field"
+    },
+    {
+      "name": "Ürün Tasarımı",
+      "type": "Field"
+    },
+    {
+      "name": "Erişim Destekli Üretim",
+      "type": "Technology"
+    },
+    {
+      "name": "Sufle Mühendisliği",
+      "type": "Concept"
+    },
+    {
+      "name": "Metinden Videoya Model",
+      "type": "Technology"
+    },
+    {
+      "name": "Metinden Resme Model",
+      "type": "Technology"
+    },
+    {
+      "name": "Üretken Çekişmeli Ağ",
+      "type": "Technology"
+    },
+    {
+      "name": "Yapay Zekâ Patlaması",
+      "type": "Event"
+    },
+    {
+      "name": "Yapay Zekâ Baharı",
+      "type": "Event"
+    },
+    {
+      "name": "Yapay Zekâ Çağı",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Google Deepmind",
+      "type": "Organization"
+    },
+    {
+      "name": "Yapay Zekâ Hizalaması",
+      "type": "Concept"
+    },
+    {
+      "name": "Qualia",
+      "type": "Concept"
+    },
+    {
+      "name": "Toronto Üniversitesi",
+      "type": "Organization"
+    },
+    {
+      "name": "Bilgisayarlı Görü",
+      "type": "Field"
+    },
+    {
+      "name": "Imagenet Nesne Tanıma Yarışması",
+      "type": "Event"
+    },
+    {
+      "name": "Grafiksel İşlem Birimi",
+      "type": "Technology"
+    },
+    {
+      "name": "Üretken Rakip Ağ",
+      "type": "Technology"
+    },
+    {
+      "name": "Yayılma Modeli",
+      "type": "Technology"
+    },
+    {
+      "name": "Transformatör Mimarisi",
+      "type": "Technology"
+    },
+    {
+      "name": "Stanford Üniversitesi",
+      "type": "Organization"
+    },
+    {
+      "name": "Yapay Zekâ Endeksi",
+      "type": "Technology"
+    },
+    {
+      "name": "Avrupa",
+      "type": "Location"
+    },
+    {
+      "name": "Çin",
+      "type": "Location"
+    },
+    {
+      "name": "Kuzey Amerika",
+      "type": "Location"
+    },
+    {
+      "name": "Alphafold",
+      "type": "Technology"
+    },
+    {
+      "name": "Geniş Dil Modelleri",
+      "type": "Technology"
+    },
+    {
+      "name": "2017-2021",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "2023",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Yapay Zekâ Teknolojisi",
+      "type": "Technology"
+    },
+    {
+      "name": "Dış İlişkiler Konseyi",
+      "type": "Organization"
+    },
+    {
+      "name": "Stratejik Ve Uluslararası Çalışmalar Merkezi",
+      "type": "Organization"
+    },
+    {
+      "name": "Alphafold 2",
+      "type": "Technology"
+    },
+    {
+      "name": "Casp",
+      "type": "Organization"
+    },
+    {
+      "name": "Küresel Mesafe Testi",
+      "type": "Concept"
+    },
+    {
+      "name": "Hesaplamalı Biyoloji",
+      "type": "Field"
+    },
+    {
+      "name": "Nobel Ödülü",
+      "type": "Concept"
+    },
+    {
+      "name": "Venki Ramakrishnan",
+      "type": "Person"
+    },
+    {
+      "name": "Protein Katlama Problemi",
+      "type": "Concept"
+    },
+    {
+      "name": "Biyolojik Araştırma",
+      "type": "Field"
+    },
+    {
+      "name": "Sağlık Bilimleri",
+      "type": "Field"
+    },
+    {
+      "name": "Mit Technology Review",
+      "type": "Organization"
+    },
+    {
+      "name": "Gpt-3.5",
+      "type": "Technology"
+    },
+    {
+      "name": "Gpt-4",
+      "type": "Technology"
+    },
+    {
+      "name": "14 Mart 2023",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Microsoft Bing",
+      "type": "Technology"
+    },
+    {
+      "name": "Palm",
+      "type": "Technology"
+    },
+    {
+      "name": "Gemini",
+      "type": "Technology"
+    },
+    {
+      "name": "Meta Platformları",
+      "type": "Organization"
+    },
+    {
+      "name": "Bing",
+      "type": "Technology"
+    },
+    {
+      "name": "Ocak 2023",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Deepl Çeviri",
+      "type": "Technology"
+    },
+    {
+      "name": "Aralık 2023",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Ocak 2021",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Dall-e 2",
+      "type": "Technology"
+    },
+    {
+      "name": "Nisan 2022",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Temmuz 2022",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Ağustos 2022",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Damo",
+      "type": "Technology"
+    },
+    {
+      "name": "Make-a-video",
+      "type": "Technology"
+    },
+    {
+      "name": "Imagen Video",
+      "type": "Technology"
+    },
+    {
+      "name": "Phenaki",
+      "type": "Technology"
+    },
+    {
+      "name": "15.ai",
+      "type": "Technology"
+    },
+    {
+      "name": "Mart 2020",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Elevenlabs",
+      "type": "Organization"
+    },
+    {
+      "name": "Drake",
+      "type": "Person"
+    },
+    {
+      "name": "The Weeknd",
+      "type": "Person"
+    },
+    {
+      "name": "Alphabet Inc.",
+      "type": "Organization"
+    },
+    {
+      "name": "Amazon",
+      "type": "Organization"
+    },
+    {
+      "name": "Apple Inc.",
+      "type": "Organization"
+    },
+    {
+      "name": "Meta Platforms",
+      "type": "Organization"
+    },
+    {
+      "name": "Sanatçılar",
+      "type": "Person"
+    },
+    {
+      "name": "Yazılım Geliştiriciler",
+      "type": "Person"
+    },
+    {
+      "name": "Ekonomik Bozulma",
+      "type": "Concept"
+    },
+    {
+      "name": "İnsanlığa Yönelik Riskler",
+      "type": "Concept"
+    },
+    {
+      "name": "Tay",
+      "type": "Technology"
+    },
+    {
+      "name": "Yüz Tanıma Modelleri",
+      "type": "Technology"
+    },
+    {
+      "name": "Holden Karnofsky",
+      "type": "Person"
+    },
+    {
+      "name": "Yapay Zekâ Yarışı",
+      "type": "Concept"
+    },
+    {
+      "name": "Güvenlik Kontrolleri",
+      "type": "Concept"
+    },
+    {
+      "name": "Etik Hususlar",
+      "type": "Concept"
+    },
+    {
+      "name": "Sorumlu Yapay Zekâ Gelişimi",
+      "type": "Concept"
+    },
+    {
+      "name": "Yapay Zekâ Topluluğu",
+      "type": "Organization"
+    },
+    {
+      "name": "Yapay Zekâ Çöplüğü",
+      "type": "Concept"
+    },
+    {
+      "name": "Teknolojik Tekillik",
+      "type": "Concept"
+    },
+    {
+      "name": "Yapay Zekâ Güvenliği",
+      "type": "Field"
+    },
+    {
+      "name": "Yapay Zekâ Sistemleri",
+      "type": "Technology"
+    },
+    {
+      "name": "Yapay Zekâ Uyumu",
+      "type": "Concept"
+    },
+    {
+      "name": "Andrew Ng",
+      "type": "Person"
+    },
+    {
+      "name": "Bilişim Çağı",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Yapay Zekâ Geliştirme Derneği",
+      "type": "Organization"
+    },
+    {
+      "name": "2008-2009",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Roman Yampolskiy",
+      "type": "Person"
+    },
+    {
+      "name": "2011",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Yapay Zekâ Felsefesi Ve Teorisi Konferansı",
+      "type": "Event"
+    },
+    {
+      "name": "Yapay Zekâ Güvenlik Mühendisliği",
+      "type": "Concept"
+    },
+    {
+      "name": "Süper Zekâ:yollar, Tehlikeler, Stratejiler",
+      "type": "Concept"
+    },
+    {
+      "name": "Shane Legg",
+      "type": "Person"
+    },
+    {
+      "name": "Yoshua Bengio",
+      "type": "Person"
+    },
+    {
+      "name": "Stuart Russell",
+      "type": "Person"
+    },
+    {
+      "name": "California Berkeley Üniversitesi",
+      "type": "Organization"
+    },
+    {
+      "name": "İnsan Uyumlu Yapay Zekâ Merkezi",
+      "type": "Organization"
+    },
+    {
+      "name": "Yaşamın Geleceği Enstitüsü",
+      "type": "Organization"
+    },
+    {
+      "name": "Beyaz Saray Bilim Ve Teknoloji Politikası Ofisi",
+      "type": "Organization"
+    },
+    {
+      "name": "Carnegie Mellon Üniversitesi",
+      "type": "Organization"
+    },
+    {
+      "name": "Yapay Zekâ İçin Güvenlik Ve Kontrol Kamu Çalıştayı",
+      "type": "Event"
+    },
+    {
+      "name": "Concrete Problems İn Ai Safety",
+      "type": "Concept"
+    },
+    {
+      "name": "Asilomar Faydalı Yapay Zekâ Konferansı",
+      "type": "Event"
+    },
+    {
+      "name": "Deepmind Safety Ekibi",
+      "type": "Organization"
+    },
+    {
+      "name": "Iclr",
+      "type": "Organization"
+    },
+    {
+      "name": "2021",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Unsolved Problems İn Machine Learning Safety",
+      "type": "Concept"
+    },
+    {
+      "name": "Rishi Sunak",
+      "type": "Person"
+    },
+    {
+      "name": "Birleşik Krallık",
+      "type": "Location"
+    },
+    {
+      "name": "Sağlamlık",
+      "type": "Concept"
+    },
+    {
+      "name": "İzleme",
+      "type": "Concept"
+    },
+    {
+      "name": "Hizalama",
+      "type": "Concept"
+    },
+    {
+      "name": "Sistemik Güvenlik",
+      "type": "Concept"
+    },
+    {
+      "name": "Saldırıya Karşı Sağlamlık",
+      "type": "Concept"
+    },
+    {
+      "name": "2013",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Szegedy",
+      "type": "Person"
+    },
+    {
+      "name": "Konuşmadan Metne Sistemleri",
+      "type": "Technology"
+    },
+    {
+      "name": "İzinsiz Giriş Tespit Sistemleri",
+      "type": "Technology"
+    },
+    {
+      "name": "Kötü Amaçlı Yazılım Tespit Sistemleri",
+      "type": "Technology"
+    },
+    {
+      "name": "Güvenlik",
+      "type": "Concept"
+    },
+    {
+      "name": "Saldırı Tespit Sistemleri",
+      "type": "Technology"
+    },
+    {
+      "name": "Ödül Modelleri",
+      "type": "Concept"
+    },
+    {
+      "name": "Dil Modeli",
+      "type": "Technology"
+    },
+    {
+      "name": "İzleme Araçları",
+      "type": "Technology"
+    },
+    {
+      "name": "Kalibrasyon Araştırmaları",
+      "type": "Concept"
+    },
+    {
+      "name": "Anomali Tespiti",
+      "type": "Concept"
+    },
+    {
+      "name": "Dağılım Dışı Tespiti",
+      "type": "Concept"
+    },
+    {
+      "name": "Otonom Araç",
+      "type": "Technology"
+    },
+    {
+      "name": "Algılama Sistemleri",
+      "type": "Technology"
+    },
+    {
+      "name": "Akademisyenler",
+      "type": "Person"
+    },
+    {
+      "name": "Devlet Kurumları",
+      "type": "Organization"
+    },
+    {
+      "name": "Sürücüsüz Araç Kazası",
+      "type": "Event"
+    },
+    {
+      "name": "Yapay Zekâ Yazılımı",
+      "type": "Technology"
+    },
+    {
+      "name": "2020 Covid-19 Pandemisi",
+      "type": "Event"
+    },
+    {
+      "name": "Araştırmacılar",
+      "type": "Person"
+    },
+    {
+      "name": "Tıbbi Görüntü Sınıflandırıcıları",
+      "type": "Technology"
+    },
+    {
+      "name": "Şeffaflık Araçları",
+      "type": "Technology"
+    },
+    {
+      "name": "Locating And Editing Factual Associations İn Gpt",
+      "type": "Concept"
+    },
+    {
+      "name": "Gpt",
+      "type": "Technology"
+    },
+    {
+      "name": "Eyfel Kulesi",
+      "type": "Concept"
+    },
+    {
+      "name": "Fransa",
+      "type": "Location"
+    },
+    {
+      "name": "Roma",
+      "type": "Location"
+    },
+    {
+      "name": "Model Düzenleme Teknikleri",
+      "type": "Technology"
+    },
+    {
+      "name": "İçsel Yorumlanabilirlik",
+      "type": "Concept"
+    },
+    {
+      "name": "Clip",
+      "type": "Technology"
+    },
+    {
+      "name": "Transformatör Dikkat",
+      "type": "Technology"
+    },
+    {
+      "name": "Sinirbilim",
+      "type": "Field"
+    },
+    {
+      "name": "Trojanlar",
+      "type": "Technology"
+    },
+    {
+      "name": "Arka Kapı",
+      "type": "Technology"
+    },
+    {
+      "name": "Yüz Tanıma Sistemi",
+      "type": "Technology"
+    },
+    {
+      "name": "Görüntü Sınıflandırıcı",
+      "type": "Technology"
+    },
+    {
+      "name": "Sosyoteknik Faktörler",
+      "type": "Concept"
+    },
+    {
+      "name": "Küba Füze Krizi",
+      "type": "Event"
+    },
+    {
+      "name": "Zwetsloot",
+      "type": "Person"
+    },
+    {
+      "name": "Dafoe",
+      "type": "Person"
+    },
+    {
+      "name": "Güvenlik Mühendisliği",
+      "type": "Field"
+    },
+    {
+      "name": "Stamp",
+      "type": "Technology"
+    },
+    {
+      "name": "Kurumsal Güvenlik Kültürü",
+      "type": "Concept"
+    },
+    {
+      "name": "Risk Analizi",
+      "type": "Concept"
+    },
+    {
+      "name": "Sosyoteknik Güvenlik Faktörleri",
+      "type": "Concept"
+    },
+    {
+      "name": "Siber Savunma",
+      "type": "Concept"
+    },
+    {
+      "name": "Kurumsal Karar Verme",
+      "type": "Concept"
+    },
+    {
+      "name": "Yazılım Güvenliği",
+      "type": "Concept"
+    },
+    {
+      "name": "Soğuk Savaş",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Yapay Zekâ Tahmin Ve Danışmanlık Sistemleri",
+      "type": "Technology"
+    },
+    {
+      "name": "Nükleer Savaş",
+      "type": "Event"
+    },
+    {
+      "name": "İklim Değişikliği",
+      "type": "Concept"
+    },
+    {
+      "name": "Tutsak İkilemi",
+      "type": "Concept"
+    },
+    {
+      "name": "Yapay Zekâ Araştırması",
+      "type": "Field"
+    },
+    {
+      "name": "Bender",
+      "type": "Person"
+    },
+    {
+      "name": "Gebru",
+      "type": "Person"
+    },
+    {
+      "name": "Transformatör Modelleri",
+      "type": "Technology"
+    },
+    {
+      "name": "İnternet",
+      "type": "Technology"
+    },
+    {
+      "name": "Dil Modelleri",
+      "type": "Technology"
+    },
+    {
+      "name": "Tesadüfi Papağanlar",
+      "type": "Concept"
+    },
+    {
+      "name": "Deepfake",
+      "type": "Technology"
+    },
+    {
+      "name": "Toplumsal Önyargılar",
+      "type": "Concept"
+    },
+    {
+      "name": "Yapay Zekâ Yönetişimi",
+      "type": "Concept"
+    },
+    {
+      "name": "Yapay Zekâ Güvenlik Yönetişimi",
+      "type": "Concept"
+    },
+    {
+      "name": "Elektrik",
+      "type": "Technology"
+    },
+    {
+      "name": "Buhar Makinesi",
+      "type": "Technology"
+    },
+    {
+      "name": "Askell, Amanda",
+      "type": "Person"
+    },
+    {
+      "name": "Brundage, Miles",
+      "type": "Person"
+    },
+    {
+      "name": "Hadfield, Gillian",
+      "type": "Person"
+    },
+    {
+      "name": "10 Temmuz 2019",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "The Role Of Cooperation İn Responsible Ai Development",
+      "type": "Concept"
+    },
+    {
+      "name": "Arxiv:1907.04534",
+      "type": "Concept"
+    },
+    {
+      "name": "Allan Dafoe",
+      "type": "Person"
+    },
+    {
+      "name": "Yerel Yapay Zekâ Güvenlik Önlemleri",
+      "type": "Concept"
+    },
+    {
+      "name": "Küresel Çözümler",
+      "type": "Concept"
+    },
+    {
+      "name": "Uluslararası Yönetişim",
+      "type": "Concept"
+    },
+    {
+      "name": "Mart 2021",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Abd Yapay Zekâ Ulusal Güvenlik Komisyonu",
+      "type": "Organization"
+    },
+    {
+      "name": "Ulusal Standartlar Ve Teknoloji Enstitüsü",
+      "type": "Organization"
+    },
+    {
+      "name": "Eylül 2021",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Çin Halk Cumhuriyeti",
+      "type": "Organization"
+    },
+    {
+      "name": "Ulusal Yapay Zekâ Stratejisi",
+      "type": "Concept"
+    },
+    {
+      "name": "İngiliz Hükûmeti",
+      "type": "Organization"
+    },
+    {
+      "name": "Yapay Zekâ Güvenliği Zirvesi",
+      "type": "Event"
+    },
+    {
+      "name": "1 Ve 2 Kasım 2023",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "İstihbarat İleri Araştırma Projeleri Faaliyeti",
+      "type": "Organization"
+    },
+    {
+      "name": "Trojai",
+      "type": "Technology"
+    },
+    {
+      "name": "Darpa",
+      "type": "Organization"
+    },
+    {
+      "name": "Ulusal Bilim Vakfı",
+      "type": "Organization"
+    },
+    {
+      "name": "Güvenilir Makine Öğrenimi Merkezi",
+      "type": "Organization"
+    },
+    {
+      "name": "Makine Öğrenimi Merkezi",
+      "type": "Organization"
+    },
+    {
+      "name": "Cohere",
+      "type": "Organization"
+    },
+    {
+      "name": "Ai21",
+      "type": "Organization"
+    },
+    {
+      "name": "Demis Hassabis",
+      "type": "Person"
+    },
+    {
+      "name": "Asilomar İlkeleri",
+      "type": "Concept"
+    },
+    {
+      "name": "Otonom Silahlar Açık Mektubu",
+      "type": "Concept"
+    },
+    {
+      "name": "Açık Kaynaklı Yapay Zeka",
+      "type": "Technology"
+    },
+    {
+      "name": "Makine Çeviri Araçları",
+      "type": "Technology"
+    },
+    {
+      "name": "Meta Ai",
+      "type": "Organization"
+    },
+    {
+      "name": "Şubat 2023",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Meta",
+      "type": "Organization"
+    },
+    {
+      "name": "Açık Kaynak Girişimi",
+      "type": "Organization"
+    },
+    {
+      "name": "Llama 3",
+      "type": "Technology"
+    },
+    {
+      "name": "Nisan 2024",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Avrupa Komisyonu",
+      "type": "Organization"
+    },
+    {
+      "name": "21 Nisan 2021",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "13 Mart 2024",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "21 Mayıs 2024",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Avrupa Birliği Konseyi",
+      "type": "Organization"
+    },
+    {
+      "name": "Avrupa Yapay Zekâ Kurulu",
+      "type": "Organization"
+    },
+    {
+      "name": "Genel Veri Koruma Yönetmeliği",
+      "type": "Concept"
+    },
+    {
+      "name": "Ab",
+      "type": "Organization"
+    },
+    {
+      "name": "Kanun",
+      "type": "Concept"
+    },
+    {
+      "name": "Kabul Edilemez Risk",
+      "type": "Concept"
+    },
+    {
+      "name": "Yüksek Risk",
+      "type": "Concept"
+    },
+    {
+      "name": "Sınırlı Risk",
+      "type": "Concept"
+    },
+    {
+      "name": "Minimum Risk",
+      "type": "Concept"
+    },
+    {
+      "name": "Genel Amaçlı Yapay Zekâ",
+      "type": "Technology"
+    },
+    {
+      "name": "Şubat 2020",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Yapay Zekâ Üzerine Beyaz Kitap - Mükemmellik Ve Güvene Avrupa Yaklaşımı",
+      "type": "Concept"
+    },
+    {
+      "name": "Ekim 2020",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Avrupa Devlet Ve Hükûmet Başkanları Konseyi",
+      "type": "Organization"
+    },
+    {
+      "name": "6 Aralık 2022",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Avrupa Konseyi",
+      "type": "Organization"
+    },
+    {
+      "name": "9 Aralık 2023",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Ab Konseyi",
+      "type": "Organization"
+    },
+    {
+      "name": "Resmî Gazete",
+      "type": "Organization"
+    },
+    {
+      "name": "Nöro-sembolik Yapay Zekâ",
+      "type": "Technology"
+    },
+    {
+      "name": "Açıklanabilir Yapay Zekâ",
+      "type": "Field"
+    },
+    {
+      "name": "Az Veriyle Öğrenme",
+      "type": "Field"
+    },
+    {
+      "name": "Nedensel Çıkarım",
+      "type": "Concept"
+    },
+    {
+      "name": "Nöro-sembolik Sistemler",
+      "type": "Technology"
+    },
+    {
+      "name": "1950'li Yıllar",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "İstatistiksel Öğrenme",
+      "type": "Field"
+    },
+    {
+      "name": "Artur D'avila Garcez",
+      "type": "Person"
+    },
+    {
+      "name": "Lamb",
+      "type": "Person"
+    },
+    {
+      "name": "Gary Marcus",
+      "type": "Person"
+    },
+    {
+      "name": "Neurosymbolic Ai: The 3rd Wave",
+      "type": "Concept"
+    },
+    {
+      "name": "Genelleme Becerisi",
+      "type": "Concept"
+    },
+    {
+      "name": "Neuro-symbolic Concept Learner",
+      "type": "Technology"
+    },
+    {
+      "name": "Ibm Research",
+      "type": "Organization"
+    },
+    {
+      "name": "Logic Tensor Networks",
+      "type": "Technology"
+    },
+    {
+      "name": "Deepproblog",
+      "type": "Technology"
+    },
+    {
+      "name": "Greedy Neural Theorem Prover",
+      "type": "Technology"
+    },
+    {
+      "name": "Tensor Product Representations",
+      "type": "Technology"
+    },
+    {
+      "name": "Henry Kautz",
+      "type": "Person"
+    },
+    {
+      "name": "Bert",
+      "type": "Technology"
+    },
+    {
+      "name": "Roberta",
+      "type": "Technology"
+    },
+    {
+      "name": "Sembolik → Nöral",
+      "type": "Concept"
+    },
+    {
+      "name": "Sembolik[nöral]",
+      "type": "Concept"
+    },
+    {
+      "name": "Nöral | Sembolik",
+      "type": "Concept"
+    },
+    {
+      "name": "Monte Carlo Ağaç Araması",
+      "type": "Technology"
+    },
+    {
+      "name": "Neural Concept Learner",
+      "type": "Technology"
+    },
+    {
+      "name": "Macsyma",
+      "type": "Technology"
+    },
+    {
+      "name": "Neural Theorem Prover",
+      "type": "Technology"
+    },
+    {
+      "name": "Wolfram Alpha",
+      "type": "Technology"
+    },
+    {
+      "name": "Bader",
+      "type": "Person"
+    },
+    {
+      "name": "Hitzler",
+      "type": "Person"
+    },
+    {
+      "name": "Kautz",
+      "type": "Person"
+    },
+    {
+      "name": "Sepp Hochreiter",
+      "type": "Person"
+    },
+    {
+      "name": "Graph Neural Networks",
+      "type": "Technology"
+    },
+    {
+      "name": "Nöro-sembolik Hesaplama",
+      "type": "Concept"
+    },
+    {
+      "name": "Sembolik Sistemler",
+      "type": "Technology"
+    },
+    {
+      "name": "Nörel Ağlar",
+      "type": "Technology"
+    },
+    {
+      "name": "Sinir Ağı",
+      "type": "Technology"
+    },
+    {
+      "name": "Birleştirme Mimarisi",
+      "type": "Concept"
+    },
+    {
+      "name": "Mantıksal İfade Gücü",
+      "type": "Concept"
+    },
+    {
+      "name": "Önerme Mantığı",
+      "type": "Concept"
+    },
+    {
+      "name": "Birinci Dereceden Mantık",
+      "type": "Concept"
+    },
+    {
+      "name": "Veri Ve Bilgi Uyuşmazlığı",
+      "type": "Concept"
+    },
+    {
+      "name": "Nörel Sistemler",
+      "type": "Technology"
+    },
+    {
+      "name": "Performans Ve Hesaplama Gücü",
+      "type": "Concept"
+    },
+    {
+      "name": "Daniel Kahneman",
+      "type": "Person"
+    },
+    {
+      "name": "Sistem 1 Ve Sistem 2",
+      "type": "Concept"
+    },
+    {
+      "name": "Kavramsal Öğrenme",
+      "type": "Concept"
+    },
+    {
+      "name": "Sembol Türetimi",
+      "type": "Concept"
+    },
+    {
+      "name": "Bilgi Tabanlı Aktarımlı Öğrenme",
+      "type": "Concept"
+    },
+    {
+      "name": "Karşıolgusal Sorgulama",
+      "type": "Concept"
+    },
+    {
+      "name": "Mantık Programlama",
+      "type": "Technology"
+    },
+    {
+      "name": "Bilgi Çıkarımı",
+      "type": "Concept"
+    },
+    {
+      "name": "Ontoloji",
+      "type": "Concept"
+    },
+    {
+      "name": "Olasılıksal Mantık Sistemleri",
+      "type": "Technology"
+    },
+    {
+      "name": "Arxiv",
+      "type": "Organization"
+    },
+    {
+      "name": "Google Scholar",
+      "type": "Organization"
+    },
+    {
+      "name": "Semantic Scholar",
+      "type": "Organization"
+    },
+    {
+      "name": "Aaai",
+      "type": "Organization"
+    },
+    {
+      "name": "Openreview.net",
+      "type": "Organization"
+    },
+    {
+      "name": "2020-02-13",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "The Next Decade İn Ai: Four Steps Toward Robust Artificial Intelligence",
+      "type": "Concept"
+    },
+    {
+      "name": "Luís C. Lamb",
+      "type": "Person"
+    },
+    {
+      "name": "2020-12-10",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Üçüncü Ai Yaz",
+      "type": "Concept"
+    },
+    {
+      "name": "Aaai 2020 Robert S. Engelmore Anıt Ödülü Dersi",
+      "type": "Event"
+    },
+    {
+      "name": "2020-02-11",
+      "type": "TimePeriod"
+    },
+    {
+      "name": "Yapay Zeka Uygulamaları",
+      "type": "Concept"
+    },
+    {
+      "name": "Biyoenformatik",
+      "type": "Field"
+    },
+    {
+      "name": "Yer Bilimleri",
+      "type": "Field"
+    },
+    {
+      "name": "Yapay Zekâ Sanatı",
+      "type": "Concept"
+    },
+    {
+      "name": "Üretken Ses",
+      "type": "Technology"
+    },
+    {
+      "name": "Müzik",
+      "type": "Field"
+    },
+    {
+      "name": "Hükûmet",
+      "type": "Organization"
+    },
+    {
+      "name": "Ruh Sağlığı",
+      "type": "Field"
+    },
+    {
+      "name": "Sanayi",
+      "type": "Field"
+    },
+    {
+      "name": "Yapay Zekâ Silahlanma Yarışı",
+      "type": "Event"
+    },
+    {
+      "name": "Fizik",
+      "type": "Field"
+    },
+    {
+      "name": "Yapay Zekâ Soğuk Savaşı",
+      "type": "Event"
+    },
+    {
+      "name": "Yapay Zekâ Tarihi",
+      "type": "Field"
+    },
+    {
+      "name": "Nöralsymbolic",
+      "type": "Concept"
+    },
+    {
+      "name": "Nöro-sembolik Yapay Zekânın",
+      "type": "Concept"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Yapay Zekâ",
+      "target": "Dördüncü Sanayi Devrimi",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_8922d2f3"
+      ]
+    },
+    {
+      "source": "Yapay Genel Zekâ",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7f8c5009",
+        "chunk_8922d2f3"
+      ]
+    },
+    {
+      "source": "Yapay Biyolojik Zekâ",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_8922d2f3"
+      ]
+    },
+    {
+      "source": "Optik Karakter Tanıma",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a4f12540"
+      ]
+    },
+    {
+      "source": "Satranç",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a4f12540"
+      ]
+    },
+    {
+      "source": "Go",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a4f12540"
+      ]
+    },
+    {
+      "source": "Poker",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a4f12540"
+      ]
+    },
+    {
+      "source": "Otonom Arabalar",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a4f12540"
+      ]
+    },
+    {
+      "source": "Isaac Asimov",
+      "target": "Karel Čapek",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_4d205b2f"
+      ]
+    },
+    {
+      "source": "Karel Čapek",
+      "target": "R.u.r.",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_4d205b2f"
+      ]
+    },
+    {
+      "source": "R.u.r.",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_4d205b2f"
+      ]
+    },
+    {
+      "source": "1920",
+      "target": "R.u.r.",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_4d205b2f"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ",
+      "target": "Bilgisayar Bilimi",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_cea6e8fc"
+      ]
+    },
+    {
+      "source": "Eyleyici Yapay Zekâ",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_14395b33"
+      ]
+    },
+    {
+      "source": "Akıl Yürütme Ve Problem Çözme",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_14395b33"
+      ]
+    },
+    {
+      "source": "Bilgi Mühendisliği",
+      "target": "Bilgi Temsili",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_3cb0d0cd"
+      ]
+    },
+    {
+      "source": "Bilgi Temsili",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_3cb0d0cd"
+      ]
+    },
+    {
+      "source": "Bilgi Mühendisliği",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_3cb0d0cd"
+      ]
+    },
+    {
+      "source": "Bilgi Temsili",
+      "target": "İçerik Tabanlı İndeksleme",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_3cb0d0cd"
+      ]
+    },
+    {
+      "source": "Bilgi Temsili",
+      "target": "Bilgi Erişimi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_3cb0d0cd"
+      ]
+    },
+    {
+      "source": "Bilgi Temsili",
+      "target": "Sahne Yorumlama",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_3cb0d0cd"
+      ]
+    },
+    {
+      "source": "Bilgi Temsili",
+      "target": "Klinik Karar Destek Sistemleri",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_3cb0d0cd"
+      ]
+    },
+    {
+      "source": "Bilgi Temsili",
+      "target": "Bilgi Keşfi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_3cb0d0cd"
+      ]
+    },
+    {
+      "source": "Alan Turing",
+      "target": "Algoritmalar Teorisi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_9abc60ba"
+      ]
+    },
+    {
+      "source": "Warren Mccullouch",
+      "target": "1943",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_9abc60ba"
+      ]
+    },
+    {
+      "source": "Walter Pitts",
+      "target": "1943",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_9abc60ba"
+      ]
+    },
+    {
+      "source": "Alan Turing",
+      "target": "1950",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_9abc60ba"
+      ]
+    },
+    {
+      "source": "Alan Turing",
+      "target": "Bilgi İşlem Makineleri Ve Zekâ",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_9abc60ba"
+      ]
+    },
+    {
+      "source": "Bilgi İşlem Makineleri Ve Zekâ",
+      "target": "Turing Testi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_9abc60ba"
+      ]
+    },
+    {
+      "source": "1956'daki Dartmouth College Atölye Çalışması",
+      "target": "Dartmouth College",
+      "type": "HELD_IN",
+      "chunk_ids": [
+        "chunk_b105f6ee"
+      ]
+    },
+    {
+      "source": "1956'daki Dartmouth College Atölye Çalışması",
+      "target": "1956",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_b105f6ee"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ",
+      "target": "1956'daki Dartmouth College Atölye Çalışması",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_b105f6ee"
+      ]
+    },
+    {
+      "source": "Herbert Simon",
+      "target": "Yapay Zekâ",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_de1e1bd7"
+      ]
+    },
+    {
+      "source": "Marvin Minsky",
+      "target": "Yapay Zekâ",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_de1e1bd7"
+      ]
+    },
+    {
+      "source": "Seymour Papert",
+      "target": "Perceptrons",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_e43bc223",
+        "chunk_de1e1bd7"
+      ]
+    },
+    {
+      "source": "Marvin Minsky",
+      "target": "Perceptrons",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_e43bc223",
+        "chunk_de1e1bd7"
+      ]
+    },
+    {
+      "source": "Perceptrons",
+      "target": "Yapay Sinir Ağları",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_de1e1bd7"
+      ]
+    },
+    {
+      "source": "Uzman Sistemler",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_1e381077",
+        "chunk_06111646",
+        "chunk_1e394905"
+      ]
+    },
+    {
+      "source": "Japonya",
+      "target": "Beşinci Nesil Bilgisayar Projesi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_1e394905"
+      ]
+    },
+    {
+      "source": "Beşinci Nesil Bilgisayar Projesi",
+      "target": "Abd",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_1e394905"
+      ]
+    },
+    {
+      "source": "Beşinci Nesil Bilgisayar Projesi",
+      "target": "Britanya",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_1e394905"
+      ]
+    },
+    {
+      "source": "1987",
+      "target": "İkinci Yapay Zekâ Kışı",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_1e394905"
+      ]
+    },
+    {
+      "source": "1987",
+      "target": "Yapay Zekâ Kışı",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_1a18d975"
+      ]
+    },
+    {
+      "source": "Yann Lecun",
+      "target": "Evrişimli Sinir Ağları",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_1a18d975"
+      ]
+    },
+    {
+      "source": "Evrişimli Sinir Ağları",
+      "target": "Sinir Ağları",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_1a18d975"
+      ]
+    },
+    {
+      "source": "Ecun",
+      "target": "Evrişimli Sinir Ağları",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7c59c0e5"
+      ]
+    },
+    {
+      "source": "Agi",
+      "target": "Yapay Genel Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_aed8d673"
+      ]
+    },
+    {
+      "source": "Yapay Genel Zekâ",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_aed8d673"
+      ]
+    },
+    {
+      "source": "Derin Öğrenme",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_aed8d673",
+        "chunk_0a5dc1b4"
+      ]
+    },
+    {
+      "source": "Makine Öğrenimi",
+      "target": "2015-2019",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_0a5dc1b4"
+      ]
+    },
+    {
+      "source": "Uyum Problemi",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7ff9a10e"
+      ]
+    },
+    {
+      "source": "Alphago",
+      "target": "Deepmind",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_a83c6933"
+      ]
+    },
+    {
+      "source": "Gpt-3",
+      "target": "Openai",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_a83c6933",
+        "chunk_b4947bec"
+      ]
+    },
+    {
+      "source": "Chatgpt",
+      "target": "30 Kasım 2022",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_a83c6933"
+      ]
+    },
+    {
+      "source": "Mcculloch",
+      "target": "Yapay Sinir Hücreleri Hesaplama Modeli",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_ee5195ea"
+      ]
+    },
+    {
+      "source": "Pitts",
+      "target": "Yapay Sinir Hücreleri Hesaplama Modeli",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_ee5195ea"
+      ]
+    },
+    {
+      "source": "Yapay Sinir Hücreleri Hesaplama Modeli",
+      "target": "Önermeler Mantığı",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_ee5195ea"
+      ]
+    },
+    {
+      "source": "Yapay Sinir Hücreleri Hesaplama Modeli",
+      "target": "Fizyoloji",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_ee5195ea"
+      ]
+    },
+    {
+      "source": "Yapay Sinir Hücreleri Hesaplama Modeli",
+      "target": "Hesaplama Kuramı",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_ee5195ea"
+      ]
+    },
+    {
+      "source": "Alan Turing",
+      "target": "Hesaplama Kuramı",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_ee5195ea"
+      ]
+    },
+    {
+      "source": "Hebb",
+      "target": "Yapay Sinir Ağları",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_ee5195ea"
+      ]
+    },
+    {
+      "source": "Snarc",
+      "target": "Mit",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_da3ee559"
+      ]
+    },
+    {
+      "source": "Snarc",
+      "target": "Minsky",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_da3ee559"
+      ]
+    },
+    {
+      "source": "Snarc",
+      "target": "Edmonds",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_da3ee559"
+      ]
+    },
+    {
+      "source": "Snarc",
+      "target": "1951",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_da3ee559"
+      ]
+    },
+    {
+      "source": "Mc Carthy",
+      "target": "Princeton Üniversitesi",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_da3ee559"
+      ]
+    },
+    {
+      "source": "Dartmouth Konferansı",
+      "target": "1956",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_da3ee559"
+      ]
+    },
+    {
+      "source": "Dartmouth Konferansı",
+      "target": "Dartmouth",
+      "type": "HELD_IN",
+      "chunk_ids": [
+        "chunk_da3ee559"
+      ]
+    },
+    {
+      "source": "Dartmouth Konferansı",
+      "target": "Mc Carthy",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_da3ee559"
+      ]
+    },
+    {
+      "source": "Dartmouth Konferansı",
+      "target": "Minsky",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_da3ee559"
+      ]
+    },
+    {
+      "source": "Dartmouth Konferansı",
+      "target": "Shannon",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_da3ee559"
+      ]
+    },
+    {
+      "source": "Dartmouth Konferansı",
+      "target": "Rochester",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_da3ee559"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ",
+      "target": "Mc Carthy",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_da3ee559"
+      ]
+    },
+    {
+      "source": "Logic Theorist",
+      "target": "Newell",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_da3ee559"
+      ]
+    },
+    {
+      "source": "Logic Theorist",
+      "target": "Simon",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_da3ee559"
+      ]
+    },
+    {
+      "source": "Logic Theorist",
+      "target": "Newell",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_e22a31c7"
+      ]
+    },
+    {
+      "source": "Logic Theorist",
+      "target": "Simon",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_e22a31c7"
+      ]
+    },
+    {
+      "source": "Genel Sorun Çözücü",
+      "target": "Newell",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_e22a31c7"
+      ]
+    },
+    {
+      "source": "Genel Sorun Çözücü",
+      "target": "Simon",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_e22a31c7"
+      ]
+    },
+    {
+      "source": "Fiziksel Simge Varsayımı",
+      "target": "Simon",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_e22a31c7"
+      ]
+    },
+    {
+      "source": "Sembolik Yapay Zekâ",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_e22a31c7",
+        "chunk_7833a6d4",
+        "chunk_f44d4152"
+      ]
+    },
+    {
+      "source": "Sibernetik Yapay Zekâ",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_e22a31c7",
+        "chunk_7833a6d4"
+      ]
+    },
+    {
+      "source": "Simon",
+      "target": "Sembolik Yapay Zekâ",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_7833a6d4"
+      ]
+    },
+    {
+      "source": "Eliza",
+      "target": "Weizenbaum",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_851f474b"
+      ]
+    },
+    {
+      "source": "Yapay Sinir Ağları",
+      "target": "Sibernetik",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_e43bc223"
+      ]
+    },
+    {
+      "source": "Dec",
+      "target": "R1",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_f00e939a"
+      ]
+    },
+    {
+      "source": "Doğal Dil İşleme",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_f00e939a",
+        "chunk_b8040b29",
+        "chunk_f44d4152"
+      ]
+    },
+    {
+      "source": "A.i.m.l",
+      "target": "Sembolik Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_f44d4152"
+      ]
+    },
+    {
+      "source": "T.y.i̇.d",
+      "target": "Sembolik Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_f44d4152"
+      ]
+    },
+    {
+      "source": "Uzman Sistemler",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_e7ed572b"
+      ]
+    },
+    {
+      "source": "Diyalog Bazlı Yapay Zeka",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_e7ed572b"
+      ]
+    },
+    {
+      "source": "Doğal Dil İşleme",
+      "target": "Diyalog Bazlı Yapay Zeka",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_46c64d6b"
+      ]
+    },
+    {
+      "source": "Makine Öğrenmesi",
+      "target": "Diyalog Bazlı Yapay Zeka",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_46c64d6b"
+      ]
+    },
+    {
+      "source": "Diyalog Bazlı Arayüzler",
+      "target": "Diyalog Bazlı Yapay Zeka",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_46c64d6b"
+      ]
+    },
+    {
+      "source": "Chatbotlar",
+      "target": "Diyalog Bazlı Yapay Zeka",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_46c64d6b"
+      ]
+    },
+    {
+      "source": "Sesli Asistanlar",
+      "target": "Diyalog Bazlı Yapay Zeka",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_46c64d6b"
+      ]
+    },
+    {
+      "source": "Chatbotlar",
+      "target": "Diyalog Bazlı Yapay Zeka",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_8d2f70f1"
+      ]
+    },
+    {
+      "source": "Sesli Asistanlar",
+      "target": "Diyalog Bazlı Yapay Zeka",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_8d2f70f1"
+      ]
+    },
+    {
+      "source": "Chatbotlar",
+      "target": "Sohbet Robotları",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_8d2f70f1"
+      ]
+    },
+    {
+      "source": "Chatbotlar",
+      "target": "Whatsapp",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8d2f70f1",
+        "chunk_b8040b29"
+      ]
+    },
+    {
+      "source": "Chatbotlar",
+      "target": "Facebook Messenger",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8d2f70f1",
+        "chunk_b8040b29"
+      ]
+    },
+    {
+      "source": "Chatbotlar",
+      "target": "Google Assistant",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8d2f70f1",
+        "chunk_b8040b29"
+      ]
+    },
+    {
+      "source": "Chatbotlar",
+      "target": "Siri",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8d2f70f1",
+        "chunk_b8040b29"
+      ]
+    },
+    {
+      "source": "Reaktif Chatbot",
+      "target": "Chatbotlar",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_b8040b29"
+      ]
+    },
+    {
+      "source": "Proaktif Chatbot",
+      "target": "Chatbotlar",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_b8040b29"
+      ]
+    },
+    {
+      "source": "Kural Tabanlı Chatbot",
+      "target": "Chatbotlar",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_b8040b29"
+      ]
+    },
+    {
+      "source": "Yapay Zeka Tabanlı Chatbot",
+      "target": "Chatbotlar",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_b8040b29"
+      ]
+    },
+    {
+      "source": "Yapay Zeka Tabanlı Chatbot",
+      "target": "Doğal Dil İşleme",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_b8040b29"
+      ]
+    },
+    {
+      "source": "Yapay Zeka Tabanlı Chatbot",
+      "target": "Makine Öğrenmesi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_b8040b29"
+      ]
+    },
+    {
+      "source": "Makine Öğrenmesi",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_b8040b29"
+      ]
+    },
+    {
+      "source": "Süper Zekâ",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_bb3ed9de"
+      ]
+    },
+    {
+      "source": "Zekâ Patlaması",
+      "target": "I. J. Good",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_bb3ed9de"
+      ]
+    },
+    {
+      "source": "Tekillik",
+      "target": "Vernor Vinge",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_bb3ed9de"
+      ]
+    },
+    {
+      "source": "Aldous Huxley",
+      "target": "Transhümanizm",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_82120228"
+      ]
+    },
+    {
+      "source": "Robert Ettinger",
+      "target": "Transhümanizm",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_82120228"
+      ]
+    },
+    {
+      "source": "Samuel Butler",
+      "target": "Darwin Among The Machines",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_82120228"
+      ]
+    },
+    {
+      "source": "George Dyson",
+      "target": "Darwin Among The Machines: The Evolution Of Global Intelligence",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_82120228"
+      ]
+    },
+    {
+      "source": "Önerici Sistemler",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_ce482fcd"
+      ]
+    },
+    {
+      "source": "Makine Çevirisi",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_ce482fcd",
+        "chunk_998d768e"
+      ]
+    },
+    {
+      "source": "Google Translate",
+      "target": "Makine Çevirisi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_ce482fcd"
+      ]
+    },
+    {
+      "source": "Microsoft Tercüman",
+      "target": "Makine Çevirisi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_ce482fcd"
+      ]
+    },
+    {
+      "source": "Yandex.çeviri",
+      "target": "Makine Çevirisi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_ce482fcd"
+      ]
+    },
+    {
+      "source": "Sinyal İşleme",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_ce482fcd"
+      ]
+    },
+    {
+      "source": "Prosedürel İçerik Üretimi",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_ce482fcd"
+      ]
+    },
+    {
+      "source": "Regresyon Analizi",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_ce482fcd"
+      ]
+    },
+    {
+      "source": "Görüntü İşleme",
+      "target": "Hough Dönüşümü",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_cea1ec5f"
+      ]
+    },
+    {
+      "source": "Görüntü İşleme",
+      "target": "Tıp",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_cea1ec5f"
+      ]
+    },
+    {
+      "source": "Görüntü İşleme",
+      "target": "Biyoloji",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_cea1ec5f"
+      ]
+    },
+    {
+      "source": "Görüntü İşleme",
+      "target": "Otomotiv",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_cea1ec5f"
+      ]
+    },
+    {
+      "source": "Görüntü İşleme",
+      "target": "Üretim",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_cea1ec5f"
+      ]
+    },
+    {
+      "source": "The Guardian",
+      "target": "8 Eylül 2020",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_cea1ec5f"
+      ]
+    },
+    {
+      "source": "Şalom",
+      "target": "2018",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_cea1ec5f"
+      ]
+    },
+    {
+      "source": "Güçlü Yapay Zekâ",
+      "target": "Yapay Genel Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_6b41edfd"
+      ]
+    },
+    {
+      "source": "Zayıf Yapay Zekâ",
+      "target": "Uygulamalı Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_6b41edfd"
+      ]
+    },
+    {
+      "source": "Turing Testi",
+      "target": "Yapay Genel Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a1f964f6"
+      ]
+    },
+    {
+      "source": "Makine Öğrenimi",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_922b9aa6",
+        "chunk_a1f964f6"
+      ]
+    },
+    {
+      "source": "Turing Testi",
+      "target": "Turing",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_af8d2833"
+      ]
+    },
+    {
+      "source": "Turing Testi",
+      "target": "Yapay Genel Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_af8d2833"
+      ]
+    },
+    {
+      "source": "Turing Testi",
+      "target": "Turing",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_d974dc1c"
+      ]
+    },
+    {
+      "source": "Kahve Testi",
+      "target": "Wozniak",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_d974dc1c"
+      ]
+    },
+    {
+      "source": "Robot Kolej Öğrencisi Testi",
+      "target": "Goertzel",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_d974dc1c"
+      ]
+    },
+    {
+      "source": "Görevlendirilme Testi",
+      "target": "Nilsson",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_d974dc1c"
+      ]
+    },
+    {
+      "source": "Nilsson",
+      "target": "Görevlendirilme Testi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_3b63b39f"
+      ]
+    },
+    {
+      "source": "Tony Severyns",
+      "target": "Düz Paket Mobilya Testi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_3b63b39f"
+      ]
+    },
+    {
+      "source": "Ygz",
+      "target": "Yapay Genel Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_3b63b39f"
+      ]
+    },
+    {
+      "source": "Elon Musk",
+      "target": "Ygz",
+      "type": "DEFENDS",
+      "chunk_ids": [
+        "chunk_99d80462"
+      ]
+    },
+    {
+      "source": "Bill Gates",
+      "target": "Ygz",
+      "type": "DEFENDS",
+      "chunk_ids": [
+        "chunk_99d80462"
+      ]
+    },
+    {
+      "source": "Stephen Hawking",
+      "target": "Ygz",
+      "type": "DEFENDS",
+      "chunk_ids": [
+        "chunk_99d80462"
+      ]
+    },
+    {
+      "source": "Stuart J. Russell",
+      "target": "Yapay Zekâ",
+      "type": "RESEARCHED_BY",
+      "chunk_ids": [
+        "chunk_99d80462"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Etiği",
+      "target": "Teknoloji Etiği",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_100d3b63"
+      ]
+    },
+    {
+      "source": "Roboetik",
+      "target": "Yapay Zekâ Etiği",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_100d3b63"
+      ]
+    },
+    {
+      "source": "Makine Etiği",
+      "target": "Yapay Zekâ Etiği",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_100d3b63"
+      ]
+    },
+    {
+      "source": "Hesap Verilebilirlik",
+      "target": "Yapay Zekâ Etiği",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_36989ab3"
+      ]
+    },
+    {
+      "source": "Açıklanabilirlik",
+      "target": "Yapay Zekâ Etiği",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_36989ab3"
+      ]
+    },
+    {
+      "source": "İnsan Denetimi",
+      "target": "Yapay Zekâ Etiği",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_36989ab3"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Yasası",
+      "target": "Avrupa Birliği",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_36989ab3"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Yasası",
+      "target": "Avrupa Parlamentosu",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_36989ab3"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Yasası",
+      "target": "Konsey",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_36989ab3"
+      ]
+    },
+    {
+      "source": "Sembolik Yz",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_54ffbaa9"
+      ]
+    },
+    {
+      "source": "John Haugeland",
+      "target": "Yapay Zekâ Kitabı: The Very Idea",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_54ffbaa9"
+      ]
+    },
+    {
+      "source": "Allen Newell",
+      "target": "Fiziksel Simge Sistemleri Hipotezi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_54ffbaa9"
+      ]
+    },
+    {
+      "source": "Herbert A. Simon",
+      "target": "Fiziksel Simge Sistemleri Hipotezi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_54ffbaa9"
+      ]
+    },
+    {
+      "source": "Uzman Sistemler",
+      "target": "Sembolik Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7e426848"
+      ]
+    },
+    {
+      "source": "Uzman Sistemler",
+      "target": "Üretim Kuralları",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_7e426848"
+      ]
+    },
+    {
+      "source": "Rodney Brooks",
+      "target": "Sembolik Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7e426848"
+      ]
+    },
+    {
+      "source": "Sinir Ağları",
+      "target": "Hesaplamalı Zeka",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7e426848"
+      ]
+    },
+    {
+      "source": "Makine Öğrenimi",
+      "target": "Hesaplamalı Zeka",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7e426848"
+      ]
+    },
+    {
+      "source": "Hesaplamalı Zeka",
+      "target": "Sinir Ağları",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8805ea4b"
+      ]
+    },
+    {
+      "source": "Hesaplamalı Zeka",
+      "target": "Optimizasyon",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8805ea4b"
+      ]
+    },
+    {
+      "source": "Genel Yapay Zekâ",
+      "target": "Sembolik Yz",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_8805ea4b"
+      ]
+    },
+    {
+      "source": "Sembolik Yz",
+      "target": "Mikro Dünya",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_316e7d1c"
+      ]
+    },
+    {
+      "source": "Üretim Sistemi",
+      "target": "Mikro Dünya",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_316e7d1c"
+      ]
+    },
+    {
+      "source": "Hubert Dreyfus",
+      "target": "Sembolik Yapay Zekâ",
+      "type": "REJECTED",
+      "chunk_ids": [
+        "chunk_df5ee1c5"
+      ]
+    },
+    {
+      "source": "Lighthill Report",
+      "target": "Yz Kışı",
+      "type": "STARTED",
+      "chunk_ids": [
+        "chunk_df5ee1c5"
+      ]
+    },
+    {
+      "source": "Pamela Mccorduck",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_c6764e06"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Etkisi",
+      "target": "Ai",
+      "type": "RELATED_TO",
+      "chunk_ids": [
+        "chunk_c6764e06"
+      ]
+    },
+    {
+      "source": "Deep Blue",
+      "target": "Ibm",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_6756fa62"
+      ]
+    },
+    {
+      "source": "Deep Blue",
+      "target": "1997",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_6756fa62"
+      ]
+    },
+    {
+      "source": "Deep Blue",
+      "target": "Garry Kasparov",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_6756fa62"
+      ]
+    },
+    {
+      "source": "Douglas Hofstadter",
+      "target": "Larry Tesler Teoremi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_6756fa62"
+      ]
+    },
+    {
+      "source": "Michael Swaine",
+      "target": "Ai",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_b2546da8"
+      ]
+    },
+    {
+      "source": "Patrick Winston",
+      "target": "Ai",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_b2546da8"
+      ]
+    },
+    {
+      "source": "Ai Etkisi",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_de127d25"
+      ]
+    },
+    {
+      "source": "Nick Bostrom",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_fd6492d3"
+      ]
+    },
+    {
+      "source": "Ai Kışı",
+      "target": "1990'lar",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_fd6492d3"
+      ]
+    },
+    {
+      "source": "Michael Kearns",
+      "target": "Yapay Zekâ Etkisi",
+      "type": "DEFENDED_BY",
+      "chunk_ids": [
+        "chunk_e16e091d"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Etkisi",
+      "target": "Yapay Zekâ",
+      "type": "RELATED_TO",
+      "chunk_ids": [
+        "chunk_e16e091d"
+      ]
+    },
+    {
+      "source": "Yapay Zeka Felsefesi",
+      "target": "Teknoloji Felsefesi",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_3703b052"
+      ]
+    },
+    {
+      "source": "Yapay Zeka Felsefesi",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_3703b052"
+      ]
+    },
+    {
+      "source": "Yapay Zeka Felsefesi",
+      "target": "Etik",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_3703b052"
+      ]
+    },
+    {
+      "source": "Yapay Zeka Felsefesi",
+      "target": "Bilinç",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_3703b052"
+      ]
+    },
+    {
+      "source": "Yapay Zeka Felsefesi",
+      "target": "Epistemoloji",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_3703b052"
+      ]
+    },
+    {
+      "source": "Yapay Zeka Felsefesi",
+      "target": "Özgür İrade",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_3703b052"
+      ]
+    },
+    {
+      "source": "Allen Newell",
+      "target": "Fiziksel Sembol Sistemi Hipotezi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_20258117"
+      ]
+    },
+    {
+      "source": "Herbert A. Simon",
+      "target": "Fiziksel Sembol Sistemi Hipotezi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_20258117",
+        "chunk_61a1e8d7"
+      ]
+    },
+    {
+      "source": "John Searle",
+      "target": "Güçlü Ai Hipotezi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_61a1e8d7"
+      ]
+    },
+    {
+      "source": "Ai Araştırmacıları",
+      "target": "1956 Dartmouth Konferansı",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_11b9ad2b"
+      ]
+    },
+    {
+      "source": "1956 Dartmouth Konferansı",
+      "target": "Yapay Zekâ",
+      "type": "RELATED_TO",
+      "chunk_ids": [
+        "chunk_11b9ad2b"
+      ]
+    },
+    {
+      "source": "Alan Turing",
+      "target": "Turing Testi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_da28828f"
+      ]
+    },
+    {
+      "source": "Turing",
+      "target": "Turing Testi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_a0258e19"
+      ]
+    },
+    {
+      "source": "Stuart J. Russell",
+      "target": "Ai",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_a0258e19"
+      ]
+    },
+    {
+      "source": "Peter Norvig",
+      "target": "Ai",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_a0258e19"
+      ]
+    },
+    {
+      "source": "Ajan",
+      "target": "Performans Ölçüsü",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_3816a97a"
+      ]
+    },
+    {
+      "source": "Termostat",
+      "target": "Zeka",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_3816a97a"
+      ]
+    },
+    {
+      "source": "Hans Moravec",
+      "target": "1988",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_775badeb"
+      ]
+    },
+    {
+      "source": "Ray Kurzweil",
+      "target": "2029",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_775badeb"
+      ]
+    },
+    {
+      "source": "Allen Newell",
+      "target": "1963",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_b77c18d2"
+      ]
+    },
+    {
+      "source": "Herbert A. Simon",
+      "target": "1963",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_b77c18d2"
+      ]
+    },
+    {
+      "source": "Allen Newell",
+      "target": "Sembol Manipülasyonu",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_b77c18d2"
+      ]
+    },
+    {
+      "source": "Herbert A. Simon",
+      "target": "Sembol Manipülasyonu",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_b77c18d2"
+      ]
+    },
+    {
+      "source": "Sembol Manipülasyonu",
+      "target": "İnsan Zekası",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_b77c18d2"
+      ]
+    },
+    {
+      "source": "Sembol Manipülasyonu",
+      "target": "Makine Zekası",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_b77c18d2"
+      ]
+    },
+    {
+      "source": "Fiziksel Sembol Sistemi",
+      "target": "İnsan Zekası",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_b77c18d2"
+      ]
+    },
+    {
+      "source": "Fiziksel Sembol Sistemi",
+      "target": "Makine Zekası",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_b77c18d2"
+      ]
+    },
+    {
+      "source": "John Searle",
+      "target": "Güçlü Ai",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_c6b37ec6"
+      ]
+    },
+    {
+      "source": "John Searle",
+      "target": "Zayıf Yapay Zekâ",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_c6b37ec6"
+      ]
+    },
+    {
+      "source": "Zayıf Yapay Zekâ",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_ca406ddb"
+      ]
+    },
+    {
+      "source": "Güçlü Yapay Zekâ",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_ca406ddb"
+      ]
+    },
+    {
+      "source": "Searle",
+      "target": "Zayıf Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_ca406ddb"
+      ]
+    },
+    {
+      "source": "Searle",
+      "target": "Güçlü Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_ca406ddb"
+      ]
+    },
+    {
+      "source": "Hobbes",
+      "target": "Hesaplamalı Zihin Teorisi",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_278a0921"
+      ]
+    },
+    {
+      "source": "Leibniz",
+      "target": "Hesaplamalı Zihin Teorisi",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_278a0921"
+      ]
+    },
+    {
+      "source": "Hume",
+      "target": "Hesaplamalı Zihin Teorisi",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_278a0921"
+      ]
+    },
+    {
+      "source": "Kant",
+      "target": "Hesaplamalı Zihin Teorisi",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_278a0921"
+      ]
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "Hesaplamalı Zihin Teorisi",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_278a0921"
+      ]
+    },
+    {
+      "source": "Jerry Fodor",
+      "target": "Hesaplamalı Zihin Teorisi",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_278a0921"
+      ]
+    },
+    {
+      "source": "Hans Moravec",
+      "target": "Robot",
+      "type": "COMMENTED_ON",
+      "chunk_ids": [
+        "chunk_42f5b25c"
+      ]
+    },
+    {
+      "source": "Alan Turing",
+      "target": "Öz Farkındalık",
+      "type": "RELATED_TO",
+      "chunk_ids": [
+        "chunk_42f5b25c"
+      ]
+    },
+    {
+      "source": "Douglas Lenat",
+      "target": "Otomatik Matematikçisi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_eaa85414"
+      ]
+    },
+    {
+      "source": "David Deutsch",
+      "target": "Felsefe",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_f6b06965"
+      ]
+    },
+    {
+      "source": "Alison Adam",
+      "target": "Artificial Knowing: Gender And The Thinking Machine",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_f6b06965"
+      ]
+    },
+    {
+      "source": "Ruha Benjamin",
+      "target": "Race After Technology: Abolitionist Tools For The New Jim Code",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_f6b06965"
+      ]
+    },
+    {
+      "source": "Susan Blackmore",
+      "target": "Consciousness: A Very Short Introduction",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_a2bcad55"
+      ]
+    },
+    {
+      "source": "Consciousness: A Very Short Introduction",
+      "target": "Oxford University Press",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a2bcad55"
+      ]
+    },
+    {
+      "source": "Nick Bostrom",
+      "target": "Superintelligence: Paths, Dangers, Strategies",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_a2bcad55"
+      ]
+    },
+    {
+      "source": "Superintelligence: Paths, Dangers, Strategies",
+      "target": "Oxford University Press",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a2bcad55"
+      ]
+    },
+    {
+      "source": "Rodney Brooks",
+      "target": "Elephants Don't Play Chess",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_a2bcad55"
+      ]
+    },
+    {
+      "source": "Elephants Don't Play Chess",
+      "target": "Robotics And Autonomous Systems",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a2bcad55"
+      ]
+    },
+    {
+      "source": "Joanna Bryson",
+      "target": "The Artiﬁcial Intelligence Of The Ethics Of Artiﬁcial Intelligence: An Introductory Overview For Law And Regulation",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_a2bcad55"
+      ]
+    },
+    {
+      "source": "David J. Chalmers",
+      "target": "The Conscious Mind: In Search Of A Fundamental Theory",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_8e8f63c1",
+        "chunk_a2bcad55"
+      ]
+    },
+    {
+      "source": "The Conscious Mind: In Search Of A Fundamental Theory",
+      "target": "Oxford University Press",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a2bcad55"
+      ]
+    },
+    {
+      "source": "The Conscious Mind: In Search Of A Fundamental Theory",
+      "target": "Oxford University Press",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8e8f63c1"
+      ]
+    },
+    {
+      "source": "David Cole",
+      "target": "The Chinese Room Argument",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_8e8f63c1"
+      ]
+    },
+    {
+      "source": "Kate Crawford",
+      "target": "The Atlas Of Ai: Power, Politics, And The Planetary Costs Of Artificial Intelligence",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_8e8f63c1"
+      ]
+    },
+    {
+      "source": "The Atlas Of Ai: Power, Politics, And The Planetary Costs Of Artificial Intelligence",
+      "target": "Yale University Press",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8e8f63c1"
+      ]
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Consciousness Explained",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_8e8f63c1"
+      ]
+    },
+    {
+      "source": "Consciousness Explained",
+      "target": "The Penguin Press",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8e8f63c1"
+      ]
+    },
+    {
+      "source": "Hubert Dreyfus",
+      "target": "What Computers Can't Do",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_8e8f63c1"
+      ]
+    },
+    {
+      "source": "Hubert Dreyfus",
+      "target": "What Computers Still Can't Do",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_8e8f63c1"
+      ]
+    },
+    {
+      "source": "Hubert Dreyfus",
+      "target": "Mind Over Machine: The Power Of Human Intuition And Expertise İn The Era Of The Computer",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_ab039956",
+        "chunk_8e8f63c1"
+      ]
+    },
+    {
+      "source": "Stuart Dreyfus",
+      "target": "Mind Over Machine: The Power Of Human Intuition And Expertise İn The Era Of The Computer",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_ab039956",
+        "chunk_8e8f63c1"
+      ]
+    },
+    {
+      "source": "Nicholas Fearn",
+      "target": "The Latest Answers To The Oldest Questions: A Philosophical Adventure With The World's Greatest Thinkers",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_ab039956"
+      ]
+    },
+    {
+      "source": "Malcolm Gladwell",
+      "target": "Blink: The Power Of Thinking Without Thinking",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_ab039956"
+      ]
+    },
+    {
+      "source": "Stevan Harnad",
+      "target": "Chinese Room Argument",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_ab039956"
+      ]
+    },
+    {
+      "source": "Donna Haraway",
+      "target": "A Cyborg Manifesto",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_ab039956"
+      ]
+    },
+    {
+      "source": "John Haugeland",
+      "target": "Artificial Intelligence: The Very Idea",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_ab039956"
+      ]
+    },
+    {
+      "source": "Douglas Hofstadter",
+      "target": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_ab039956",
+        "chunk_93713e07"
+      ]
+    },
+    {
+      "source": "Steven Horst",
+      "target": "The Computational Theory Of Mind",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_93713e07"
+      ]
+    },
+    {
+      "source": "Metaphysics Research Lab",
+      "target": "Stanford University",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_93713e07"
+      ]
+    },
+    {
+      "source": "Andreas Kaplan",
+      "target": "Business Horizons",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_93713e07"
+      ]
+    },
+    {
+      "source": "Michael Haenlein",
+      "target": "Business Horizons",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_93713e07"
+      ]
+    },
+    {
+      "source": "Ray Kurzweil",
+      "target": "The Singularity İs Near",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_93713e07"
+      ]
+    },
+    {
+      "source": "John Lucas",
+      "target": "Minds, Machines And Gödel",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_93713e07"
+      ]
+    },
+    {
+      "source": "John",
+      "target": "Minds, Machines And Gödel",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_42aff344"
+      ]
+    },
+    {
+      "source": "Malabou, Catherine",
+      "target": "Morphing Intelligence: From Iq Measurement To Artificial Brains",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_42aff344"
+      ]
+    },
+    {
+      "source": "Morphing Intelligence: From Iq Measurement To Artificial Brains",
+      "target": "Columbia University Press",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_42aff344"
+      ]
+    },
+    {
+      "source": "Mccarthy, John",
+      "target": "A Proposal For The Dartmouth Summer Research Project On Artificial Intelligence",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_42aff344"
+      ]
+    },
+    {
+      "source": "Minsky, Marvin",
+      "target": "A Proposal For The Dartmouth Summer Research Project On Artificial Intelligence",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_42aff344"
+      ]
+    },
+    {
+      "source": "Rochester, Nathan",
+      "target": "A Proposal For The Dartmouth Summer Research Project On Artificial Intelligence",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_42aff344"
+      ]
+    },
+    {
+      "source": "Shannon, Claude",
+      "target": "A Proposal For The Dartmouth Summer Research Project On Artificial Intelligence",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_42aff344"
+      ]
+    },
+    {
+      "source": "Mcdermott, Drew",
+      "target": "How Intelligent İs Deep Blue",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_42aff344"
+      ]
+    },
+    {
+      "source": "How Intelligent İs Deep Blue",
+      "target": "Deep Blue",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_42aff344"
+      ]
+    },
+    {
+      "source": "How Intelligent İs Deep Blue",
+      "target": "New York Times",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_42aff344"
+      ]
+    },
+    {
+      "source": "Moravec, Hans",
+      "target": "Mind Children",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_42aff344"
+      ]
+    },
+    {
+      "source": "Mind Children",
+      "target": "Harvard University Press",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_42aff344"
+      ]
+    },
+    {
+      "source": "Penrose, Roger",
+      "target": "The Emperor's New Mind: Concerning Computers, Minds, And The Laws Of Physics",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_42aff344"
+      ]
+    },
+    {
+      "source": "The Emperor's New Mind: Concerning Computers, Minds, And The Laws Of Physics",
+      "target": "Oxford University Press",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_42aff344",
+        "chunk_13f286f8"
+      ]
+    },
+    {
+      "source": "Roger Penrose",
+      "target": "The Emperor's New Mind: Concerning Computers, Minds, And The Laws Of Physics",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_13f286f8"
+      ]
+    },
+    {
+      "source": "John Searle",
+      "target": "Minds, Brains And Programs",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_13f286f8"
+      ]
+    },
+    {
+      "source": "John Searle",
+      "target": "The Rediscovery Of The Mind",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_13f286f8"
+      ]
+    },
+    {
+      "source": "John Searle",
+      "target": "Mind, Language And Society",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_13f286f8"
+      ]
+    },
+    {
+      "source": "Richard Yee",
+      "target": "Turing Machines And Semantic Symbol Processing: Why Real Computers Don't Mind Chinese Emperors",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_13f286f8"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Mühendisleri",
+      "target": "Yapay Zekâ Mühendisliği",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_0f987619"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Mühendisleri",
+      "target": "Makine Öğrenme Algoritmaları",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_0f987619"
+      ]
+    },
+    {
+      "source": "Dil Çevirisi",
+      "target": "Yapay Zekâ Mühendisliği",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_0f987619"
+      ]
+    },
+    {
+      "source": "Görsel Algı",
+      "target": "Yapay Zekâ Mühendisliği",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_0f987619"
+      ]
+    },
+    {
+      "source": "Duygu Analizi",
+      "target": "Yapay Zekâ Mühendisliği",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_0f987619"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Mühendisleri",
+      "target": "Veri Mühendisleri",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_0f987619"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Mühendisleri",
+      "target": "Veri Bilimcileri",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_0f987619"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Mühendisliği",
+      "target": "Bilgisayar Mühendisliği",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_dd36d0d0"
+      ]
+    },
+    {
+      "source": "Yazılım Mühendisliği",
+      "target": "Bilgisayar Mühendisliği",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_dd36d0d0"
+      ]
+    },
+    {
+      "source": "Üretken Yapay Zekâ",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_8d5c7eaa"
+      ]
+    },
+    {
+      "source": "Üretken Yapay Zekâ",
+      "target": "Derin Öğrenme",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8d5c7eaa"
+      ]
+    },
+    {
+      "source": "Üretken Yapay Zekâ",
+      "target": "Sinir Ağları",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8d5c7eaa"
+      ]
+    },
+    {
+      "source": "Büyük Dil Modelleri",
+      "target": "Üretken Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7349d371"
+      ]
+    },
+    {
+      "source": "Openai",
+      "target": "Üretken Yapay Zekâ",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_a4a225dd",
+        "chunk_7349d371",
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Anthropic",
+      "target": "Üretken Yapay Zekâ",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_7349d371",
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Microsoft",
+      "target": "Üretken Yapay Zekâ",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_7349d371",
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Google",
+      "target": "Üretken Yapay Zekâ",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_7349d371",
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Baidu",
+      "target": "Üretken Yapay Zekâ",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_7349d371",
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Üretken Yapay Zekâ",
+      "target": "Yazılım Geliştirme",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Üretken Yapay Zekâ",
+      "target": "Sağlık Hizmetleri",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Üretken Yapay Zekâ",
+      "target": "Finans",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Üretken Yapay Zekâ",
+      "target": "Eğlence",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Üretken Yapay Zekâ",
+      "target": "Müşteri Hizmetleri",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Üretken Yapay Zekâ",
+      "target": "Satış Ve Pazarlama",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Üretken Yapay Zekâ",
+      "target": "Sanat",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Üretken Yapay Zekâ",
+      "target": "Yazım",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Üretken Yapay Zekâ",
+      "target": "Moda",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Üretken Yapay Zekâ",
+      "target": "Ürün Tasarımı",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8b2d66d0"
+      ]
+    },
+    {
+      "source": "Erişim Destekli Üretim",
+      "target": "Üretken Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a3eb301a"
+      ]
+    },
+    {
+      "source": "Sufle Mühendisliği",
+      "target": "Üretken Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a3eb301a"
+      ]
+    },
+    {
+      "source": "Metinden Videoya Model",
+      "target": "Üretken Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a3eb301a"
+      ]
+    },
+    {
+      "source": "Metinden Resme Model",
+      "target": "Üretken Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a3eb301a"
+      ]
+    },
+    {
+      "source": "Yapay Genel Zekâ",
+      "target": "Üretken Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a3eb301a"
+      ]
+    },
+    {
+      "source": "Üretken Çekişmeli Ağ",
+      "target": "Üretken Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a3eb301a"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Patlaması",
+      "target": "Yapay Zekâ Baharı",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_a4a225dd"
+      ]
+    },
+    {
+      "source": "Google Deepmind",
+      "target": "Üretken Yapay Zekâ",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_a4a225dd"
+      ]
+    },
+    {
+      "source": "Toronto Üniversitesi",
+      "target": "Imagenet Nesne Tanıma Yarışması",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_7041946d"
+      ]
+    },
+    {
+      "source": "Yapay Sinir Ağları",
+      "target": "Derin Öğrenme",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7041946d"
+      ]
+    },
+    {
+      "source": "Stanford Üniversitesi",
+      "target": "Yapay Zekâ Endeksi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_7041946d"
+      ]
+    },
+    {
+      "source": "Amerika Birleşik Devletleri",
+      "target": "Yapay Zekâ",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_2a6f9007"
+      ]
+    },
+    {
+      "source": "Amerika Birleşik Devletleri",
+      "target": "Yapay Zekâ Teknolojisi",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_2a6f9007"
+      ]
+    },
+    {
+      "source": "Alphafold 2",
+      "target": "Küresel Mesafe Testi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_ae4e0f3d"
+      ]
+    },
+    {
+      "source": "Küresel Mesafe Testi",
+      "target": "Casp",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_ae4e0f3d"
+      ]
+    },
+    {
+      "source": "Alphafold 2",
+      "target": "Hesaplamalı Biyoloji",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_ae4e0f3d"
+      ]
+    },
+    {
+      "source": "Venki Ramakrishnan",
+      "target": "Nobel Ödülü",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_ae4e0f3d"
+      ]
+    },
+    {
+      "source": "Alphafold 2",
+      "target": "Protein Katlama Problemi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_ae4e0f3d"
+      ]
+    },
+    {
+      "source": "Alphafold 2",
+      "target": "Sağlık Bilimleri",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_7680eb71"
+      ]
+    },
+    {
+      "source": "Mit Technology Review",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_7680eb71"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ",
+      "target": "Biyoloji",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_7680eb71"
+      ]
+    },
+    {
+      "source": "Gpt-3",
+      "target": "2020",
+      "type": "CREATION_DATE",
+      "chunk_ids": [
+        "chunk_b4947bec"
+      ]
+    },
+    {
+      "source": "Chatgpt",
+      "target": "Gpt-3.5",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_b4947bec"
+      ]
+    },
+    {
+      "source": "Gpt-4",
+      "target": "14 Mart 2023",
+      "type": "CREATION_DATE",
+      "chunk_ids": [
+        "chunk_b4947bec"
+      ]
+    },
+    {
+      "source": "Gpt-4",
+      "target": "Microsoft Bing",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_b4947bec"
+      ]
+    },
+    {
+      "source": "Microsoft Bing",
+      "target": "Microsoft",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_b4947bec"
+      ]
+    },
+    {
+      "source": "Palm",
+      "target": "Google",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_b4947bec"
+      ]
+    },
+    {
+      "source": "Gemini",
+      "target": "Google",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_b4947bec"
+      ]
+    },
+    {
+      "source": "Llama",
+      "target": "Meta Platformları",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_b4947bec"
+      ]
+    },
+    {
+      "source": "Google",
+      "target": "Palm",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_12f338a4"
+      ]
+    },
+    {
+      "source": "Google",
+      "target": "Gemini",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_12f338a4"
+      ]
+    },
+    {
+      "source": "Meta Platformları",
+      "target": "Llama",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_12f338a4"
+      ]
+    },
+    {
+      "source": "Deepl Çeviri",
+      "target": "Ocak 2023",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_12f338a4"
+      ]
+    },
+    {
+      "source": "Gemini",
+      "target": "Aralık 2023",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_12f338a4"
+      ]
+    },
+    {
+      "source": "Dall-e",
+      "target": "Openai",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_12f338a4"
+      ]
+    },
+    {
+      "source": "Dall-e",
+      "target": "Ocak 2021",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_12f338a4"
+      ]
+    },
+    {
+      "source": "Dall-e 2",
+      "target": "Nisan 2022",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_12f338a4"
+      ]
+    },
+    {
+      "source": "Midjourney",
+      "target": "Temmuz 2022",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_6812b842",
+        "chunk_12f338a4"
+      ]
+    },
+    {
+      "source": "Stable Diffusion",
+      "target": "Ağustos 2022",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_6812b842",
+        "chunk_12f338a4"
+      ]
+    },
+    {
+      "source": "15.ai",
+      "target": "Mart 2020",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_86c221c6"
+      ]
+    },
+    {
+      "source": "Alphabet Inc.",
+      "target": "Abd",
+      "type": "LOCATED_IN",
+      "chunk_ids": [
+        "chunk_18b61452"
+      ]
+    },
+    {
+      "source": "Amazon",
+      "target": "Abd",
+      "type": "LOCATED_IN",
+      "chunk_ids": [
+        "chunk_18b61452"
+      ]
+    },
+    {
+      "source": "Apple Inc.",
+      "target": "Abd",
+      "type": "LOCATED_IN",
+      "chunk_ids": [
+        "chunk_18b61452"
+      ]
+    },
+    {
+      "source": "Meta Platforms",
+      "target": "Abd",
+      "type": "LOCATED_IN",
+      "chunk_ids": [
+        "chunk_18b61452"
+      ]
+    },
+    {
+      "source": "Microsoft",
+      "target": "Abd",
+      "type": "LOCATED_IN",
+      "chunk_ids": [
+        "chunk_18b61452"
+      ]
+    },
+    {
+      "source": "Sanatçılar",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_7ae970b4"
+      ]
+    },
+    {
+      "source": "Yazılım Geliştiriciler",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_7ae970b4"
+      ]
+    },
+    {
+      "source": "Ekonomik Bozulma",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7ae970b4"
+      ]
+    },
+    {
+      "source": "İnsanlığa Yönelik Riskler",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7ae970b4"
+      ]
+    },
+    {
+      "source": "Microsoft",
+      "target": "Tay",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_7c16e839"
+      ]
+    },
+    {
+      "source": "Chatgpt",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7c16e839",
+        "chunk_2841e55d"
+      ]
+    },
+    {
+      "source": "Tay",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7c16e839"
+      ]
+    },
+    {
+      "source": "Yüz Tanıma Modelleri",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7c16e839"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Yarışı",
+      "target": "Yapay Genel Zekâ",
+      "type": "AFFECTS",
+      "chunk_ids": [
+        "chunk_727df5d4"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Yarışı",
+      "target": "Güvenlik Kontrolleri",
+      "type": "THREATENS",
+      "chunk_ids": [
+        "chunk_727df5d4"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Yarışı",
+      "target": "Sorumlu Yapay Zekâ Gelişimi",
+      "type": "THREATENS",
+      "chunk_ids": [
+        "chunk_727df5d4"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Topluluğu",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_880f2057"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Güvenliği",
+      "target": "Makine Etiği",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_6f8e9358"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Güvenliği",
+      "target": "Yapay Zekâ Uyumu",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_6f8e9358"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Güvenliği",
+      "target": "Yapay Zekâ Sistemleri",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_6f8e9358"
+      ]
+    },
+    {
+      "source": "Doğal Dil İşleme",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7f8c5009"
+      ]
+    },
+    {
+      "source": "Andrew Ng",
+      "target": "Yapay Genel Zekâ",
+      "type": "CRITICIZED",
+      "chunk_ids": [
+        "chunk_bc22dc3b"
+      ]
+    },
+    {
+      "source": "Stuart J. Russell",
+      "target": "Yapay Genel Zekâ",
+      "type": "WARNED_ABOUT",
+      "chunk_ids": [
+        "chunk_bc22dc3b"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ",
+      "target": "Bilişim Çağı",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_bc22dc3b"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Geliştirme Derneği",
+      "target": "2008-2009",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_1c861980"
+      ]
+    },
+    {
+      "source": "Roman Yampolskiy",
+      "target": "Yapay Zekâ Felsefesi Ve Teorisi Konferansı",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_1c861980"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Felsefesi Ve Teorisi Konferansı",
+      "target": "2011",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_1c861980"
+      ]
+    },
+    {
+      "source": "Roman Yampolskiy",
+      "target": "Yapay Zekâ Güvenlik Mühendisliği",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_1c861980"
+      ]
+    },
+    {
+      "source": "Nick Bostrom",
+      "target": "Süper Zekâ:yollar, Tehlikeler, Stratejiler",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_5c7137d2"
+      ]
+    },
+    {
+      "source": "Süper Zekâ:yollar, Tehlikeler, Stratejiler",
+      "target": "2014",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_5c7137d2"
+      ]
+    },
+    {
+      "source": "Nick Bostrom",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_5c7137d2"
+      ]
+    },
+    {
+      "source": "Elon Musk",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_5c7137d2"
+      ]
+    },
+    {
+      "source": "Bill Gates",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_5c7137d2"
+      ]
+    },
+    {
+      "source": "Stephen Hawking",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_5c7137d2"
+      ]
+    },
+    {
+      "source": "Stuart Russell",
+      "target": "İnsan Uyumlu Yapay Zekâ Merkezi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_7da4cd36"
+      ]
+    },
+    {
+      "source": "İnsan Uyumlu Yapay Zekâ Merkezi",
+      "target": "California Berkeley Üniversitesi",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7da4cd36"
+      ]
+    },
+    {
+      "source": "2015",
+      "target": "İnsan Uyumlu Yapay Zekâ Merkezi",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_7da4cd36"
+      ]
+    },
+    {
+      "source": "Beyaz Saray Bilim Ve Teknoloji Politikası Ofisi",
+      "target": "Yapay Zekâ İçin Güvenlik Ve Kontrol Kamu Çalıştayı",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_425ae3b3"
+      ]
+    },
+    {
+      "source": "Carnegie Mellon Üniversitesi",
+      "target": "Yapay Zekâ İçin Güvenlik Ve Kontrol Kamu Çalıştayı",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_425ae3b3"
+      ]
+    },
+    {
+      "source": "Yaşamın Geleceği Enstitüsü",
+      "target": "Asilomar Faydalı Yapay Zekâ Konferansı",
+      "type": "HELD_IN",
+      "chunk_ids": [
+        "chunk_425ae3b3"
+      ]
+    },
+    {
+      "source": "Deepmind Safety Ekibi",
+      "target": "2018",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_b9a07dbd"
+      ]
+    },
+    {
+      "source": "Unsolved Problems İn Machine Learning Safety",
+      "target": "2021",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_b9a07dbd"
+      ]
+    },
+    {
+      "source": "Rishi Sunak",
+      "target": "2023",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_b9a07dbd"
+      ]
+    },
+    {
+      "source": "Rishi Sunak",
+      "target": "Birleşik Krallık",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_b9a07dbd"
+      ]
+    },
+    {
+      "source": "Sağlamlık",
+      "target": "Yapay Zekâ Güvenliği",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_922b9aa6"
+      ]
+    },
+    {
+      "source": "İzleme",
+      "target": "Yapay Zekâ Güvenliği",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_922b9aa6"
+      ]
+    },
+    {
+      "source": "Hizalama",
+      "target": "Yapay Zekâ Güvenliği",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_922b9aa6"
+      ]
+    },
+    {
+      "source": "Saldırıya Karşı Sağlamlık",
+      "target": "Sağlamlık",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_922b9aa6"
+      ]
+    },
+    {
+      "source": "Szegedy",
+      "target": "2013",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_922b9aa6"
+      ]
+    },
+    {
+      "source": "Sinir Ağları",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_922b9aa6"
+      ]
+    },
+    {
+      "source": "İzinsiz Giriş Tespit Sistemleri",
+      "target": "Güvenlik",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_f3bd3dc8"
+      ]
+    },
+    {
+      "source": "Kötü Amaçlı Yazılım Tespit Sistemleri",
+      "target": "Güvenlik",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_f3bd3dc8"
+      ]
+    },
+    {
+      "source": "Dil Modeli",
+      "target": "Ödül Modelleri",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_ba639f0a"
+      ]
+    },
+    {
+      "source": "İzleme Araçları",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_ba639f0a"
+      ]
+    },
+    {
+      "source": "Makine Öğrenimi",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_650a9b16"
+      ]
+    },
+    {
+      "source": "Dağılım Dışı Tespiti",
+      "target": "Anomali Tespiti",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_e390ec5f"
+      ]
+    },
+    {
+      "source": "Anomali Tespiti",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_e390ec5f"
+      ]
+    },
+    {
+      "source": "Otonom Araç",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_e390ec5f"
+      ]
+    },
+    {
+      "source": "Openai",
+      "target": "Algılama Sistemleri",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_341419a5",
+        "chunk_9893ec1f"
+      ]
+    },
+    {
+      "source": "Sürücüsüz Araç Kazası",
+      "target": "2018",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_341419a5"
+      ]
+    },
+    {
+      "source": "Sürücüsüz Araç Kazası",
+      "target": "Yapay Zekâ Yazılımı",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_341419a5"
+      ]
+    },
+    {
+      "source": "Açıklanabilirlik",
+      "target": "Sinir Ağları",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_341419a5"
+      ]
+    },
+    {
+      "source": "Araştırmacılar",
+      "target": "Şeffaflık Araçları",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_d9b56f45"
+      ]
+    },
+    {
+      "source": "Araştırmacılar",
+      "target": "2020 Covid-19 Pandemisi",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_d9b56f45"
+      ]
+    },
+    {
+      "source": "Locating And Editing Factual Associations İn Gpt",
+      "target": "Gpt",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_34989fb4"
+      ]
+    },
+    {
+      "source": "Model Düzenleme Teknikleri",
+      "target": "Bilgisayarlı Görü",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_d42e0aa1"
+      ]
+    },
+    {
+      "source": "İçsel Yorumlanabilirlik",
+      "target": "Makine Öğrenimi",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_d42e0aa1"
+      ]
+    },
+    {
+      "source": "Clip",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_d42e0aa1"
+      ]
+    },
+    {
+      "source": "Makine Öğrenimi",
+      "target": "Trojanlar",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_8922f5c9"
+      ]
+    },
+    {
+      "source": "Trojanlar",
+      "target": "Arka Kapı",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_12750938"
+      ]
+    },
+    {
+      "source": "Trojanlar",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_12750938"
+      ]
+    },
+    {
+      "source": "Yüz Tanıma Sistemi",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_12750938"
+      ]
+    },
+    {
+      "source": "Clip",
+      "target": "Makine Öğrenimi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_12750938"
+      ]
+    },
+    {
+      "source": "Gpt-3",
+      "target": "Makine Öğrenimi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_12750938"
+      ]
+    },
+    {
+      "source": "Stamp",
+      "target": "Güvenlik Mühendisliği",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_d4736c0f"
+      ]
+    },
+    {
+      "source": "Stamp",
+      "target": "Risk Analizi",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_b220bfb7"
+      ]
+    },
+    {
+      "source": "Makine Öğrenimi",
+      "target": "Sosyoteknik Güvenlik Faktörleri",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_b220bfb7"
+      ]
+    },
+    {
+      "source": "Makine Öğrenimi",
+      "target": "Siber Savunma",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_b220bfb7"
+      ]
+    },
+    {
+      "source": "Makine Öğrenimi",
+      "target": "Kurumsal Karar Verme",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_b220bfb7"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Tahmin Ve Danışmanlık Sistemleri",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_6e93e37b"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Araştırması",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_7b3fb31d"
+      ]
+    },
+    {
+      "source": "Büyük Dil Modelleri",
+      "target": "Yapay Zekâ Güvenliği",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_68cdee69"
+      ]
+    },
+    {
+      "source": "Bender",
+      "target": "Büyük Dil Modelleri",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_68cdee69"
+      ]
+    },
+    {
+      "source": "Gebru",
+      "target": "Büyük Dil Modelleri",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_68cdee69"
+      ]
+    },
+    {
+      "source": "Transformatör Modelleri",
+      "target": "Büyük Dil Modelleri",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_68cdee69"
+      ]
+    },
+    {
+      "source": "Dil Modelleri",
+      "target": "Toplumsal Önyargılar",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_ca5d8dfe"
+      ]
+    },
+    {
+      "source": "Dil Modelleri",
+      "target": "Deepfake",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_ca5d8dfe"
+      ]
+    },
+    {
+      "source": "Dil Modelleri",
+      "target": "Tesadüfi Papağanlar",
+      "type": "ASSOCIATED_WITH",
+      "chunk_ids": [
+        "chunk_ca5d8dfe"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Güvenlik Yönetişimi",
+      "target": "Yapay Zekâ Yönetişimi",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_779b8a6c"
+      ]
+    },
+    {
+      "source": "Askell, Amanda",
+      "target": "The Role Of Cooperation İn Responsible Ai Development",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_2cbb1c14",
+        "chunk_02ba7a81"
+      ]
+    },
+    {
+      "source": "Brundage, Miles",
+      "target": "The Role Of Cooperation İn Responsible Ai Development",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_2cbb1c14",
+        "chunk_02ba7a81"
+      ]
+    },
+    {
+      "source": "Hadfield, Gillian",
+      "target": "The Role Of Cooperation İn Responsible Ai Development",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_2cbb1c14",
+        "chunk_02ba7a81"
+      ]
+    },
+    {
+      "source": "Allan Dafoe",
+      "target": "Deepmind",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_02ba7a81"
+      ]
+    },
+    {
+      "source": "Yerel Yapay Zekâ Güvenlik Önlemleri",
+      "target": "Küresel Çözümler",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_6d8a56bd"
+      ]
+    },
+    {
+      "source": "Küresel Çözümler",
+      "target": "Uluslararası Yönetişim",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_6d8a56bd"
+      ]
+    },
+    {
+      "source": "Elon Musk",
+      "target": "Yapay Zekâ",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_793f9aba"
+      ]
+    },
+    {
+      "source": "Abd Yapay Zekâ Ulusal Güvenlik Komisyonu",
+      "target": "Mart 2021",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_1c76be42"
+      ]
+    },
+    {
+      "source": "Abd Yapay Zekâ Ulusal Güvenlik Komisyonu",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_1c76be42"
+      ]
+    },
+    {
+      "source": "Ulusal Standartlar Ve Teknoloji Enstitüsü",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_1c76be42"
+      ]
+    },
+    {
+      "source": "Çin Halk Cumhuriyeti",
+      "target": "Çin",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_d474271a"
+      ]
+    },
+    {
+      "source": "Birleşik Krallık",
+      "target": "Ulusal Yapay Zekâ Stratejisi",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_d474271a"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Güvenliği Zirvesi",
+      "target": "1 Ve 2 Kasım 2023",
+      "type": "HELD_IN",
+      "chunk_ids": [
+        "chunk_d474271a"
+      ]
+    },
+    {
+      "source": "İngiliz Hükûmeti",
+      "target": "Yapay Zekâ Güvenliği Zirvesi",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_d474271a"
+      ]
+    },
+    {
+      "source": "İstihbarat İleri Araştırma Projeleri Faaliyeti",
+      "target": "Trojai",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_f4c0483f"
+      ]
+    },
+    {
+      "source": "Ulusal Bilim Vakfı",
+      "target": "Güvenilir Makine Öğrenimi Merkezi",
+      "type": "SUPPORTED_BY",
+      "chunk_ids": [
+        "chunk_f4c0483f"
+      ]
+    },
+    {
+      "source": "İstihbarat İleri Araştırma Projeleri Faaliyeti",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_f4c0483f"
+      ]
+    },
+    {
+      "source": "Darpa",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_f4c0483f"
+      ]
+    },
+    {
+      "source": "Demis Hassabis",
+      "target": "Asilomar İlkeleri",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_3a44de42"
+      ]
+    },
+    {
+      "source": "Demis Hassabis",
+      "target": "Otonom Silahlar Açık Mektubu",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_3a44de42"
+      ]
+    },
+    {
+      "source": "Yann Lecun",
+      "target": "Asilomar İlkeleri",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_3a44de42"
+      ]
+    },
+    {
+      "source": "Yann Lecun",
+      "target": "Otonom Silahlar Açık Mektubu",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_3a44de42"
+      ]
+    },
+    {
+      "source": "Açık Kaynaklı Yapay Zeka",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_f6b54a68"
+      ]
+    },
+    {
+      "source": "Büyük Dil Modelleri",
+      "target": "Açık Kaynaklı Yapay Zeka",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_f6b54a68"
+      ]
+    },
+    {
+      "source": "Makine Çeviri Araçları",
+      "target": "Açık Kaynaklı Yapay Zeka",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_f6b54a68"
+      ]
+    },
+    {
+      "source": "Sohbet Robotları",
+      "target": "Açık Kaynaklı Yapay Zeka",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_f6b54a68"
+      ]
+    },
+    {
+      "source": "Llama",
+      "target": "Büyük Dil Modelleri",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_f6b54a68"
+      ]
+    },
+    {
+      "source": "Llama",
+      "target": "Meta Ai",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_3576b0ee"
+      ]
+    },
+    {
+      "source": "Llama",
+      "target": "Şubat 2023",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_3576b0ee"
+      ]
+    },
+    {
+      "source": "Llama 3",
+      "target": "Nisan 2024",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_3576b0ee"
+      ]
+    },
+    {
+      "source": "Llama 3",
+      "target": "Llama",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_3576b0ee"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Yasası",
+      "target": "Avrupa Birliği",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_b9ca2120"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Yasası",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_b9ca2120"
+      ]
+    },
+    {
+      "source": "Avrupa Komisyonu",
+      "target": "Yapay Zekâ Yasası",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_aa608067",
+        "chunk_b9ca2120"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Yasası",
+      "target": "21 Nisan 2021",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_b9ca2120"
+      ]
+    },
+    {
+      "source": "Avrupa Parlamentosu",
+      "target": "Yapay Zekâ Yasası",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_ec880bc3",
+        "chunk_b9ca2120"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Yasası",
+      "target": "13 Mart 2024",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_b9ca2120"
+      ]
+    },
+    {
+      "source": "Avrupa Birliği Konseyi",
+      "target": "Yapay Zekâ Yasası",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_b9ca2120"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Yasası",
+      "target": "21 Mayıs 2024",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_b9ca2120"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Yasası",
+      "target": "Avrupa Yapay Zekâ Kurulu",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_b9ca2120"
+      ]
+    },
+    {
+      "source": "Genel Veri Koruma Yönetmeliği",
+      "target": "Ab",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_2841e55d"
+      ]
+    },
+    {
+      "source": "Genel Amaçlı Yapay Zekâ",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_9499bc62"
+      ]
+    },
+    {
+      "source": "Avrupa Komisyonu",
+      "target": "Yapay Zekâ Üzerine Beyaz Kitap - Mükemmellik Ve Güvene Avrupa Yaklaşımı",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_aa608067"
+      ]
+    },
+    {
+      "source": "Şubat 2020",
+      "target": "Avrupa Komisyonu",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_aa608067"
+      ]
+    },
+    {
+      "source": "Ekim 2020",
+      "target": "Avrupa Devlet Ve Hükûmet Başkanları Konseyi",
+      "type": "HELD_IN",
+      "chunk_ids": [
+        "chunk_aa608067"
+      ]
+    },
+    {
+      "source": "21 Nisan 2021",
+      "target": "Yapay Zekâ Yasası",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_aa608067"
+      ]
+    },
+    {
+      "source": "6 Aralık 2022",
+      "target": "Avrupa Konseyi",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_aa608067"
+      ]
+    },
+    {
+      "source": "9 Aralık 2023",
+      "target": "Ab Konseyi",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_aa608067"
+      ]
+    },
+    {
+      "source": "9 Aralık 2023",
+      "target": "Avrupa Parlamentosu",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_aa608067"
+      ]
+    },
+    {
+      "source": "Ab Konseyi",
+      "target": "Yapay Zekâ Yasası",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_ec880bc3"
+      ]
+    },
+    {
+      "source": "Avrupa Parlamentosu",
+      "target": "13 Mart 2024",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_ec880bc3"
+      ]
+    },
+    {
+      "source": "Ab Konseyi",
+      "target": "21 Mayıs 2024",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_ec880bc3"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Etiği",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_eda2005f"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Yasası",
+      "target": "Avrupa Parlamentosu",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_eda2005f"
+      ]
+    },
+    {
+      "source": "Nöro-sembolik Yapay Zekâ",
+      "target": "Yapay Zekâ",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_650a9310"
+      ]
+    },
+    {
+      "source": "Nöro-sembolik Yapay Zekâ",
+      "target": "Sembolik Akıl Yürütme",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_650a9310"
+      ]
+    },
+    {
+      "source": "Nöro-sembolik Yapay Zekâ",
+      "target": "Derin Öğrenme",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_650a9310"
+      ]
+    },
+    {
+      "source": "Açıklanabilir Yapay Zekâ",
+      "target": "Nöro-sembolik Sistemler",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_1aa8f4a3"
+      ]
+    },
+    {
+      "source": "Az Veriyle Öğrenme",
+      "target": "Nöro-sembolik Sistemler",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_1aa8f4a3"
+      ]
+    },
+    {
+      "source": "Nedensel Çıkarım",
+      "target": "Nöro-sembolik Sistemler",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_1aa8f4a3"
+      ]
+    },
+    {
+      "source": "Yapay Genel Zekâ",
+      "target": "Nöro-sembolik Sistemler",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_1aa8f4a3"
+      ]
+    },
+    {
+      "source": "Nöro-sembolik Yapay Zekâ",
+      "target": "1950'li Yıllar",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_1aa8f4a3"
+      ]
+    },
+    {
+      "source": "Derin Öğrenme",
+      "target": "2010'lar",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_1aa8f4a3"
+      ]
+    },
+    {
+      "source": "Artur D'avila Garcez",
+      "target": "Neurosymbolic Ai: The 3rd Wave",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_b5603add",
+        "chunk_70af6b00"
+      ]
+    },
+    {
+      "source": "Lamb",
+      "target": "Neurosymbolic Ai: The 3rd Wave",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_70af6b00"
+      ]
+    },
+    {
+      "source": "Gary Marcus",
+      "target": "Nöro-sembolik Yapay Zekâ",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_70af6b00"
+      ]
+    },
+    {
+      "source": "Neuro-symbolic Concept Learner",
+      "target": "Ibm Research",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_edc3c38f"
+      ]
+    },
+    {
+      "source": "Neuro-symbolic Concept Learner",
+      "target": "Nöro-sembolik Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_edc3c38f"
+      ]
+    },
+    {
+      "source": "Logic Tensor Networks",
+      "target": "Nöro-sembolik Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_edc3c38f"
+      ]
+    },
+    {
+      "source": "Deepproblog",
+      "target": "Nöro-sembolik Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_edc3c38f"
+      ]
+    },
+    {
+      "source": "Greedy Neural Theorem Prover",
+      "target": "Nöro-sembolik Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_edc3c38f"
+      ]
+    },
+    {
+      "source": "Tensor Product Representations",
+      "target": "Nöro-sembolik Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_edc3c38f"
+      ]
+    },
+    {
+      "source": "Bert",
+      "target": "Sembolik → Nöral",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_5b9d1157"
+      ]
+    },
+    {
+      "source": "Roberta",
+      "target": "Sembolik → Nöral",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_5b9d1157"
+      ]
+    },
+    {
+      "source": "Gpt-3",
+      "target": "Sembolik → Nöral",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_5b9d1157"
+      ]
+    },
+    {
+      "source": "Alphago",
+      "target": "Sembolik[nöral]",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_5b9d1157"
+      ]
+    },
+    {
+      "source": "Bert",
+      "target": "Doğal Dil İşleme",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_5b9d1157"
+      ]
+    },
+    {
+      "source": "Roberta",
+      "target": "Doğal Dil İşleme",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_5b9d1157"
+      ]
+    },
+    {
+      "source": "Gpt-3",
+      "target": "Doğal Dil İşleme",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_5b9d1157"
+      ]
+    },
+    {
+      "source": "Neural Concept Learner",
+      "target": "Nöral | Sembolik",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_ca025675"
+      ]
+    },
+    {
+      "source": "Neural Theorem Prover",
+      "target": "Nöralsymbolic",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_ca025675"
+      ]
+    },
+    {
+      "source": "Logic Tensor Networks",
+      "target": "Nöralsymbolic",
+      "type": "SUBFIELD_OF",
+      "chunk_ids": [
+        "chunk_ca025675"
+      ]
+    },
+    {
+      "source": "Bader",
+      "target": "2005",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_cdf14d9f"
+      ]
+    },
+    {
+      "source": "Hitzler",
+      "target": "2005",
+      "type": "OCCURRED_IN",
+      "chunk_ids": [
+        "chunk_cdf14d9f"
+      ]
+    },
+    {
+      "source": "Chatgpt",
+      "target": "Wolfram Alpha",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_cdf14d9f"
+      ]
+    },
+    {
+      "source": "Sepp Hochreiter",
+      "target": "Graph Neural Networks",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_df96927e"
+      ]
+    },
+    {
+      "source": "Graph Neural Networks",
+      "target": "Nöro-sembolik Hesaplama",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_df96927e"
+      ]
+    },
+    {
+      "source": "Nöro-sembolik Sistemler",
+      "target": "Sembolik Sistemler",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_df96927e"
+      ]
+    },
+    {
+      "source": "Nöro-sembolik Sistemler",
+      "target": "Nörel Ağlar",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_df96927e"
+      ]
+    },
+    {
+      "source": "Derin Öğrenme",
+      "target": "Açıklanabilirlik",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_d08577fe"
+      ]
+    },
+    {
+      "source": "Önerme Mantığı",
+      "target": "Derin Öğrenme",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_d08577fe"
+      ]
+    },
+    {
+      "source": "Birinci Dereceden Mantık",
+      "target": "Derin Öğrenme",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_d08577fe"
+      ]
+    },
+    {
+      "source": "Sembolik Sistemler",
+      "target": "Veri Ve Bilgi Uyuşmazlığı",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_d08577fe"
+      ]
+    },
+    {
+      "source": "Nörel Sistemler",
+      "target": "Veri Ve Bilgi Uyuşmazlığı",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_d08577fe"
+      ]
+    },
+    {
+      "source": "Nöro-sembolik Sistemler",
+      "target": "Performans Ve Hesaplama Gücü",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_d08577fe"
+      ]
+    },
+    {
+      "source": "Nöro-sembolik Sistemler",
+      "target": "Nöro-sembolik Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_02a6c32d"
+      ]
+    },
+    {
+      "source": "Daniel Kahneman",
+      "target": "Sistem 1 Ve Sistem 2",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_02a6c32d"
+      ]
+    },
+    {
+      "source": "Derin Öğrenme",
+      "target": "Sistem 1 Ve Sistem 2",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_02a6c32d"
+      ]
+    },
+    {
+      "source": "Sembolik Sistemler",
+      "target": "Sistem 1 Ve Sistem 2",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_02a6c32d"
+      ]
+    },
+    {
+      "source": "Ontoloji",
+      "target": "Nöro-sembolik Yapay Zekânın",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7d3a0720"
+      ]
+    },
+    {
+      "source": "Bilgi Çıkarımı",
+      "target": "Nöro-sembolik Yapay Zekânın",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7d3a0720"
+      ]
+    },
+    {
+      "source": "Olasılıksal Mantık Sistemleri",
+      "target": "Nöro-sembolik Yapay Zekânın",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_7d3a0720"
+      ]
+    },
+    {
+      "source": "Gary Marcus",
+      "target": "The Next Decade İn Ai: Four Steps Toward Robust Artificial Intelligence",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_b5603add",
+        "chunk_7d3a0720"
+      ]
+    },
+    {
+      "source": "Luís C. Lamb",
+      "target": "Neurosymbolic Ai: The 3rd Wave",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_b5603add"
+      ]
+    },
+    {
+      "source": "Henry Kautz",
+      "target": "Üçüncü Ai Yaz",
+      "type": "CREATED_BY",
+      "chunk_ids": [
+        "chunk_b5603add"
+      ]
+    },
+    {
+      "source": "Henry Kautz",
+      "target": "Aaai 2020 Robert S. Engelmore Anıt Ödülü Dersi",
+      "type": "PARTICIPATED_IN",
+      "chunk_ids": [
+        "chunk_b5603add"
+      ]
+    },
+    {
+      "source": "Ibm Research",
+      "target": "Neuro-symbolic Concept Learner",
+      "type": "DEVELOPED_BY",
+      "chunk_ids": [
+        "chunk_b5603add"
+      ]
+    },
+    {
+      "source": "Yapay Zeka Uygulamaları",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_998d768e"
+      ]
+    },
+    {
+      "source": "Biyoenformatik",
+      "target": "Makine Öğrenimi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_998d768e"
+      ]
+    },
+    {
+      "source": "Yer Bilimleri",
+      "target": "Makine Öğrenimi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_998d768e"
+      ]
+    },
+    {
+      "source": "Fizik",
+      "target": "Makine Öğrenimi",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_998d768e"
+      ]
+    },
+    {
+      "source": "Üretken Yapay Zekâ",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_998d768e"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Sanatı",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_998d768e"
+      ]
+    },
+    {
+      "source": "Üretken Ses",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_998d768e"
+      ]
+    },
+    {
+      "source": "Müzik",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_998d768e"
+      ]
+    },
+    {
+      "source": "Hükûmet",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_998d768e"
+      ]
+    },
+    {
+      "source": "Sağlık Hizmetleri",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_998d768e"
+      ]
+    },
+    {
+      "source": "Ruh Sağlığı",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_998d768e"
+      ]
+    },
+    {
+      "source": "Sanayi",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_998d768e"
+      ]
+    },
+    {
+      "source": "Yazılım Geliştirme",
+      "target": "Yapay Zekâ",
+      "type": "USED_IN",
+      "chunk_ids": [
+        "chunk_998d768e"
+      ]
+    },
+    {
+      "source": "Yapay Zekâ Silahlanma Yarışı",
+      "target": "Yapay Zekâ",
+      "type": "PART_OF",
+      "chunk_ids": [
+        "chunk_998d768e"
+      ]
+    }
+  ]
+}

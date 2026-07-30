@@ -1,0 +1,182 @@
+{
+  "id": "conv_57f90418b833",
+  "title": "Kuantum bilgisayarlarının kriptografi üzerindeki e...",
+  "created_at": "2026-07-30T16:36:37.816769",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Kuantum bilgisayarlarının kriptografi üzerindeki etkileri nelerdir?",
+      "timestamp": "2026-07-30T16:36:44.663613"
+    },
+    {
+      "role": "assistant",
+      "content": "Verilen bağlam bilgilerinde kuantum bilgisayarlarının kriptografi üzerindeki etkilerine dair herhangi bir bilgi bulunmamaktadır. Sağlanan kaynaklar ve veri kümeleri yalnızca yapay zekâ güvenliği, yapay zekâ patlaması (AlphaFold 2 gibi bilimsel ilerlemeler), nöro-sembolik yapay zekâ ve iş birliği/kurumsal karar alma mekanizmaları gibi konuları içermektedir. \n\nBu nedenle, mevcut bağlam bilgileriyle kuantum bilgisayarları ve kriptografi ilişkisi hakkında bir yanıt oluşturamamaktayım.",
+      "timestamp": "2026-07-30T16:36:44.663613",
+      "sources": [],
+      "pipeline_stages": [
+        {
+          "stage": "embedding",
+          "status": "done",
+          "duration_ms": 665,
+          "detail": "Soru vektoru uretildi (3072 boyut)"
+        },
+        {
+          "stage": "vector_search",
+          "status": "done",
+          "duration_ms": 1207,
+          "chunks_found": 5,
+          "detail": "5 benzer chunk bulundu",
+          "chunks": [
+            {
+              "chunk_id": "chunk_874031ba",
+              "article_title": "Yapay zekâ güvenliği",
+              "score": 0.7987,
+              "text_preview": "ileri sürmüşlerdir. Örneğin, araştırmacılar yapay zekâ tahmin ve danışmanlık sistemleri geliştirmeye başlamıştır.\n==== İşbirliğini kolaylaştırmak ====\nEn büyük küresel tehditlerin çoğu (nükleer savaş,..."
+            },
+            {
+              "chunk_id": "chunk_6e93e37b",
+              "article_title": "Yapay zekâ güvenliği",
+              "score": 0.7916,
+              "text_preview": "verilmesini önermektedir. Buna ek olarak, güçlü yapay zekâ modellerinin çalınıp kötüye kullanılmasını önlemek için yazılım güvenliği de çok önemlidir.\n==== Kurumsal karar alma mekanizmasının iyileştir..."
+            },
+            {
+              "chunk_id": "chunk_ae4e0f3d",
+              "article_title": "Yapay zekâ patlaması",
+              "score": 0.7906,
+              "text_preview": " anlaşmalarına güvenmek yerine dış politikasını yönlendirmek için yapay zekâ teknolojisindeki hakimiyetini kullanmasını savunmuştur.\n== İlerlemeler ==\n=== Bilimsel ===\nYapay zekânın insan hayatının uz..."
+            },
+            {
+              "chunk_id": "chunk_02a6c32d",
+              "article_title": "Nöro-sembolik yapay zekâ",
+              "score": 0.7881,
+              "text_preview": "ve hesaplama gücü: Nöro-sembolik sistemlerin çalışması genellikle yüksek işlem gücü gerektirir, bu da gerçek zamanlı uygulamalarda zorluk çıkarabilir.\n== Gelecek araştırmalar ve yönelimler ==\nNöro-sem..."
+            },
+            {
+              "chunk_id": "chunk_2cbb1c14",
+              "article_title": "Yapay zekâ güvenliği",
+              "score": 0.7876,
+              "text_preview": "örmeye odaklanmıştır; örneğin, kitlesel işsizlik, silahlanma, dezenformasyon, gözetim, ve gücün yoğunlaşmasından kaynaklanan riskler bunlara dahildir.\nDiğer çalışmalar, hızla gelişen yapay zekâ endüst..."
+            }
+          ]
+        },
+        {
+          "stage": "graph_expansion",
+          "status": "done",
+          "duration_ms": 189,
+          "triples_found": 6,
+          "detail": "6 graf uclusu genisletildi",
+          "triples": [
+            {
+              "source": "Nobel Ödülü",
+              "relation": "PARTICIPATED_IN",
+              "target": "Venki Ramakrishnan"
+            },
+            {
+              "source": "Venki Ramakrishnan",
+              "relation": "PARTICIPATED_IN",
+              "target": "Nobel Ödülü"
+            },
+            {
+              "source": "Askell, Amanda",
+              "relation": "CREATED_BY",
+              "target": "The Role Of Cooperation İn Responsible Ai Development"
+            },
+            {
+              "source": "Brundage, Miles",
+              "relation": "CREATED_BY",
+              "target": "The Role Of Cooperation İn Responsible Ai Development"
+            },
+            {
+              "source": "Hadfield, Gillian",
+              "relation": "CREATED_BY",
+              "target": "The Role Of Cooperation İn Responsible Ai Development"
+            },
+            {
+              "source": "Daniel Kahneman",
+              "relation": "CREATED_BY",
+              "target": "Sistem 1 Ve Sistem 2"
+            }
+          ]
+        },
+        {
+          "stage": "community_selection",
+          "status": "done",
+          "duration_ms": 2409,
+          "communities_evaluated": 78,
+          "selected": 4,
+          "detail": "78 topluluk degerlendirildi, 4 secildi",
+          "communities": [
+            {
+              "id": "comm_076",
+              "summary": "Bu topluluk, yapay zekâ sistemlerinin gelişimiyle birlikte ortaya çıkabilecek potansiyel uzun vadeli toplumsal riskleri, güvenlik açıklarını ve kontro...",
+              "score": 0.5932,
+              "selected": true
+            },
+            {
+              "id": "comm_020",
+              "summary": "Bu topluluk; yapay zekâ, makine öğrenimi ve bilgisayar bilimi alanlarındaki teknolojik gelişmelerin akademik, kurumsal ve stratejik boyutlarını incele...",
+              "score": 0.579,
+              "selected": true
+            },
+            {
+              "id": "comm_060",
+              "summary": "Bu topluluk, yapay zekâ teknolojilerinin hesaplamalı biyoloji ve protein katlama gibi bilimsel alanlardaki devrim niteliğindeki ilerlemelerini odağına...",
+              "score": 0.5763,
+              "selected": true
+            },
+            {
+              "id": "comm_018",
+              "summary": "Bu topluluk, geniş dil modelleri ve yapay zekâ teknolojilerinin toplumsal etkileri, önyargıları ve güvenliği odaklı kritik tartışmaları temsil etmekte...",
+              "score": 0.5617,
+              "selected": true
+            },
+            {
+              "id": "comm_059",
+              "summary": "Bu topluluk; insan zihni, yapay zeka, bilinç ve hesaplama kuramları arasındaki felsefi ve bilimsel ilişkileri inceleyen eserleri ve yazarları bir aray...",
+              "score": 0.5599,
+              "selected": false
+            },
+            {
+              "id": "comm_069",
+              "summary": "Bu topluluk, yapay zekanın iki önemli bileşeni olan nöral ağlar ile sembolik sistemlerin birleşimini ve bu alandaki güncel yaklaşımları incelemektedir...",
+              "score": 0.558,
+              "selected": false
+            },
+            {
+              "id": "comm_030",
+              "summary": "Bu topluluk, IBM'in geliştirdiği Deep Blue bilgisayarının 1997 yılında dünya satranç şampiyonu Garry Kasparov'u yenmesi üzerinden yapay zekanın doğası...",
+              "score": 0.5577,
+              "selected": false
+            },
+            {
+              "id": "comm_062",
+              "summary": "Bu topluluk, yapay zekâ güvenliğinin alt alanlarından biri olan **\"sağlamlık\"** (özellikle saldırıya karşı direnç) teması etrafında şekillenmektedir. ...",
+              "score": 0.5556,
+              "selected": false
+            },
+            {
+              "id": "comm_061",
+              "summary": "Bu topluluk; yapay zekâ teknolojilerinin hızlı gelişimiyle birlikte ortaya çıkan küresel riskleri, ulusal güvenlik kaygılarını ve bu doğrultuda oluştu...",
+              "score": 0.5555,
+              "selected": false
+            },
+            {
+              "id": "comm_045",
+              "summary": "Bu topluluk, yapay zekânın tarihi gelişimi, Yapay Genel Zekâ (YGZ) arayışları ve bu süreçte öne çıkan öncü araştırmacılar etrafında şekillenmektedir. ...",
+              "score": 0.5529,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "stage": "generation",
+          "status": "done",
+          "duration_ms": 1093,
+          "model": "gemini-3.5-flash-lite",
+          "detail": "Gemini (gemini-3.5-flash-lite) ile yanit uretildi"
+        }
+      ],
+      "total_duration_ms": 6266
+    }
+  ]
+}

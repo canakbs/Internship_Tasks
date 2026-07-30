@@ -1,0 +1,311 @@
+{
+  "id": "conv_92535b8533dd",
+  "title": "Alan Turing'in yapay zekaya olan temel katkıları v...",
+  "created_at": "2026-07-30T14:01:18.625149",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Alan Turing'in yapay zekaya olan temel katkıları ve önerdiği test nedir?",
+      "timestamp": "2026-07-30T14:01:26.223929"
+    },
+    {
+      "role": "assistant",
+      "content": "Alan Turing'in yapay zekâ alanına yaptığı temel katkılar ve önerdiği test, sağlanan bağlam bilgilerine göre şu şekildedir:\n\n### Alan Turing'in Temel Katkıları\n* **Algoritmalar Teorisi:** Turing, \"0\" ve \"1\" gibi basit sembolleri kullanarak bir makinenin, insan aklının gerçekleştirebileceği her türlü matematiksel akıl yürütmeyi simüle edebileceğini öne süren algoritmalar teorisinin temelini atmıştır ([Yapay zekâ](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2)). Bu teori, sibernetik, bilgi teorisi ve nörobiyoloji alanlarındaki keşiflerle birleşerek araştırmacıların \"elektronik bir beyin\" inşa etme olasılığını düşünmesini sağlamıştır ([Yapay zekâ](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2)).\n* **Bilimsel Yayınlar ve Testler:** Turing, 1950 yılında yayımladığı *\"Bilgi İşlem Makineleri ve Zekâ\"* adlı makalesinde makine zekâsının mümkün olduğunu göstermiş ve alanın gelişiminde dönüm noktası olan Turing testini tanıtmıştır ([Yapay zekâ](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2)).\n\n### Turing Testi Nedir?\nAlan Turing, zekayı tanımlama sorununu konuşma üzerine basit bir soruya indirgemiştir ([Yapay zekâ felsefesi](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi)). \n* **Tanımı ve İşleyişi:** Eğer bir makine kendisine sorulan herhangi bir soruyu sıradan bir insanla aynı kelimeleri kullanarak cevaplayabiliyorsa ve çevrimiçi bir sohbet odasında (veya konuşma esnasında) katılımcılardan hangisinin insan olduğunu kimse ayırt edemiyorsa, o makine testi geçer ([Yapay zekâ felsefesi](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi), [Yapay genel zekâ](https://tr.wikipedia.org/wiki/Yapay_genel_zek%C3%A2)).\n* **Amacı ve Yaklaşımı:** Turing, insanların \"insanlar düşünebilir mi?\" sorusu üzerinde sürekli tartışmak yerine kibar bir uzlaşıya sahip olduğunu belirtmiş ve bu kibar kuralı makinelere kadar genişletmiştir: *Bir makine bir insan kadar zekiyse, o zaman bir insan kadar zekidir* ([Yapay zekâ felsefesi](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi)). Yapay genel zekâ bağlamında bu test, zeka için tek başına tam ve yeterli bir ölçüt olmasa da, akıllı bir makinenin geçmesi gereken gerekli bir test olarak kabul edilir ([Yapay genel zekâ](https://tr.wikipedia.org/wiki/Yapay_genel_zek%C3%A2)).\n\n### Kaynakça\n* [Yapay zekâ felsefesi](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi)\n* [Yapay zekâ](https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2)\n* [Yapay genel zekâ](https://tr.wikipedia.org/wiki/Yapay_genel_zek%C3%A2)\n",
+      "timestamp": "2026-07-30T14:01:26.223929",
+      "sources": [
+        {
+          "title": "Yapay zekâ felsefesi",
+          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2_felsefesi",
+          "chunk_id": "chunk_da28828f",
+          "score": 0.8933
+        },
+        {
+          "title": "Yapay zekâ",
+          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
+          "chunk_id": "chunk_9abc60ba",
+          "score": 0.877
+        },
+        {
+          "title": "Yapay genel zekâ",
+          "url": "https://tr.wikipedia.org/wiki/Yapay_genel_zek%C3%A2",
+          "chunk_id": "chunk_d974dc1c",
+          "score": 0.8662
+        }
+      ],
+      "pipeline_stages": [
+        {
+          "stage": "embedding",
+          "status": "done",
+          "duration_ms": 917,
+          "detail": "Soru vektoru uretildi (3072 boyut)"
+        },
+        {
+          "stage": "vector_search",
+          "status": "done",
+          "duration_ms": 1439,
+          "chunks_found": 5,
+          "detail": "5 benzer chunk bulundu",
+          "chunks": [
+            {
+              "chunk_id": "chunk_da28828f",
+              "article_title": "Yapay zekâ felsefesi",
+              "score": 0.8933,
+              "text_preview": " AI araştırmasının yöntemleriyle). Temel öncül lehine argümanlar, böyle bir sistemin mümkün olduğunu göstermelidir.\n=== Zeka ===\n==== Turing test ====\nAlan Turing, zekayı tanımlama sorununu konuşma ha..."
+            },
+            {
+              "chunk_id": "chunk_9abc60ba",
+              "article_title": "Yapay zekâ",
+              "score": 0.877,
+              "text_preview": "emleri, bilgi keşfi (büyük veritabanlarından \"ilginç\" ve eyleme geçirilebilir çıkarımlarda bulunma) gibi birçok alanda kullanılmaktadır.\n== Tarihçe ==\nYapay zekâ tarihi, antik çağlarda, usta zanaatkar..."
+            },
+            {
+              "chunk_id": "chunk_d974dc1c",
+              "article_title": "Yapay genel zekâ",
+              "score": 0.8662,
+              "text_preview": "stemi, robot, evrimsel hesaplama), ancak henüz hiçbiri insan seviyesinde değildir.\n=== Yapay genel zekâ'yı onaylayan testler ===\nTuring testi (Turing)\nİkinci bir insana görünmeden bir makine ve bir in..."
+            },
+            {
+              "chunk_id": "chunk_a0258e19",
+              "article_title": "Yapay zekâ felsefesi",
+              "score": 0.862,
+              "text_preview": "ışmak yerine, herkesin düşündüğü kibar bir uzlaşıma sahip olmak olağandır\" diye yazıyor. Turing'in testi, bu kibar kuralı makinelere kadar genişletir:\nBir makine bir insan kadar zekiyse, o zaman bir i..."
+            },
+            {
+              "chunk_id": "chunk_11b9ad2b",
+              "article_title": "Yapay zekâ felsefesi",
+              "score": 0.8561,
+              "text_preview": "muş gibi davranması önemli değildir.\nÇoğu AI araştırmacısının temel konumu, 1956 Dartmouth Konferansı teklifinde yer alan bu açıklamada özetlenmiştir:\n\"Öğrenmenin her yönü veya zekanın diğer herhangi ..."
+            }
+          ]
+        },
+        {
+          "stage": "graph_expansion",
+          "status": "done",
+          "duration_ms": 311,
+          "triples_found": 28,
+          "detail": "28 graf uclusu genisletildi",
+          "triples": [
+            {
+              "source": "Turing Testi",
+              "relation": "CREATED_BY",
+              "target": "Turing Machines And Semantic Symbol Processing: Why Real Computers Don't Mind Chinese Emperors"
+            },
+            {
+              "source": "Turing Testi",
+              "relation": "CREATED_BY",
+              "target": "Alan Turing"
+            },
+            {
+              "source": "Turing Testi",
+              "relation": "USED_IN",
+              "target": "Yapay Genel Zekâ"
+            },
+            {
+              "source": "Turing Testi",
+              "relation": "USED_IN",
+              "target": "Bilgi İşlem Makineleri Ve Zekâ"
+            },
+            {
+              "source": "Turing Testi",
+              "relation": "DEVELOPED_BY",
+              "target": "Turing Machines And Semantic Symbol Processing: Why Real Computers Don't Mind Chinese Emperors"
+            },
+            {
+              "source": "Algoritmalar Teorisi",
+              "relation": "CREATED_BY",
+              "target": "Alan Turing"
+            },
+            {
+              "source": "Alan Turing",
+              "relation": "RELATED_TO",
+              "target": "Öz Farkındalık"
+            },
+            {
+              "source": "Alan Turing",
+              "relation": "CREATED_BY",
+              "target": "Turing Testi"
+            },
+            {
+              "source": "Alan Turing",
+              "relation": "CREATED_BY",
+              "target": "Yapay Sinir Hücreleri Hesaplama Modeli"
+            },
+            {
+              "source": "Alan Turing",
+              "relation": "CREATED_BY",
+              "target": "Bilgi İşlem Makineleri Ve Zekâ"
+            },
+            {
+              "source": "Alan Turing",
+              "relation": "CREATED_BY",
+              "target": "Algoritmalar Teorisi"
+            },
+            {
+              "source": "Alan Turing",
+              "relation": "OCCURRED_IN",
+              "target": "1950"
+            },
+            {
+              "source": "Walter Pitts",
+              "relation": "CREATED_BY",
+              "target": "Yapay Sinir Hücreleri Hesaplama Modeli"
+            },
+            {
+              "source": "Walter Pitts",
+              "relation": "OCCURRED_IN",
+              "target": "1943"
+            },
+            {
+              "source": "1943",
+              "relation": "OCCURRED_IN",
+              "target": "Warren Mccullouch"
+            },
+            {
+              "source": "1943",
+              "relation": "OCCURRED_IN",
+              "target": "Walter Pitts"
+            },
+            {
+              "source": "1950",
+              "relation": "OCCURRED_IN",
+              "target": "Alan Turing"
+            },
+            {
+              "source": "Kahve Testi",
+              "relation": "DEVELOPED_BY",
+              "target": "Wozniak"
+            },
+            {
+              "source": "Robot Kolej Öğrencisi Testi",
+              "relation": "DEVELOPED_BY",
+              "target": "Goertzel"
+            },
+            {
+              "source": "Görevlendirilme Testi",
+              "relation": "CREATED_BY",
+              "target": "Nilsson"
+            },
+            {
+              "source": "Görevlendirilme Testi",
+              "relation": "DEVELOPED_BY",
+              "target": "Nilsson"
+            },
+            {
+              "source": "Wozniak",
+              "relation": "DEVELOPED_BY",
+              "target": "Kahve Testi"
+            },
+            {
+              "source": "Goertzel",
+              "relation": "DEVELOPED_BY",
+              "target": "Robot Kolej Öğrencisi Testi"
+            },
+            {
+              "source": "Nilsson",
+              "relation": "CREATED_BY",
+              "target": "Görevlendirilme Testi"
+            },
+            {
+              "source": "Nilsson",
+              "relation": "DEVELOPED_BY",
+              "target": "Görevlendirilme Testi"
+            },
+            {
+              "source": "Stuart J. Russell",
+              "relation": "CREATED_BY",
+              "target": "İnsan Uyumlu Yapay Zekâ Merkezi"
+            },
+            {
+              "source": "Stuart J. Russell",
+              "relation": "PARTICIPATED_IN",
+              "target": "Ai"
+            },
+            {
+              "source": "Stuart J. Russell",
+              "relation": "RESEARCHED_BY",
+              "target": "Yapay Zekâ Tarihi"
+            }
+          ]
+        },
+        {
+          "stage": "community_selection",
+          "status": "done",
+          "duration_ms": 2199,
+          "communities_evaluated": 78,
+          "selected": 4,
+          "detail": "78 topluluk degerlendirildi, 4 secildi",
+          "communities": [
+            {
+              "id": "comm_014",
+              "summary": "Bu topluluk, yapay genel zekânın (YGZ) insan seviyesindeki zekâ ve becerilerini ölçmek için geliştirilen teorik değerlendirme testlerini ve bu alandak...",
+              "score": 0.7395,
+              "selected": true
+            },
+            {
+              "id": "comm_011",
+              "summary": "Bu topluluk; Alan Turing'in öncülük ettiği kuramsal temellerden günümüzdeki gelişmiş dil modelleri, sesli asistanlar ve chatbot'lara kadar uzanan **Ya...",
+              "score": 0.7322,
+              "selected": true
+            },
+            {
+              "id": "comm_013",
+              "summary": "Bu topluluk, makinelerin insan seviyesinde bir zekaya ulaştığını kanıtlamak için geliştirilen **Yapay Genel Zekâ (AGI) testlerini** konu almaktadır. W...",
+              "score": 0.7186,
+              "selected": true
+            },
+            {
+              "id": "comm_015",
+              "summary": "Bu topluluk, yapay genel zekânın (YGZ) insan benzeri zekâ seviyesine ulaşıp ulaşmadığını ve yetkinliğini ölçmek için geliştirilen değerlendirme kriter...",
+              "score": 0.6982,
+              "selected": true
+            },
+            {
+              "id": "comm_042",
+              "summary": "Bu topluluk, makinelerin insan düzeyinde zeka ve beceri gerektiren karmaşık fiziksel veya akademik görevleri yerine getirme yeteneğini ölçen yapay gen...",
+              "score": 0.673,
+              "selected": false
+            },
+            {
+              "id": "comm_044",
+              "summary": "Bu topluluk; insan zihni, bilişsel bilim, zeka ve hesaplama kuramları ekseninde yapay zekanın doğasını ve sınırlarını incelemektedir. Douglas Hofstadt...",
+              "score": 0.6721,
+              "selected": false
+            },
+            {
+              "id": "comm_058",
+              "summary": "Bu topluluk; insan zihni, yapay zeka, makinelerin bilişsel kapasitesi ve bilinç gibi kavramlar etrafında şekillenen transhumanizm ve felsefi yapay zek...",
+              "score": 0.6675,
+              "selected": false
+            },
+            {
+              "id": "comm_030",
+              "summary": "Bu topluluk, IBM'in geliştirdiği Deep Blue bilgisayarının 1997 yılında dünya satranç şampiyonu Garry Kasparov'u yenmesi üzerinden yapay zekanın doğası...",
+              "score": 0.6675,
+              "selected": false
+            },
+            {
+              "id": "comm_012",
+              "summary": "Bu topluluk, Allen Newell ve Herbert A. Simon öncülüğünde gelişen, insan zekasının ve problem çözme süreçlerinin bilgisayar ortamında sembol manipülas...",
+              "score": 0.6598,
+              "selected": false
+            },
+            {
+              "id": "comm_057",
+              "summary": "Bu topluluk; zeka kavramının IQ ölçümlerinden yapay zeka ve yapay beyinlere evrilme sürecini, insan zihni ile makinelerin ilişkisi bağlamında ele alma...",
+              "score": 0.6579,
+              "selected": false
+            }
+          ]
+        },
+        {
+          "stage": "generation",
+          "status": "done",
+          "duration_ms": 2371,
+          "model": "gemini-3.5-flash-lite",
+          "detail": "Gemini (gemini-3.5-flash-lite) ile yanit uretildi"
+        }
+      ],
+      "total_duration_ms": 7285
+    }
+  ]
+}

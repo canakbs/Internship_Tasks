@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GraphRAG — Akilli Bilgi Grafigi Sorgulama</title>
+    <meta name="description" content="Wikipedia + Neo4j + Gemini ile GraphRAG sistemi. Bilgi grafigi uzerinden akilli sorgulama yapin.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <!-- Header Bar -->
+    <header class="header" id="header">
+        <div class="header-left">
+            <button class="sidebar-toggle" id="sidebar-toggle" onclick="toggleSidebar()" title="Sohbetler">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M3 12h18M3 6h18M3 18h18"/>
+                </svg>
+            </button>
+            <div class="logo">
+                <div class="logo-icon">
+                    <svg width="28" height="28" viewBox="0 0 28 28" fill="none">
+                        <circle cx="14" cy="14" r="12" stroke="url(#grad1)" stroke-width="2.5" fill="none"/>
+                        <circle cx="14" cy="8" r="2.5" fill="#7c3aed"/>
+                        <circle cx="8" cy="18" r="2.5" fill="#3b82f6"/>
+                        <circle cx="20" cy="18" r="2.5" fill="#06b6d4"/>
+                        <line x1="14" y1="8" x2="8" y2="18" stroke="#7c3aed" stroke-width="1.5" opacity="0.6"/>
+                        <line x1="14" y1="8" x2="20" y2="18" stroke="#3b82f6" stroke-width="1.5" opacity="0.6"/>
+                        <line x1="8" y1="18" x2="20" y2="18" stroke="#06b6d4" stroke-width="1.5" opacity="0.6"/>
+                        <defs><linearGradient id="grad1" x1="0" y1="0" x2="28" y2="28">
+                            <stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#3b82f6"/>
+                        </linearGradient></defs>
+                    </svg>
+                </div>
+                <div class="logo-text">
+                    <h1>GraphRAG</h1>
+                    <span class="logo-subtitle">KNOWLEDGE GRAPH INTELLIGENCE</span>
+                </div>
+            </div>
+        </div>
+        <div class="header-stats" id="header-stats">
+            <div class="stat-card"><div class="stat-icon">&#129513;</div><div class="stat-info"><span class="stat-value" id="stat-entities-val">-</span><span class="stat-label">ENTITY</span></div></div>
+            <div class="stat-card"><div class="stat-icon">&#128196;</div><div class="stat-info"><span class="stat-value" id="stat-chunks-val">-</span><span class="stat-label">CHUNK</span></div></div>
+            <div class="stat-card"><div class="stat-icon">&#127760;</div><div class="stat-info"><span class="stat-value" id="stat-communities-val">-</span><span class="stat-label">TOPLULUK</span></div></div>
+            <div class="stat-card"><div class="stat-icon">&#128279;</div><div class="stat-info"><span class="stat-value" id="stat-relations-val">-</span><span class="stat-label">İLİŞKİ</span></div></div>
+            <div class="stat-card"><div class="stat-icon">&#128218;</div><div class="stat-info"><span class="stat-value" id="stat-documents-val">-</span><span class="stat-label">MAKALE</span></div></div>
+        </div>
+    </header>
+
+    <!-- Main Content (3 columns) -->
+    <main class="main-content">
+        <!-- LEFT: Conversations Sidebar -->
+        <aside class="conversations-sidebar" id="conversations-sidebar">
+            <div class="sidebar-header">
+                <h2>Sohbetler</h2>
+                <button class="new-chat-btn" id="new-chat-btn" onclick="createNewConversation()" title="Yeni Sohbet">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 5v14M5 12h14"/>
+                    </svg>
+                </button>
+            </div>
+            <div class="conversations-list" id="conversations-list">
+                <!-- JS ile doldurulacak -->
+            </div>
+        </aside>
+
+        <!-- CENTER: Chat -->
+        <section class="chat-panel" id="chat-panel">
+            <!-- Welcome Screen -->
+            <div class="welcome-screen" id="welcome-screen">
+                <div class="welcome-icon">
+                    <svg width="64" height="64" viewBox="0 0 64 64" fill="none">
+                        <circle cx="32" cy="32" r="28" stroke="url(#grad2)" stroke-width="3" fill="none" opacity="0.3"/>
+                        <circle cx="32" cy="32" r="20" stroke="url(#grad2)" stroke-width="2" fill="none" opacity="0.5"/>
+                        <circle cx="32" cy="18" r="4" fill="#7c3aed"/>
+                        <circle cx="18" cy="40" r="4" fill="#3b82f6"/>
+                        <circle cx="46" cy="40" r="4" fill="#06b6d4"/>
+                        <circle cx="32" cy="32" r="3" fill="#a855f7"/>
+                        <line x1="32" y1="18" x2="18" y2="40" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+                        <line x1="32" y1="18" x2="46" y2="40" stroke="#3b82f6" stroke-width="1.5" opacity="0.5"/>
+                        <line x1="18" y1="40" x2="46" y2="40" stroke="#06b6d4" stroke-width="1.5" opacity="0.5"/>
+                        <line x1="32" y1="32" x2="32" y2="18" stroke="#a855f7" stroke-width="1" opacity="0.4"/>
+                        <line x1="32" y1="32" x2="18" y2="40" stroke="#a855f7" stroke-width="1" opacity="0.4"/>
+                        <line x1="32" y1="32" x2="46" y2="40" stroke="#a855f7" stroke-width="1" opacity="0.4"/>
+                        <defs><linearGradient id="grad2" x1="0" y1="0" x2="64" y2="64">
+                            <stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#06b6d4"/>
+                        </linearGradient></defs>
+                    </svg>
+                </div>
+                <h2>Bilgi Grafigine Sorunuzu Sorun</h2>
+                <p>Wikipedia verilerinden olusturulmus bilgi grafigi uzerinden yerel ve kuresel baglami birlestirerek sorularinizi yanitlar.</p>
+                <div class="suggestion-chips" id="suggestion-chips">
+                    <button class="chip" onclick="askSuggestion(this)">Yapay zekanin tarihsel gelisimi nasil olmustur?</button>
+                    <button class="chip" onclick="askSuggestion(this)">Alan Turing'in yapay zekaya katkilari nelerdir?</button>
+                    <button class="chip" onclick="askSuggestion(this)">Derin ogrenme ve sinir aglari arasindaki iliski nedir?</button>
+                    <button class="chip" onclick="askSuggestion(this)">Yapay zekanin alt dallari ve uygulama alanlari nelerdir?</button>
+                </div>
+            </div>
+
+            <!-- Chat Messages -->
+            <div class="chat-messages" id="chat-messages"></div>
+
+            <!-- Input Area -->
+            <div class="input-area" id="input-area">
+                <div class="input-wrapper">
+                    <textarea id="query-input" placeholder="Bilgi grafigine bir soru sorun..." rows="1" autocomplete="off"></textarea>
+                    <button id="send-btn" onclick="sendQuery()" title="Gonder">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M22 2L11 13M22 2L15 22L11 13M22 2L2 9L11 13"/>
+                        </svg>
+                    </button>
+                </div>
+                <div class="input-hint">
+                    <span>Enter ile gonder</span>
+                    <span class="separator">&#8226;</span>
+                    <span>Shift+Enter ile satir atla</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- RIGHT: Pipeline & Sources -->
+        <aside class="side-panel" id="side-panel">
+            <div class="side-panel-empty" id="side-panel-empty">
+                <div class="empty-icon">&#9889;</div>
+                <p>Bir soru sordugunuzda RAG pipeline asamalari ve kaynaklar burada gorunecektir.</p>
+            </div>
+
+            <div class="pipeline-section" id="pipeline-section" style="display:none;">
+                <div class="section-header">
+                    <h3>RAG Pipeline Asamalari</h3>
+                    <span class="total-time" id="total-time"></span>
+                </div>
+                <div class="pipeline-timeline" id="pipeline-timeline"></div>
+            </div>
+
+            <div class="sources-section" id="sources-section" style="display:none;">
+                <div class="section-header"><h3>Kaynaklar</h3></div>
+                <div class="sources-list" id="sources-list"></div>
+            </div>
+        </aside>
+    </main>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
