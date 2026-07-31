@@ -14,6 +14,9 @@ gfr.txt
 # Data Visualization Task specific excludes
 Data Visualization Task/VERİ GÖRSELLEŞTİRME PROJE ADIMLARI.pdf
 
+# SQL Task specific excludes
+SQL Task/Pandas-SQL.docx
+
 # GraphRAG Task specific excludes
 GraphRAG Task/.env
 GraphRAG Task/__pycache__/

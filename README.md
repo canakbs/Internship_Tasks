@@ -26,15 +26,18 @@ Türkçe Wikipedia makalelerinden bilgi grafiği (Knowledge Graph) ve vektör in
 
 ---
 
-## 🛠️ Kurulum ve Çalıştırma
+## 🛠️ Proje Genel Genel Bakışı ve İçerik Yapısı
 
-Bu depodaki görevler bağımsız çalışma alanları (dizinler) şeklinde yapılandırılmıştır. Her bir projenin kendine has araçları, bağımlılıkları ve çalıştırma yöntemleri mevcuttur:
+Bu depodaki görevler bağımsız çalışma alanları (dizinler) şeklinde yapılandırılmıştır. Her bir klasör ilgili göreve ait veri setlerini, kaynak kodları, analiz notebook'larını ve detaylı teknik raporları barındırmaktadır:
 
-- **GraphRAG Task (Flask Web & Pipeline)**:
-  1. `GraphRAG Task` dizinine gidin.
-  2. Gerekli kütüphaneleri yükleyin: `pip install -r requirements.txt`
-  3. `.env.example` dosyasından bir `.env` dosyası oluşturup API ve veri tabanı kimlik bilgilerinizi girin.
-  4. Web arayüzünü başlatmak için `python app.py` komutunu çalıştırıp tarayıcınızdan `http://localhost:5000` adresine gidin. Detaylı bilgi için [GraphRAG README](file:///GraphRAG%20Task/README.md) dosyasını inceleyebilirsiniz.
-  
-- **Veri Analizi ve Veri Tabanı Görevleri (Jupyter Notebooks)**:
-  * **5 ML Projects**, **Data Visualization Task** ve **SQL Task** dizinlerindeki Jupyter Notebook (`.ipynb`) dosyalarını ve analiz raporlarını incelemek ya da çalıştırmak için bilgisayarınızda Jupyter Notebook / JupyterLab ortamının veya VS Code Jupyter eklentisinin kurulu olması gerekmektedir. İlgili dizinlerdeki notebook dosyalarını açarak hücreleri sırayla çalıştırabilirsiniz.
+* **[5 ML Projects](./5%20ML%20Projects)**: 
+  Sınıflandırma, Kümeleme, Regresyon, Birliktelik Kuralları Çıkarımı ve Anomali Tespiti olmak üzere 5 temel ML projesine ait Python (Jupyter Notebook) ve Knime çalışma dosyaları ile analiz sonuç raporlarını içerir.
+
+* **[Data Visualization Task](./Data%20Visualization%20Task)**: 
+  Kuş göçü veri seti üzerinden gerçekleştirilen zaman serisi ve mekânsal veri görselleştirme adımlarını, grafik çıktılarını ve görselleştirme adımlarını açıklayan teknik raporu kapsar.
+
+* **[SQL Task](./SQL%20Task)**: 
+  SQLite Sakila örnek veri tabanı mimarisi üzerinde yürütülen Karmaşık SQL sorgulamaları ve Python Pandas kütüphanesi ile DataFrame veri işleme adımlarını (Notebook & PDF çıktıları) sunar.
+
+* **[GraphRAG Task](./GraphRAG%20Task)**: 
+  Türkçe Wikipedia verileriyle Knowledge Graph (Neo4j) ve Vektör Veri Tabanı entegrasyonu kuran, Google Gemini destekli yerel/küresel hibrit arama mekanizmasına sahip Flask tabanlı GraphRAG uygulamasını barındırır. Detaylı teknik mimari ve test sonuçları için [GraphRAG Raporu](./GraphRAG%20Task/GRAPHRAG_REPORT.md) dosyasını inceleyebilirsiniz.
