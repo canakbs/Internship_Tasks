@@ -40,4 +40,4 @@ Bu depodaki görevler bağımsız çalışma alanları (dizinler) şeklinde yap�
   SQLite Sakila örnek veri tabanı mimarisi üzerinde yürütülen Karmaşık SQL sorgulamaları ve Python Pandas kütüphanesi ile DataFrame veri işleme adımlarını (Notebook & PDF çıktıları) sunar.
 
 * **[GraphRAG Task](./GraphRAG%20Task)**: 
-  Türkçe Wikipedia verileriyle Knowledge Graph (Neo4j) ve Vektör Veri Tabanı entegrasyonu kuran, Google Gemini destekli yerel/küresel hibrit arama mekanizmasına sahip Flask tabanlı GraphRAG uygulamasını barındırır. Detaylı teknik mimari ve test sonuçları için [GraphRAG Raporu](./GraphRAG%20Task/GRAPHRAG_REPORT.md) dosyasını inceleyebilirsiniz.
+  Türkçe Wikipedia verileriyle Knowledge Graph (Neo4j) ve Vektör Veri Tabanı entegrasyonu kuran, Google Gemini destekli yerel/küresel hibrit arama mekanizmasına sahip Flask tabanlı GraphRAG uygulamasını barındırır. Detaylı teknik mimari, veri işleme adımları, test bulguları ve proje açıklamaları için [GraphRAG Rapor.pdf](./GraphRAG%20Task/GraphRAG%20Rapor.pdf) dosyasını inceleyebilirsiniz.

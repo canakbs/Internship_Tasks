@@ -2,7 +2,7 @@
 
 Bu proje, Türkçe Wikipedia makalelerinden bilgi grafiği (Knowledge Graph) ve vektör indeksleri oluşturup bunları Neo4j üzerinde saklayan, Google Gemini API desteğiyle hem yerel (spesifik varlıklar ve doğrudan ilişkiler) hem küresel (genel tema ve korpus özeti) sorulara yanıt verebilen, modern bir **Flask Web Arayüzü** ile desteklenmiş GraphRAG sistemidir.
 
-📑 **Detaylı Teknik Rapor:** Projenin detaylı mimarisi, veri işleme aşamaları, algoritma adımları, veri tabanı şeması ve test bulguları [GRAPHRAG_REPORT.md](./GRAPHRAG_REPORT.md) dosyasında kapsamlı olarak sunulmuştur.
+📑 **Detaylı Teknik Rapor:** Projenin detaylı mimarisi, veri işleme aşamaları, algoritma adımları, veri tabanı şeması ve test bulguları [GraphRAG Rapor.pdf](./GraphRAG%20Rapor.pdf) dosyasında kapsamlı olarak sunulmuştur.
 
 ---
 
@@ -40,7 +40,7 @@ Gereksinimler yüklendikten ve `.env` yapılandırması sağlandıktan sonra pro
 
 ```
 GraphRAG Task/
-├── GRAPHRAG_REPORT.md              -> Detaylı proje raporu ve teknik analizler
+├── GraphRAG Rapor.pdf              -> Detaylı proje raporu ve teknik analizler
 ├── README.md                       -> Proje özeti ve temel bilgilendirme
 ├── requirements.txt                -> Python kütüphane bağımlılıkları
 ├── .env.example                    -> Örnek ortam değişkenleri şablonu
