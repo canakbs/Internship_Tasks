@@ -1,7 +1,7 @@
 """
-GraphRAG Flask Web Uygulamasi
-Wikipedia + Neo4j + Gemini ile GraphRAG Sistemi Web Arayuzu
-SSE Streaming + Sohbet Bellegi destekli
+GraphRAG Flask Web Uygulaması
+Wikipedia + Neo4j + Gemini ile GraphRAG Sistemi Web Arayüzü
+SSE Streaming + Sohbet Belleği destekli
 """
 import json
 import logging

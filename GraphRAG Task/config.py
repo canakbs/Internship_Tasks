@@ -17,7 +17,7 @@ CHUNKS_FILE = DATA_DIR / "chunks.json"
 EXTRACTED_FILE = DATA_DIR / "extracted.json"
 RESOLVED_GRAPH_FILE = DATA_DIR / "resolved_graph.json"
 
-# Konfigürasyon ve Varsayılan Değerler
+# Pipeline Konfigürasyonu ve Varsayılan Değerler
 DEFAULT_TOPIC = "Yapay Zeka"
 DEFAULT_ARTICLES_COUNT = 15
 

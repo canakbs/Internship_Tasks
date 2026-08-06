@@ -1,6 +1,6 @@
 # Wikipedia + Neo4j + Gemini ile Flask Tabanlı GraphRAG
 
-Bu proje, Türkçe Wikipedia makalelerinden bilgi grafiği (Knowledge Graph) ve vektör indeksleri oluşturup bunları Neo4j üzerinde saklayan, Google Gemini API desteğiyle hem yerel (spesifik varlıklar ve doğrudan ilişkiler) hem küresel (genel tema ve korpus özeti) sorulara yanıt verebilen, modern bir **Flask Web Arayüzü** ile desteklenmiş GraphRAG sistemidir.
+Bu proje, Türkçe Wikipedia makalelerinden bilgi grafiği (Knowledge Graph) ve vektör indeksleri oluşturup bunları Neo4j üzerinde saklayan, Google Gemini API desteğiyle hem yerel (spesifik varlıklar ve doğrudan ilişkiler) hem de küresel (genel tema ve korpus özeti) sorulara yanıt verebilen, modern bir **Flask Web Arayüzü** ile desteklenmiş GraphRAG sistemidir.
 
 📑 **Detaylı Teknik Rapor:** Projenin detaylı mimarisi, veri işleme aşamaları, algoritma adımları, veri tabanı şeması ve test bulguları [GraphRAG Rapor.pdf](./GraphRAG%20Rapor.pdf) dosyasında kapsamlı olarak sunulmuştur.
 
