@@ -1,43 +1,48 @@
-# Internship Tasks (Staj Görevleri)
+# Internship Tasks
 
-Bu depo, staj sürecim boyunca tamamladığım veri bilimi, veri görselleştirme, SQL ve GraphRAG tabanlı projeleri ve görevleri içermektedir.
-
----
-
-## 📂 Depo İçeriği ve Görevler
-
-### 1. 5 ML Projects (5 ML Projesi)
-Bu bölüm 5 farklı makine öğrenmesi problemini ve bunların Knime & Python (Jupyter Notebook) çözümlerini içerir:
-- **Proje 1: Classification (Sınıflandırma)**
-  - *Not:* Bu projenin veri seti çok büyük olduğu için oluşturulan Knime iş akışı dosyası (`5 ML Project 1 Classification.knwf`, ~1.75 GB) GitHub dosya boyutu limitlerinden ötürü depoya eklenmemiş, yerel olarak tutulmuştur. Ancak sınıflandırma modeli başarıyla eğitilmiş ve Python/Knime raporları klasör altında sunulmuştur.
-- **Proje 2: Clustering (Kümeleme)**
-- **Proje 3: Regression (Regresyon)**
-- **Proje 4: Association Rule Mining (Birliktelik Kuralları Çıkarımı)**
-- **Proje 5: Anomaly Detection (Anomali Tespiti)**
-
-### 2. Data Visualization Task (Veri Görselleştirme Görevi)
-Kuş göçü veri seti (`bird_migration_data.csv`) üzerinde gerçekleştirilen veri analizini, görselleştirme adımlarını (Knime ve Python kullanarak) ve bu analizlere ait detaylı raporları içerir.
-
-### 3. SQL Task (SQL Görevi)
-SQLite Sakila veri tabanı üzerinde SQL sorguları ve Python Pandas kütüphanesi kullanılarak gerçekleştirilen veri işleme (DataFrame işlemleri) adımlarını ve notebook dosyalarını içerir.
-
-### 4. GraphRAG Task (GraphRAG Görevi)
-Türkçe Wikipedia makalelerinden bilgi grafiği (Knowledge Graph) ve vektör indeksleri oluşturup bunları Neo4j üzerinde saklayan, Google Gemini API desteğiyle hem yerel hem küresel sorulara yanıt verebilen, gelişmiş bir **Flask Web ve terminal tabanlı GraphRAG** sistemidir.
+This repository contains the **data science**, **data visualization**, **SQL**, and **GraphRAG**-based projects and tasks I completed during my internship.
 
 ---
 
-## 🛠️ Proje Genel Genel Bakışı ve İçerik Yapısı
+## 📂 Repository Content and Tasks
 
-Bu depodaki görevler bağımsız çalışma alanları (dizinler) şeklinde yapılandırılmıştır. Her bir klasör ilgili göreve ait veri setlerini, kaynak kodları, analiz notebook'larını ve detaylı teknik raporları barındırmaktadır:
+### 1. 5 ML Projects
 
-* **[5 ML Projects](./5%20ML%20Projects)**: 
-  Sınıflandırma, Kümeleme, Regresyon, Birliktelik Kuralları Çıkarımı ve Anomali Tespiti olmak üzere 5 temel ML projesine ait Python (Jupyter Notebook) ve Knime çalışma dosyaları ile analiz sonuç raporlarını içerir.
+This section covers **5 different machine learning problems** with their **Knime & Python (Jupyter Notebook)** solutions:
 
-* **[Data Visualization Task](./Data%20Visualization%20Task)**: 
-  Kuş göçü veri seti üzerinden gerçekleştirilen zaman serisi ve mekânsal veri görselleştirme adımlarını, grafik çıktılarını ve görselleştirme adımlarını açıklayan teknik raporu kapsar.
+- **Project 1: Classification**
+  - *Note:* The dataset for this project was too large, so the generated Knime workflow file (`5 ML Project 1 Classification.knwf`, ~1.75 GB) could not be added to the repository due to GitHub file size limits and is kept locally. However, the classification model was **trained successfully**, and the Python/Knime reports are included in the folder.
+- **Project 2: Clustering**
+- **Project 3: Regression**
+- **Project 4: Association Rule Mining**
+- **Project 5: Anomaly Detection**
 
-* **[SQL Task](./SQL%20Task)**: 
-  SQLite Sakila örnek veri tabanı mimarisi üzerinde yürütülen Karmaşık SQL sorgulamaları ve Python Pandas kütüphanesi ile DataFrame veri işleme adımlarını (Notebook & PDF çıktıları) sunar.
+### 2. Data Visualization Task
 
-* **[GraphRAG Task](./GraphRAG%20Task)**: 
-  Türkçe Wikipedia verileriyle Knowledge Graph (Neo4j) ve Vektör Veri Tabanı entegrasyonu kuran, Google Gemini destekli yerel/küresel hibrit arama mekanizmasına sahip Flask tabanlı GraphRAG uygulamasını barındırır. Detaylı teknik mimari, veri işleme adımları, test bulguları ve proje açıklamaları için [GraphRAG Rapor.pdf](./GraphRAG%20Task/GraphRAG%20Rapor.pdf) dosyasını inceleyebilirsiniz.
+Includes the data analysis performed on the **bird migration dataset** (`bird_migration_data.csv`), the visualization steps (using **Knime** and **Python**), and detailed reports of these analyses.
+
+### 3. SQL Task
+
+Includes **SQL queries** on the **SQLite Sakila** database and data processing steps (DataFrame operations) performed using the **Python Pandas** library, along with notebook files.
+
+### 4. GraphRAG Task
+
+An advanced **Flask web and terminal-based GraphRAG** system that builds a **knowledge graph** and **vector indexes** from **Turkish Wikipedia** articles, stores them in **Neo4j**, and answers both **local** and **global** questions with **Google Gemini API** support.
+
+---
+
+## 🛠️ General Overview and Content Structure
+
+The tasks in this repository are organized as **independent workspaces (directories)**. Each folder contains the **datasets**, **source code**, **analysis notebooks**, and **detailed technical reports** for its task:
+
+* **[5 ML Projects](./5%20ML%20Projects)**:
+  Contains **Python (Jupyter Notebook)** and **Knime** workflow files along with analysis result reports for 5 core ML projects: **Classification, Clustering, Regression, Association Rule Mining, and Anomaly Detection**.
+
+* **[Data Visualization Task](./Data%20Visualization%20Task)**:
+  Covers **time series** and **spatial data visualization** steps on the bird migration dataset, chart outputs, and a technical report explaining the visualization steps.
+
+* **[SQL Task](./SQL%20Task)**:
+  Presents **complex SQL queries** on the SQLite Sakila sample database schema and **DataFrame** data processing steps with **Python Pandas** (notebook & PDF outputs).
+
+* **[GraphRAG Task](./GraphRAG%20Task)**:
+  Contains a **Flask-based GraphRAG** application that builds a **Knowledge Graph (Neo4j)** and **vector database** integration from Turkish Wikipedia data, with a **Google Gemini-powered local/global hybrid search** mechanism. For detailed technical architecture, data processing steps, test findings, and project documentation, see the [GraphRAG Rapor.pdf](./GraphRAG%20Task/GraphRAG%20Rapor.pdf) file.
